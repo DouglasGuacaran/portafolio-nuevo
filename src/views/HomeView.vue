@@ -779,9 +779,9 @@ export default {
 }
 
 .card span {
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 400;
-  margin: 20px;
+  margin: 5px;
   text-align: center;
 }
 
@@ -801,7 +801,12 @@ export default {
   .about-cards {
     flex-direction: row;
   }
+  .card span {
+    font-size: 16px;
+    margin: 20px
+  }
 }
+
 .portfolio {
   text-align: center;
   padding-top: 60px;
@@ -842,6 +847,7 @@ export default {
   background-color: rgba(#000, 0);
   transition: 0.3s;
 }
+
 
 .portfolio-card__btn img {
   width: 90%;
@@ -967,7 +973,7 @@ export default {
   margin: 10px;
   color: #ffffff;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .studies-bottom-container h3 {
@@ -977,35 +983,35 @@ export default {
 }
 
 .studies-bottom-img {
-  margin: 4px;
-  width: 20%;
+  width: 28%;
   border-radius: 50%;
   transition: 0.2s;
 }
 
-.studies-bottom-img:hover {
-  transform: scale(1.5);
-}
 
 @media screen and (min-width: 769px) {
   .studies-bottom-container {
     width: 80%;
   }
-
+  
   .studies-bottom-img {
     margin: 4px;
     max-width: 90px;
     border-radius: 50%;
   }
 
+  .studies-bottom-img:hover {
+    transform: scale(1.5);
+  }
+  
   .studies-bottom-main-content h2 {
     font-size: 32px;
   }
 }
 
-@media screen and (min-width: 501px) {
+@media screen and (min-width: 501px) and (max-width:768) {
   .studies-bottom-main-content h2 {
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 .studies-bottom-parraph {
@@ -1038,8 +1044,8 @@ export default {
 
 .experience-main {
   text-align: start;
-  margin: 25px;
-  padding-top: 60px;
+  margin: 15px;
+  padding-top: 20px;
   height: auto;
   background-color: #ffffff;
 }
@@ -1070,7 +1076,10 @@ export default {
  }
 
 @media screen and (max-width: 769px) {
-
+  .experience-main {
+    padding-top:60px;
+    margin:25px;
+  }
   .contact-main-col{
     width: 90%;
   }
