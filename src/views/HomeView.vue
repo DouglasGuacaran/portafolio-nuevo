@@ -3,9 +3,7 @@
     <div class="section1" id="section1">
       <h1 class="text-title">Profesor de Física, especialista en Protección Radiológica y Desarrollador Tech Developer</h1>
       <span class="text-subtitle"
-        >He desarrollado mi carrera en tecnologías para el manejo de bases de
-        Datos como tales como PostgresSQL, MySQL y frameworks para el manejo
-        FrontEnd como VueJs, React, Django y Java.</span
+        >Nunca he querido atarme a un solo camino o carrera, y este sitio muestra las diversas aventuras que he tenido. Hago muchas cosas diferentes, pero cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y concentración. Tómate el tiempo para explorar mis escritos, imágenes, muestras de trabajo y más. Espero que lo encuentres interesante y que haga surgir algo dentro de ti.</span
       >
     </div>
     <div class="about" id="about">
