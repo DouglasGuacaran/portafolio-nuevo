@@ -938,7 +938,7 @@ export default {
 }
 
 .studies-bottom-main {
-  height: 400px;
+  height: auto;
   opacity: 0.96;
   background-image: url("../assets/Ajedrez.jpg");
   background-position: center;
