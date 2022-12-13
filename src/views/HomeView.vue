@@ -702,13 +702,13 @@ export default {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 26px;
-  color: #ffffff;
+  color: #000000;
 }
 .text-subtitle {
   width: 60%;
   font-family: "Varela Round" !important;
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-family: Varela;
   font-size: 16px;
 }
