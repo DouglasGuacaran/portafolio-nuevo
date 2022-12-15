@@ -1,10 +1,12 @@
 <template>
-  <div class="body">
+  <div class="flex body">
     <div class="section1" id="section1">
-      <h1 class="text-title">Profesor de Física, especialista en Protección Radiológica y Desarrollador Tech Developer</h1>
-      <span class="text-subtitle"
-        >Nunca he querido atarme a un solo camino o carrera, y este sitio muestra las diversas aventuras que he tenido. Hago muchas cosas diferentes, pero cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y concentración. Tómate el tiempo para explorar mis escritos, imágenes, muestras de trabajo y más. Espero que lo encuentres interesante y que haga surgir algo dentro de ti.</span
-      >
+      <div class="section1-blur">
+        <h1 class="flex text-title">Profesor de Física, especialista en Protección Radiológica y Desarrollador Tech Developer</h1>
+        <span class="text-subtitle"
+          >Nunca he querido atarme a un solo camino o carrera, y este sitio muestra las diversas aventuras que he tenido. Hago muchas cosas diferentes, pero cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y concentración. Tómate el tiempo para explorar mis escritos, imágenes, muestras de trabajo y más. Espero que lo encuentres interesante y que haga surgir algo dentro de ti.</span
+        >
+      </div>
     </div>
     <div class="about" id="about">
       <h2>Acerca De</h2>
@@ -640,6 +642,22 @@
         </div>
       </div>
       <div class="contact-form">
+        <form action="#" method="POST">
+        <div class="form-group">
+          <label for="exampleInputEmail1">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+        <div class="form-group">
+          <label for="exampleInputPassword1">Password</label>
+          <input type="password" class="form-control" id="exampleInputPassword1">
+        </div>
+        <div class="form-group form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Check me out</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCmbfwIVpUwuNA8AeAd1AGVKpgdugJTfSk0BMWlAoaAHefVQ/viewform?embedded=true" width="640" height="1109" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
       </div>
     </div>
@@ -696,8 +714,12 @@ export default {
   font-size: 16px;
 }
 
+.flex {
+  display: flex;
+}
+
 .text-title {
-  padding-top: 290px;
+  padding-top: 50px;
   text-align: center;
   text-transform: uppercase;
   font-weight: 700;
@@ -721,30 +743,37 @@ export default {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 75px;
+  padding-top: 50px;
+}
+
+.section1-blur {
+  text-align: center;
+  backdrop-filter: blur(1.5px);
+
 }
 
 .contact-form iframe {
-
   width: 335px;
 }
 
 @media screen and (min-width: 769px) {
-  .text-subtitle {
-    width: 70%;
-  }
   .text-title {
-    width: 63vw;
-    padding-top:250px;
+    padding-top:15px;
+    width: auto;
     font-size: 32px;
   }
+  
+  .section1-blur {
+    width: 100%;
+    margin-top: 200px;
+  }
+
   .contact-form iframe {
     width: 700px;
   }
 }
 
 .body {
-  display: flex;
   flex-direction: column;
 }
 
