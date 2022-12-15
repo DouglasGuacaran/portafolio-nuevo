@@ -727,7 +727,6 @@ export default {
   color: #000000;
 }
 .text-subtitle {
-  width: 60%;
   font-family: "Varela Round" !important;
   text-align: center;
   color: #000000;
@@ -748,7 +747,10 @@ export default {
 
 .section1-blur {
   text-align: center;
-  backdrop-filter: blur(1.5px);
+  backdrop-filter: blur(2.5px);
+  background-color: hsla(0, 0%, 100%, 0.748);
+  border-radius: 15px;
+  padding: 10px;
 
 }
 
@@ -758,14 +760,21 @@ export default {
 
 @media screen and (min-width: 769px) {
   .text-title {
+    text-align: center;
+    justify-content: center;
     padding-top:15px;
     width: auto;
+    text-align: center;
     font-size: 32px;
   }
-  
+  .text-subtitle{
+    text-align: center;
+    color:#555;
+  }
+
   .section1-blur {
-    width: 100%;
-    margin-top: 200px;
+    width: 72%;
+    margin: 200px 30px 10px 30px;
   }
 
   .contact-form iframe {
