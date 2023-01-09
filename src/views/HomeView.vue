@@ -2,9 +2,9 @@
   <div class="flex body">
     <div class="section1" id="section1">
       <div class="section1-blur">
-        <h1 class="flex text-title">Profesor de Física, especialista en Protección Radiológica y Desarrollador Tech Developer</h1>
+        <h1 class="flex text-title">Douglas Guacarán</h1>
         <span class="text-subtitle"
-          >Nunca he querido atarme a un solo camino o carrera, y este sitio muestra las diversas aventuras que he tenido. Hago muchas cosas diferentes, pero cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y concentración. Tómate el tiempo para explorar mis escritos, imágenes, muestras de trabajo y más. Espero que lo encuentres interesante y que haga surgir algo dentro de ti.</span
+          >He querido reorientar mi vida profesional hacia el desarrollo, y este sitio muestra un poco de lo que he podido alcanzar hasta el momento. He realizado muchas cosas diferentes durante este camino, cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y pasión, tómate un tiempo para conocerlos. Espero que los encuentres interesante y que durante este recorrido sientas un poco de lo que hay dentro de mi y que resuene dentro de ti.</span
         >
       </div>
     </div>
@@ -13,19 +13,18 @@
       <div class="about-cards" id="cards">
         <Card
           iconName="fa-solid fa-gears"
-          name="Perfil"
-          content="Desarrollador en tecnología, especialista en Protección Radiológica y metrología de las radiaciones, relator de cursos de protección radiológica de forma presencial y on-line, docencia en Física a nivel universitario y de bachillerato.
-"
+          name="Perfil Profesional"
+          content="Desarrollador Full Stack, con orientación al desarrollo Front-End y al desarrollo de soluciones informáticas, con experiencia en Testing."
+        />
+        <Card
+        iconName="fa fa-mobile"
+        name="Habilidades Técnicas"
+        content="Capacidad de establecer requerimientos de sistemas web, con el uso de lenguajes de programación, librerías y marcos de trabajo tales como HTML, CSS, Angular, React, Vue y Django."
         />
         <Card
           iconName="fa fa-magic"
-          name="Habilidades Principales"
-          content=" Poseo habilidades para comunicarme efectivamente con clientes, usuarios y personal técnico dentro de un equipo de trabajo, que desarrolle un proyecto de software con otros expertos y áreas funcionales"
-        />
-        <Card
-          iconName="fa fa-mobile"
-          name="Otras Habilidades "
-          content="Con capacidades para Establecer los requerimientos de un sistema de información e implementar soluciones informáticas, conocimientos en Visual Studio, HTML5, JavaScript, Bootstrap, Vuetify, JQuery, Base De Datos MySQL."
+          name="Habilidades Blandas"
+          content="Me considero una persona con capacidad de análisis y resolución de problemas, con compromiso, dedicación y pasión, con buena comunicación y disposición para el trabajo en equipo."
         />
       </div>
     </div>
@@ -87,18 +86,18 @@
       <div class="about-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Desarrollo Aplicaciones"
-          content="Profesional del desarrollo de Sistemas de Información, Diseño web, Desarrollador web, Programador web,  Frontend, Backend, con experiencia en desarrollo de aplicaciones web y de escritorio"
+          title="Desarrollador de Aplicaciones Web"
+          content="Profesional en el desarrollo de Sistemas Tecnológicos de Información y el desarrollo web, con experiencia laboral en testing"
         />
         <CardService
-          iconName="fa-solid fa-wand-magic-sparkles"
-          title="Habilidades Principales"
-          content="Soy un profesional con alta capacidad de análisis, con compromiso y orientación al logro de resultados, con alta capacidad en formar y liderar equipos de trabajo y buena comunicación a nivel transversal."
+        iconName="fa-solid fa-wand-magic-sparkles"
+        title="Especialista en Protección Radiológica"
+        content="He sido autorizado a dictar cursos básicos de protección radiológica por parte del órgano regulador nacional del ministerio de Salud."
         />
         <CardService
           iconName="fa-solid fa-rocket"
-          title="Otras Habilidades "
-          content="Especialista en Protección Radiológica y metrología de las radiaciones, con todo el programa de formación en postgrado en Física Médica cursado, con artículos publicados en revistas científicas indexadas, apasionado por el ajedrez."
+          title="Especialista en Física Médica"
+          content="Cuento con la totalidad de las materias del programa de postgrado en Física Médica aprobado, con artículos publicados en revistas científicas en ésta área."
         />
       </div>
     </div>
@@ -642,22 +641,6 @@
         </div>
       </div>
       <div class="contact-form">
-        <form action="#" method="POST">
-        <div class="form-group">
-          <label for="exampleInputEmail1">Email address</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-        </div>
-        <div class="form-group">
-          <label for="exampleInputPassword1">Password</label>
-          <input type="password" class="form-control" id="exampleInputPassword1">
-        </div>
-        <div class="form-group form-check">
-          <input type="checkbox" class="form-check-input" id="exampleCheck1">
-          <label class="form-check-label" for="exampleCheck1">Check me out</label>
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </form>
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCmbfwIVpUwuNA8AeAd1AGVKpgdugJTfSk0BMWlAoaAHefVQ/viewform?embedded=true" width="640" height="1109" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
       </div>
     </div>
