@@ -641,7 +641,25 @@
         </div>
       </div>
       <div class="contact-form">
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCmbfwIVpUwuNA8AeAd1AGVKpgdugJTfSk0BMWlAoaAHefVQ/viewform?embedded=true" width="640" height="1109" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+        <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLSeCmbfwIVpUwuNA8AeAd1AGVKpgdugJTfSk0BMWlAoaAHefVQ/formResponse"> 
+          <label for="entry.409911114" class="form-label" >
+            Nombre
+          </label>
+          <input type="text" class="form-control" name="entry.409911114" required>
+          <label for="entry.1646563546" class="form-label" >
+            Email
+          </label>
+          <input type="email" class="form-control" name="entry.1646563546" required>
+          <label for="entry.1025755838" class="form-label" >
+            Asunto
+          </label>
+          <input type="text" class="form-control" name="entry.1025755838" required>
+          <label for="entry.1621200888" class="form-label" >
+            Mensaje
+          </label>
+          <textarea class="form-control" placeholder="Deje su mensaje acá" name="entry.1621200888"></textarea>
+          <button class="contact-button" type="submit">Enviar</button>
+        </form>
       </div>
     </div>
     <button class="btn" v-on:click="topFunction()" id="mybtn">Subir</button>
@@ -1140,32 +1158,34 @@ export default {
   display:flex;
   flex-direction: column;
   justify-content: center;
-  align-items:center;
   width: 60%;
   margin: auto;
 }
 
 .form-control {
-  margin:10px ;
+  margin:12px ;
+  width: 90%;
 }
 
-.form-text {
-  margin: 0 25px !important;
+.form-label {
+  margin: 0 15px;
   text-align: start;
-}
-
-.form-floating {
-  width: 95%;
 }
 
 .contact-form form button {
   text-align: center;
-  width: 50%
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10px;
 }
 @media screen and (min-width: 769px) {
   .contact-form form {
     width: 38%;
   }
+  .contact-button {
+    max-width: 150px;
+  }
+  
 }
 #mybtn {
   display: none;
