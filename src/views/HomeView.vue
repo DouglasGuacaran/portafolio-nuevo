@@ -14,16 +14,16 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador Full Stack, con orientación al desarrollo Front-End y y Back-End en el desarrollo de soluciones informáticas, con experiencia en Testing."
+          content="Desarrollador con orientación al Front-End en proyectos de soluciones informáticas, con experiencia de entrenamiento en Testing."
         />
         <Card
         iconName="fa fa-mobile"
-        name="Habilidades Técnicas"
-        content="Capacidad de establecer requerimientos de sistemas web, con el uso de lenguajes de programación, librerías y marcos de trabajo tales como HTML, CSS, Angular, React, Vue y Django."
+        name="Capacidades Técnicas"
+        content="Establecer requerimientos de sistemas informáticos, con el uso de lenguajes de programación, librerías y marcos de trabajo tales como HTML, CSS, Angular, React, Vue y Django."
         />
         <Card
           iconName="fa fa-magic"
-          name="Habilidades Blandas"
+          name="Mis Habilidades"
           content="Me considero una persona con capacidad de análisis y resolución de problemas, con compromiso, dedicación y pasión, con buena comunicación y disposición para el trabajo en equipo."
         />
       </div>
@@ -82,22 +82,22 @@
       </div>
     </div>
     <div class="service" id="service">
-      <h2>Servicios</h2>
+      <h2>Servicios que puedo ofrecerte</h2>
       <div class="about-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Desarrollador de Aplicaciones Web"
-          content="Profesional en el desarrollo de Sistemas Tecnológicos de Información y el desarrollo web, con experiencia laboral en testing"
+          title="Desarrollador de aplicaciones Web y de escritorio"
+          content="Profesional en el desarrollo de sistemas informáticos y desarrollo web orientado hacia el Front-End, con experiencia laboral en QA."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Especialista en Protección Radiológica"
-        content="He sido autorizado a dictar cursos básicos de protección radiológica por parte del órgano regulador nacional del ministerio de Salud."
+        title="Relator de Cursos en línea y presencial"
+        content="Cuento con el aval necesario para dictar cursos básicos de protección radiológica por parte de Ministerio de Salud de Chile."
         />
         <CardService
           iconName="fa-solid fa-rocket"
-          title="Especialista en Física Médica"
-          content="Cuento con la totalidad de las materias del programa de postgrado en Física Médica aprobado, con artículos publicados en revistas científicas en ésta área."
+          title="Oficial de Protección Radiológica en Radioterapia"
+          content="Cuento con la autorización de la CCHEN y experiencia como OPR en el área de Radioterapia en Chile."
         />
       </div>
     </div>
@@ -448,8 +448,7 @@
             <h3>Desarrollador Tech Developer</h3>
             <span class="studies-bottom-parraph"
               >Profesional del desarrollo de Sistemas de Información,
-              Desarrollador web, programador web, Frontend, con experiencia en
-              desarrollo de aplicaciones web y de escritorio Acompañamiento en
+              con experiencia en el desarrollo de aplicaciones web y de escritorio Acompañamiento en
               el diseño e implementación de diseño gráfico para las aplicaciones
               web con conceptos como mobile first, programación orientada a
               objetos y manejo de microservicios.</span

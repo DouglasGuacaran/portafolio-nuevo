@@ -10,7 +10,7 @@
 
 <script>
 export default {
-    name: 'Card',  
+    name: 'cardView',  
     props: {
         iconName: String,
         name: String,
