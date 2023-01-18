@@ -455,6 +455,7 @@
             >
           </div>
           <div class="studies-bottom-icons">
+            <img src="../assets/img/icons/react.png" alt="17">
             <img src="../assets/img/icons/python.png" alt="14">
             <img src="../assets/img/icons/nodejs-2.svg" alt="3">
             <img src="../assets/img/icons/git-bash.svg" alt="6">
