@@ -455,17 +455,18 @@
             >
           </div>
           <div class="studies-bottom-icons">
+            <img src="../assets/img/icons/vue.png" alt="15">
             <img src="../assets/img/icons/react.png" alt="17">
             <img src="../assets/img/icons/python.png" alt="14">
-            <img src="../assets/img/icons/nodejs-2.svg" alt="3">
-            <img src="../assets/img/icons/git-bash.svg" alt="6">
             <img src="../assets/img/icons/Java.png" alt="10">
+            <img src="../assets/img/icons/angular.svg" alt="18">
+            <img src="../assets/img/icons/git-bash.svg" alt="6">
             <img src="../assets/img/icons/github.jpg" alt="7">
+            <img src="../assets/img/icons/nodejs-2.svg" alt="3">
             <img src="../assets/img/icons/css3.svg" alt="4">
             <img src="../assets/img/icons/html5.svg" alt="8">
             <img src="../assets/img/icons/javascript-1.svg" alt="11">
             <img src="../assets/img/icons//postgresql.svg" alt="13">
-            <img src="../assets/img/icons/vue.png" alt="15">
             <img src="../assets/img/icons/vuetify.svg" alt="16">
             <img src="../assets/img/icons/bootstrap-4.svg" alt="2">
             <img src="../assets/img/icons/wordpress.png" alt="9">
