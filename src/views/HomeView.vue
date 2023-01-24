@@ -51,7 +51,7 @@
             role="radio"
             aria-checked="false"
             tabindex="-1"
-            aria-label="Select image one"
+            aria-label="Select image two"
           >
             <a
               href="https://douglasguacaran.github.io/vue-big-mobile//"
@@ -66,7 +66,7 @@
             role="radio"
             aria-checked="false"
             tabindex="-1"
-            aria-label="Select image two"
+            aria-label="Select image three"
           >
             <a
               href="https://douglasguacaran.github.io/vue-pages-pokedex"
@@ -82,7 +82,7 @@
             role="radio"
             aria-checked="false"
             tabindex="-1"
-            aria-label="Select image three"
+            aria-label="Select image four"
           >
             <a
               href="https://douglasguacaran.github.io/vue-marveldex"
@@ -891,6 +891,7 @@ export default {
 }
 
 .portfolio-card__btn {
+  max-width: 395px;
   margin: 15px;
   padding: 0px;
   cursor: pointer;
