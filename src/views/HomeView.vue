@@ -736,6 +736,7 @@ export default {
 
 .text-title {
   padding-top: 50px;
+  justify-content: center;
   text-align: center;
   text-transform: uppercase;
   font-weight: 700;
@@ -775,6 +776,10 @@ export default {
 }
 
 @media screen and (min-width: 769px) {
+  .flex {
+    display:flex;
+    justify-content: center;
+  }
   .text-title {
     text-align: center;
     justify-content: center;
@@ -886,7 +891,6 @@ export default {
 }
 
 .portfolio-card__btn {
-  width: 400px;
   margin: 15px;
   padding: 0px;
   cursor: pointer;
@@ -913,7 +917,6 @@ export default {
   }
   .portfolio-card__btn img {
     width: 100%;
-    /* max-width:400px; */
   }
 }
 
@@ -926,7 +929,7 @@ export default {
 }
 
 .cardService {
-  width: 400px;
+  width: 290px;
   padding: 15px;
   border: 1px solid rgba(0, 0, 0, 0.175);
   border-radius: 5px;
@@ -980,6 +983,9 @@ export default {
 }
 
 @media screen and (min-width: 769px) {
+  .cardService {
+    width: 400px;
+  }
   .studies-main {
     margin-left: 15%;
     margin-right: 15%;

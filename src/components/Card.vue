@@ -23,6 +23,7 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 .card {
+    max-width: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
