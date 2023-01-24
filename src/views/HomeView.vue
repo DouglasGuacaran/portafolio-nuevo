@@ -4,8 +4,7 @@
       <div class="section1-blur">
         <h1 class="flex text-title">Douglas Guacarán</h1>
         <span class="text-subtitle"
-          >He querido reorientar mi vida profesional hacia el desarrollo, y este sitio muestra un poco de lo que he podido alcanzar hasta el momento. He realizado muchas cosas diferentes durante este camino, cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y pasión, tómate un tiempo para conocerlos. Espero que los encuentres interesante y que durante este recorrido sientas un poco de lo que hay dentro de mi y que resuene dentro de ti.</span
-        >
+          >He querido reorientar mi vida profesional hacia el desarrollo, y este sitio muestra un poco de lo que he podido alcanzar hasta el momento. He realizado muchas cosas diferentes durante este camino, cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y pasión, tómate un tiempo para conocerlos. Espero que los encuentres interesante y que durante este recorrido sientas un poco de lo que hay en mi.</span>
       </div>
     </div>
     <div class="about" id="about">
