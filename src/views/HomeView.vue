@@ -40,6 +40,20 @@
             aria-label="Select image one"
           >
             <a
+              href="https://douglasguacaran.github.io/moneyconverter-react/"
+              target="_blank"
+              ><img
+                src="../assets/Money.jpg"
+            /></a>
+          </div>
+          <div
+            class="portfolio-card__btn"
+            role="radio"
+            aria-checked="false"
+            tabindex="-1"
+            aria-label="Select image one"
+          >
+            <a
               href="https://douglasguacaran.github.io/vue-big-mobile//"
               target="_blank"
               ><img
