@@ -606,6 +606,7 @@ export default {
 }
 
 .portfolio-card__btn {
+  width: 80%;
   max-width: 395px;
   margin: 15px;
   padding: 0px;
