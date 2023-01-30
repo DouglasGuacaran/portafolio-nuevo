@@ -2,9 +2,9 @@
   <div class="flex body">
     <div class="section1" id="section1">
       <div class="section1-blur">
-        <h1 class="flex text-title">Douglas Guacarán</h1>
+        <h1 class="flex text-title">Hola! Soy Douglas Daniel</h1>
         <span class="text-subtitle"
-          >He querido reorientar mi vida profesional hacia el desarrollo, y este sitio muestra un poco de lo que he podido alcanzar hasta el momento. He realizado muchas cosas diferentes durante este camino, cada proyecto que acepto lo abordo con el mayor compromiso, entusiasmo y pasión, tómate un tiempo para conocerlos. Espero que los encuentres interesante y que durante este recorrido sientas un poco de lo que hay en mi.</span>
+          >Soy una persona a la que le encanta lo que hace, autodidacta, y un apasionado por aprender cosas nuevas. Suelo programar en lenguajes como Python, JavaScritp, con conocimientos en Vue, Django, React, JQuery, HTML y CSS. Estoy motivado a aprender nuevas funciones sobre cada una de estas herramientas informáticas y seguir profundizando mis conocimientos en temas relacionados con la programación Back-End, DevOps, Cloud Computing para eventualmente aplicarlos en entornos empresariales y nuevos proyectos. Los proyectos que he elegido mostrar en este sitio los he abordado con compromiso, entusiasmo y pasión, tómate un tiempo para apreciarlos, espero que los encuentres interesantes y que éste sitio te permita conocer una muestra de algunos de mis proyectos como desarrollador.</span>
       </div>
     </div>
     <div class="about" id="about">
@@ -13,17 +13,17 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador con orientación al Front-End en proyectos de soluciones informáticas, con experiencia de entrenamiento en Testing."
+          content="Desarrollador web y de software con orientación hacia al Front-End en proyectos de soluciones informáticas con el uso de lenguajes de programación, librerías y marcos de trabajo tales como HTML, CSS, React, Vue y Django."
         />
         <Card
         iconName="fa fa-mobile"
-        name="Capacidades Técnicas"
-        content="Establecer requerimientos de sistemas informáticos, con el uso de lenguajes de programación, librerías y marcos de trabajo tales como HTML, CSS, Angular, React, Vue y Django."
+        name="Habilidades"
+        content="Me considero una persona flexible, con liderazgo, con capacidad de análisis y resolución de problemas, con compromiso, dedicación y pasión, con comunicación y escucha activa, con disposición para el trabajo en equipo."
         />
         <Card
           iconName="fa fa-magic"
-          name="Mis Habilidades"
-          content="Me considero una persona con capacidad de análisis y resolución de problemas, con compromiso, dedicación y pasión, con buena comunicación y disposición para el trabajo en equipo."
+          name="Mis Hobbies"
+          content="Me gusta viajar y conocer, soy aficionado a la música, al ajedrez y a los deportes, me encanta la comida, me gusta sentarme a disfrutar un buen café en grano, soy casado y tengo un hijo, nací un martes 3 de junio por allá en 1980 en Venezuela."
         />
       </div>
     </div>
@@ -99,18 +99,18 @@
       <div class="about-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Desarrollador de aplicaciones Web y de escritorio"
-          content="Profesional en el desarrollo de sistemas informáticos y desarrollo web orientado hacia el Front-End, con experiencia laboral en QA."
+          title="Desarrollador Front-End"
+          content="Manejo de lenguaje de marcado HTML, CSS y JavaScript Manejo de peticiones asíncronas y Ajax, edición web, accesibilidad, SEO, manejo de versiones con Git"
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Relator de Cursos en línea y presencial"
-        content="Cuento con el aval necesario para dictar cursos básicos de protección radiológica por parte de Ministerio de Salud de Chile."
+        title="Analista / Data Scientist"
+        content="Gestionar requerimientos y poblamientos de bases de datos a ambientes cloud, con uso de Python y lenguaje SQL. Manejo de herramientas como PowerBI"
         />
         <CardService
           iconName="fa-solid fa-rocket"
-          title="Oficial de Protección Radiológica en Radioterapia"
-          content="Cuento con la autorización de la CCHEN y experiencia como OPR en el área de Radioterapia en Chile."
+          title="Desarrollador Full-Stack"
+          content="Definir arquitecturas eficientes y escalables. Asegurar la calidad de desarrollos bajo los lineamientos establecidos por las áreas técnicas de arquitectura base, bajo modalidad de metodología ágil"
         />
       </div>
     </div>
@@ -258,14 +258,6 @@
             <strong>Curador de Datos</strong> - Claro, Fundación Carlos Slim.
           </li>
           <li>
-            <strong>Deberes y Derechos del Personal de Salud</strong> - Escuela
-            Nacional de Administración Pública.
-          </li>
-          <li>
-            <strong>Sistema de Calificación del Personal de la Salud</strong> -
-            Escuela Nacional de Administración Pública.
-          </li>
-          <li>
             <strong>Lógica de Programación</strong> - Servicio Nacional de
             Capacitación y Empleo y Fundación Carlos Slim.
           </li>
@@ -282,169 +274,7 @@
             Nacional de Capacitación y Empleo y Movistar.
           </li>
           <li>
-            <strong>Protección Radiológica</strong> - Instituto de Protección
-            Radiológica.
-          </li>
-          <li>
-            <strong
-              >Principios Básicos de Gestión de Calidad Basados en la Norma ISO
-              9001</strong
-            >
-            - Instituto Venezolano de Investigaciones Científicas (IVIC).
-          </li>
-          <li>
-            <strong
-              >Uso del sistema LIEN-IVLAD e inducción a Agilent VEE</strong
-            >
-            - Instituto Venezolano de Investigaciones Científicas (IVIC).
-          </li>
-          <li>
-            <strong>Curso Especial: Energías Alternativas</strong> - Instituto
-            Venezolano de Investigaciones Científicas (IVIC).
-          </li>
-          <li>
-            <strong
-              >Formadores en Protección Radiológica para la Práctica
-              Médica</strong
-            >
-            - Ministerio del poder popular para la Salud.
-          </li>
-          <li>
-            <strong
-              >Curso de Intervencionismo Dirigido a Físicos Médicos</strong
-            >
-            - Instituto de Oncología “Dr. Luis Razetti”.
-          </li>
-          <li>
-            <strong>Tomografía Computarizada Dirigido a Físicos Médicos</strong>
-            - Instituto de Oncología “Dr. Luis Razetti”.
-          </li>
-          <li>
-            <strong>Conferencia Magistral en Tomografía Computarizada</strong> -
-            Instituto de Oncología “Dr. Luis Razetti”.
-          </li>
-          <li>
-            <strong
-              >Protección Radiológica en Radiología Intervencionista con énfasis
-              en Cardiología,</strong
-            >
-            - Sociedad Peruana de Protección Radiológica.
-          </li>
-          <li>
-            <strong
-              >Sistema de Gestión de Calidad en Órganos Reguladores</strong
-            >
-            - Sociedad Peruana de Protección Radiológica.
-          </li>
-          <li>
-            <strong>Protección Radiológica en Tomografía Computarizada</strong>
-            - Sociedad Peruana de Protección Radiológica.
-          </li>
-          <li>
-            <strong>Protección Radiológica en Mamografía</strong> - Sociedad
-            Peruana de Protección Radiológica.
-          </li>
-          <li>
-            <strong>Simposio Internacional Sobre Protección Radiológica</strong>
-            - Sociedad Peruana de Protección Radiológica.
-          </li>
-          <li>
-            <strong
-              >Protección Radiológica al paciente en Radiodiagnóstico, Medicina
-              Nuclear y Radioterapia</strong
-            >
-            - Instituto Venezolano de Investigaciones Científicas.
-          </li>
-          <li>
-            <strong>Dosimetría Interna Aplicada a la Medicina Nuclear</strong> -
-            Instituto Venezolano de Investigaciones Científicas.
-          </li>
-          <li>
-            <strong
-              >Jornadas de Protección Radiológica del Paciente “Dra. Clemencia
-              García Villasmil”</strong
-            >
-            - Sociedad Venezolana de Protección Radiológica (SOVEPRA).
-          </li>
-          <li>
-            <strong>Aspectos Básicos de la Propiedad Intelectual</strong> -
-            Servicio Autónomo de la Propiedad Intelectual.
-          </li>
-          <li>
-            <strong
-              >ISO 19011:2002 Directrices para la auditoría de los Sistemas de
-              Gestión de la Calidad y/o Ambiental</strong
-            >
-            - Ministerio del Poder Popular para el Comercio y el Servicio
-            Autónomo Nacional de Normalización, Calidad, Metrología y
-            Reglamentos Técnicos.
-          </li>
-          <li>
-            <strong>Fluoroscopia y Cinefluorografía</strong> - Instituto
-            Venezolano de Investigaciones Científicas.
-          </li>
-          <li>
-            <strong>Método de Montecarlo</strong> - Instituto Venezolano de
-            Investigaciones Científicas.
-          </li>
-          <li>
-            <strong>Curso de Dosimetría Termoluminiscente</strong> - Instituto
-            Venezolano de Investigaciones Científicas.
-          </li>
-          <li>
-            <strong
-              >Taller de Comunicación Efectiva e Integración Grupal antes los
-              Retos del Cambio</strong
-            >
-            - Instituto Venezolano de Investigaciones Científicas.
-          </li>
-          <li>
-            <strong
-              >Curso Básico de Protección Radiológica para Oficiales de
-              Seguridad Radiológica</strong
-            >
-            - Instituto Venezolano de Investigaciones Científicas.
-          </li>
-          <li>
-            <strong
-              >Curso Regional de Capacitación sobre Garantía de Calidad en
-              Imágenes en el Diagnóstico por Imágenes</strong
-            >
-            - Organismo Internacional de Energía Atómica con el Gobierno de
-            México a través de la Universidad Nacional Autónoma de México (UNAM)
-            y del Instituto Nacional de Cancerología (INCAN).
-          </li>
-          <li>
-            <strong
-              >Electricidad – Electromagnetismo – Magnetismo – Óptica</strong
-            >
-            - 3ª Escuela Venezolana para enseñanza de la física.
-          </li>
-          <li>
-            <strong>Sistema Solar - Física de la Tierra</strong> - Universidad
-            de los Andes.
-          </li>
-          <li>
-            <strong>La Mecánica de Newton, Usted y Yo</strong> - Universidad de
-            los Andes.
-          </li>
-          <li>
-            <strong>La Física y la Vulnerabilidad de Zonas Urbanas</strong> -
-            Universidad de los Andes.
-          </li>
-          <li>
-            <strong>Nociones Generales de Astronomía y Astrofísica</strong> -
-            Universidad de los Andes.
-          </li>
-          <li>
-            <strong>El Análisis Dimensional de la Física</strong> - Universidad
-            de los Andes.
-          </li>
-          <li>
-            <strong>2da Escuela de la Enseñanza de la Física</strong> -
-            Universidad de los Andes.
-          </li>
-          <li><strong>Operador Integral de Computadoras</strong> - INESCO.</li>
+            <strong>Operador Integral de Computadoras</strong> - INESCO.</li>
         </ul>
       </div>
       <div class="studies-bottom">
@@ -504,120 +334,6 @@
               pruebas de QA en proyectos web relacionados con la Banca usando
               herramientas como Control M, Jira, CyberArk, manejo de bases de
               datos SQL.
-            </p>
-          </li>
-          <li>
-            <strong>Oficial de Protección Radiológica</strong> -
-            <i> Hospital Clínico de Magallanes</i>, junio 2020 - diciembre 2020.
-            <p>
-              Asesorar al Director del Hospital, vigilar e informar el
-              cumplimiento del reglamento y las normas establecidas en el ámbito
-              de la protección radiológica, estar presente durante las
-              inspecciones que realizarán el órgano regulador y las empresas
-              externas en los diferentes temas alusivos a las radiaciones
-              ionizantes, mantener educación continua referida al área, mantener
-              coordinación y logística de las dosimetrías personales e
-              incentivar y mejorar el uso correcto de los sistemas de dosimetría
-              personal, realizar un diagnóstico crítico del estatus de los
-              elementos de protección radiológica personal en los servicios en
-              donde operen equipos emisores de radiación ionizante, proponer
-              adquisiciones para cumplir con requerimientos, establecer
-              protocolos de operación de equipos generadores de radiaciones
-              ionizantes de cada centro de responsabilidad, servicio, unidad o
-              departamento, Regularizar la autorización operación de los equipos
-              emisores de radiación ionizante según la normativa y legislación
-              nacional vigente.
-            </p>
-          </li>
-          <li>
-            <strong
-              >Analista Senior en Protección y Seguridad de Instalaciones
-              Radiactivas</strong
-            >
-            -
-            <i> Ingeniería y Asesoría Hermanos Mella Limitada (INGERAD LTDA) </i
-            >, noviembre 2017 - abril 2020.
-            <p>
-              Transporte de material radiactivo, elaboración de memorias de
-              Cálculo de Blindajes de Unidades generadores de radiación
-              ionizantes tales como mamógrafos, sistema de inspección de carga
-              vehicular, manuales de protección radiológica de instalaciones de
-              primera categoría, procedimientos de cierre de instalaciones
-              radiactivas, relator de al menos 10 Cursos de Protección
-              Radiológica para la obtención de la autorización de desempeño en
-              instalaciones de primera, segunda y tercera categoría que imparte
-              la SEREMI de Salud.
-            </p>
-          </li>
-          <li>
-            <strong>Profesional Asociado a la Investigación</strong> -
-            <i>
-              Unidad de Planta de Esterilización por rayos Gamma (PEGAMMA) del
-              Instituto Venezolano de Investigaciones Científicas (IVIC) </i
-            >, octubre 2014 - julio 2018.
-            <p>
-              Analista de laboratorio de dosimetría de Altas Dosis en la
-              verificación y la constatación de la Dosis Absorbida impartida a
-              los materiales que eran irradiados en la PEGAMMA a través de la
-              dosimetría realizada con dosímetros Red- Perspex, corresponsable
-              del control de calidad de las aguas de las piscinas de los
-              irradiadores IR-216 e IR-236 fabricados por la empresa Nordion y
-              que pertenecen a la Planta PEGAMMA, encargado de la calibración
-              periódica de los detectores de radiación ionizante pertenecientes
-              a la Planta PEGAMMA.
-            </p>
-          </li>
-          <li>
-            <strong>Docente Tiempo Convencional</strong> -
-            <i>
-              Programa de Formación de Técnicos en Radioterapia de la
-              Universidad Bolivariana de Venezuela</i
-            >, septiembre 2011- abril 2012.
-            <p>
-              Docente de la materia Física de las Radiaciones nivel
-              universitario.
-            </p>
-          </li>
-          <li>
-            <strong>Profesional Asociado a la Investigación</strong> -
-            <i>
-              Laboratorio Secundario de Calibración Dosimétrica (LSCD) del
-              Instituto Venezolano de Investigaciones Científicas (IVIC)</i
-            >
-            , octubre 2005 - septiembre 2014
-            <p>
-              Control de Calidad, Pruebas de Aceptación y Calibración de
-              unidades de Radioterapia, tales como: Unidades de Cobalto 60,
-              Aceleradores Lineales de altas y bajas energías de fotones con o
-              sin haces de electrones. Control de calidad de equipos
-              Diagnósticos (rayos X convencionales y digitales, unidades de
-              Mamografía, mesa estereotáxica, Tomografía computada, equipos
-              odontológicos, unidades fluoroscópicas de arco en C, densitómetros
-              óseos), levantamiento radiométrico de neutrones en unidades de
-              Ciclotrón, Elaboración de memorias de Cálculos de Barreras de
-              Unidades de Ciclotrón, Rayos X, Aceleradores Lineales de alta y
-              baja energía, unidades braquiterapia, alibración de detectores de
-              radiación ionizante en haces de neutrones, partículas beta, rayos
-              X y rayos gamma, calibración de sistemas dosimétricos de radiación
-              ionizante utilizados en radioterapia. Elaboración de curvas de
-              calibración para dosimetría de película y dosímetros
-              termoluminiscente en magnitudes operacionales, calibración de
-              fuentes de radiación proveniente de distintos isótopos
-              radiactivos.
-            </p>
-          </li>
-          <li>
-            <strong>Docente de Física</strong> -
-            <i>
-              Unidades Educativas: Colegio “Los Próceres”, Colegio “María
-              Auxiliadora”, Unidad Educativa Nacional “Lisandro Alvarado”,
-              Unidad Educativa Nacional “Alberto Carnevalli”, Barquisimeto Edo.
-              Lara.</i
-            >
-            , julio 2000 - julio 2005.
-            <p>
-              Profesor de Física, Matemáticas, dibujo técnico a tiempo completo
-              nivel bachillerato.
             </p>
           </li>
         </ul>
@@ -737,7 +453,7 @@ export default {
   padding-top: 50px;
   justify-content: center;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 26px;
   color: #000000;
