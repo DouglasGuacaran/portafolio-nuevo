@@ -2,9 +2,9 @@
   <div class="flex body">
     <div class="section1" id="section1">
       <div class="section1-blur">
-        <h1 class="flex text-title">Hola! Soy Douglas Daniel</h1>
+        <h1 class="flex text-title">Hola! Soy Douglas</h1>
         <span class="text-subtitle"
-          >Soy una persona a la que le encanta lo que hace, autodidacta, y un apasionado por aprender cosas nuevas. Suelo programar en lenguajes como Python, JavaScritp, con conocimientos en Vue, Django, React, JQuery, HTML y CSS. Estoy motivado a aprender nuevas funciones sobre cada una de estas herramientas informáticas y seguir profundizando mis conocimientos en temas relacionados con la programación Back-End, DevOps, Cloud Computing para eventualmente aplicarlos en entornos empresariales y nuevos proyectos. Los proyectos que he elegido mostrar en este sitio los he abordado con compromiso, entusiasmo y pasión, tómate un tiempo para apreciarlos, espero que los encuentres interesantes y que éste sitio te permita conocer una muestra de algunos de mis proyectos como desarrollador.</span>
+          >Soy una persona a la que le encanta lo que hace, autodidacta, y un apasionado por aprender cosas nuevas. Suelo programar en lenguajes como Python, JavaScritp, con conocimientos en Vue, Django, React, JQuery, HTML y CSS y conceptos de diseño como mobile first. Estoy motivado a aprender nuevas funciones sobre cada una de estas herramientas informáticas y seguir profundizando mis conocimientos en temas relacionados con la programación Back-End, DevOps, Cloud Computing para eventualmente aplicarlos en entornos empresariales y nuevos proyectos. Los proyectos que he elegido mostrar en este sitio los he abordado con compromiso, entusiasmo y pasión, tómate un tiempo para apreciarlos, espero que los encuentres interesantes y que éste sitio te permita conocer una muestra de algunos de mis proyectos como desarrollador.</span>
       </div>
     </div>
     <div class="about" id="about">
@@ -22,7 +22,7 @@
         />
         <Card
           iconName="fa fa-magic"
-          name="Mis Hobbies"
+          name="Un poco de mí"
           content="Me gusta viajar y conocer, soy aficionado a la música, al ajedrez y a los deportes, me encanta la comida, me gusta sentarme a disfrutar un buen café en grano, soy casado y tengo un hijo, nací un martes 3 de junio por allá en 1980 en Venezuela."
         />
       </div>
@@ -294,7 +294,7 @@
               con experiencia en el desarrollo de aplicaciones web y de escritorio Acompañamiento en
               el diseño e implementación de diseño gráfico para las aplicaciones
               web con conceptos como mobile first, programación orientada a
-              objetos y manejo de microservicios.</span
+              objetos, Google Cloud, AWS y microservicios.</span
             >
           </div>
           <div class="studies-bottom-icons">
@@ -334,6 +334,14 @@
               pruebas de QA en proyectos web relacionados con la Banca usando
               herramientas como Control M, Jira, CyberArk, manejo de bases de
               datos SQL.
+            </p>
+          </li>
+          <li>
+            <strong>Voluntariado</strong> -
+            <i>Awake Factory S. L.</i> , octubre 
+            2020 - Enero 2021.
+            <p>
+              Colaboración en el diseño e implementación del sitio web Distrito Digital de Magallanes con WordPress, metodología ágil utilizada: SCRUM.
             </p>
           </li>
         </ul>
