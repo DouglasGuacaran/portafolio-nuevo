@@ -39,11 +39,13 @@
             aria-label="Select image one"
           >
             <a
-              href="https://douglasguacaran.github.io/moneyconverter-react/"
-              target="_blank"
-              ><img
+            href="https://douglasguacaran.github.io/moneyconverter-react/"
+            target="_blank"
+            >
+            <span>Proyecto Money Converter</span></a>
+            <img
                 src="../assets/Money.jpg"
-            /></a>
+            />
           </div>
           <div
             class="portfolio-card__btn"
@@ -55,7 +57,8 @@
             <a
               href="https://douglasguacaran.github.io/vue-big-mobile//"
               target="_blank"
-              ><img
+              >
+              <span>Proyecto Big Mobile</span><img
                 src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             /></a>
           </div>
@@ -70,7 +73,8 @@
             <a
               href="https://douglasguacaran.github.io/vue-pages-pokedex"
               target="_blank"
-              ><img
+              >
+              <span>Proyecto Poke-Dex</span><img
                 src="https://images.unsplash.com/photo-1650573547848-d7b93ed79782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
                 alt="Image description"
             /></a>
@@ -86,7 +90,9 @@
             <a
               href="https://douglasguacaran.github.io/vue-marveldex"
               target="_blank"
-              ><img
+              >
+              <span>Proyecto Marvel-Dex</span>
+              <img
                 src="https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
                 alt="Image description"
             /></a>
@@ -607,6 +613,7 @@ export default {
 .portfolio-cards-group:hover .portfolio-card__btn:not(:hover) {
   filter: grayscale(100%);
   opacity: 0.75;
+
 }
 
 .portfolio-cards-group:hover .portfolio-card__btn:not(:hover)::after {
@@ -614,6 +621,7 @@ export default {
 }
 
 .portfolio-card__btn {
+  position: relative;
   width: 80%;
   max-width: 395px;
   margin: 15px;
@@ -634,6 +642,25 @@ export default {
   width: 90%;
   border-radius: 5px;
   max-width: 100%;
+}
+
+.portfolio-card__btn a {
+  text-decoration: none;
+} 
+
+.portfolio-card__btn a span {
+  text-decoration: none;
+  color: #6195ff;
+  font-size: 18px;
+  -webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+  opacity: 0;
+}
+
+.portfolio-card__btn:hover a span {
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
 }
 
 @media (max-width: 769px) {
