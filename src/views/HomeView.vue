@@ -2,9 +2,9 @@
   <div class="flex body">
     <div class="section1" id="section1">
       <div class="section1-blur">
-        <h1 class="flex text-title">Hola! Soy Douglas</h1>
+        <h1 class="flex text-title">Bienvenid@! Soy Douglas</h1>
         <span class="text-subtitle"
-          >Soy una persona a la que le encanta lo que hace, autodidacta, y un apasionado por aprender cosas nuevas. Suelo programar en lenguajes como Python, JavaScritp, con conocimientos en Vue, Django, React, JQuery, HTML y CSS y conceptos de diseño como mobile first. Estoy motivado a aprender nuevas funciones sobre cada una de estas herramientas informáticas y seguir profundizando mis conocimientos en temas relacionados con la programación Back-End, DevOps, Cloud Computing para eventualmente aplicarlos en entornos empresariales y nuevos proyectos. Los proyectos que he elegido mostrar en este sitio los he abordado con compromiso, entusiasmo y pasión, tómate un tiempo para apreciarlos, espero que los encuentres interesantes y que éste sitio te permita conocer una muestra de algunos de mis proyectos como desarrollador.</span>
+          >Me describo como una persona a la que le encanta lo que hace, soy un apasionado por aprender a implementar nuevas formas de programación. Como profesional del desarrollo como Front-End uso con regularidad lenguajes como Python, JavaScript, he realizado proyectos en entornos de trabajo como Vue, Django, React y hasta Angular, con conocimientos en JQuery, HTML y CSS algunos de ellos con conceptos de diseño como Mobile First y responsividad. Estoy motivado a seguir profundizando mis conocimientos en programación como DevOps y Cloud Computing para aplicarlos en entornos empresariales y nuevos retos. Los proyectos que he elegido mostrar en este sitio los he abordado con entusiasmo y pasión, tómate un tiempo para apreciarlos, espero que los encuentres interesantes y que éste sitio te permita conocer una muestra de algunos de mis más recientes proyectos como desarrollador.</span>
       </div>
     </div>
     <div class="about" id="about">
@@ -13,17 +13,17 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador web y de software con orientación hacia al Front-End en proyectos de soluciones informáticas con el uso de lenguajes de programación, librerías y marcos de trabajo tales como HTML, CSS, React, Vue y Django."
+          content="Desarrollador web y de software con orientación hacia al Front-End en proyectos de soluciones informáticas con el uso de lenguajes de programación como: Java, JavaScript, librerías como: React y marcos de trabajo tales como Vue, Django y Angular."
         />
         <Card
         iconName="fa fa-mobile"
         name="Habilidades"
-        content="Me considero una persona flexible, con liderazgo, con capacidad de análisis y resolución de problemas, con compromiso, dedicación y pasión, con comunicación y escucha activa, con disposición para el trabajo en equipo."
+        content="Me autodefino como un profesional flexible, con liderazgo, capacidad de análisis y resolución de problemas, compromiso organizacional, dedicación y pasión, comunicación y escucha activa y disposición para el trabajo en equipo."
         />
         <Card
           iconName="fa fa-magic"
           name="Un poco de mí"
-          content="Me gusta viajar y conocer, soy aficionado a la música, al ajedrez y a los deportes, me encanta la comida, me gusta sentarme a disfrutar un buen café en grano, soy casado y tengo un hijo, nací un martes 3 de junio por allá en 1980 en Venezuela."
+          content="Me gusta viajar y conocer personas, soy aficionado a la música, el ajedrez y de los deportes, me encanta la comida, me gusta disfrutar del sabor del café en grano, soy casado y junto a mi esposa tenemos a Miguel, nací en junio de 1980 en Mérida, Venezuela."
         />
       </div>
     </div>
@@ -106,12 +106,12 @@
         <CardService
           iconName="fa-regular fa-gem"
           title="Desarrollador Front-End"
-          content="Manejo de lenguaje de marcado HTML, CSS y JavaScript Manejo de peticiones asíncronas y Ajax, edición web, accesibilidad, SEO, manejo de versiones con Git"
+          content="Implementar diseños web con uso de lenguajes de alto nivel tales como Python, Java o JavaScript, Manejo de peticiones asíncronas y Ajax, Accesibilidad del sitio web, SEO, manejo de versionado con Git"
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
         title="Analista / Data Scientist"
-        content="Gestionar requerimientos y poblamientos de bases de datos a ambientes cloud, con uso de Python y lenguaje SQL. Manejo de herramientas como PowerBI"
+        content="Gestionar requerimientos y poblamientos de bases de datos a ambientes Cloud, con uso del lenguaje SQL. Manejo de herramientas de visualización tal como PowerBI"
         />
         <CardService
           iconName="fa-solid fa-rocket"
@@ -294,13 +294,9 @@
               />
               <h2>Douglas Guacarán</h2>
             </div>
-            <h3>Desarrollador Tech Developer</h3>
+            <h3>Desarrollador Front End</h3>
             <span class="studies-bottom-parraph"
-              >Profesional del desarrollo de Sistemas de Información,
-              con experiencia en el desarrollo de aplicaciones web y de escritorio Acompañamiento en
-              el diseño e implementación de diseño gráfico para las aplicaciones
-              web con conceptos como mobile first, programación orientada a
-              objetos, Google Cloud, AWS y microservicios.</span
+              >Profesional del desarrollo con experiencia en QA y en el desarrollo de aplicaciones web responsivas con conceptos de diseño como Mobile First, bajo paradigmas de programación como la programación orientada a objetos, programación funcional, microservicios.</span
             >
           </div>
           <div class="studies-bottom-icons">
@@ -706,6 +702,12 @@ export default {
   font-weight: 400;
 }
 
+/* Seccion de estudios */
+
+.studies-bottom-parraph{
+  font-size: 14px;
+}
+
 .studies {
   padding-top: 60px;
   height: auto;
@@ -741,6 +743,10 @@ export default {
   .studies-main {
     margin-left: 15%;
     margin-right: 15%;
+  }
+  .studies-bottom-parraph{
+    width: 65%;
+    font-size: 16px;
   }
 }
 .carousel1 {
