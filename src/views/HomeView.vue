@@ -2,9 +2,9 @@
   <div class="flex body">
     <div class="section1" id="section1">
       <div class="section1-blur">
-        <h1 class="flex text-title">Bienvenid@! Soy Douglas</h1>
-        <span class="text-subtitle"
-          >Me describo como una persona a la que le encanta lo que hace, soy un apasionado por aprender a implementar nuevas formas de programación. Como profesional del desarrollo como Front-End uso con regularidad lenguajes como Python, JavaScript, he realizado proyectos en entornos de trabajo como Vue, Django, React y hasta Angular, con conocimientos en JQuery, HTML y CSS algunos de ellos con conceptos de diseño como Mobile First y responsividad. Estoy motivado a seguir profundizando mis conocimientos en programación como DevOps y Cloud Computing para aplicarlos en entornos empresariales y nuevos retos. Los proyectos que he elegido mostrar en este sitio los he abordado con entusiasmo y pasión, tómate un tiempo para apreciarlos, espero que los encuentres interesantes y que éste sitio te permita conocer una muestra de algunos de mis más recientes proyectos como desarrollador.</span>
+        <h1 text class="flex text-title">Douglas Guacarán</h1>
+        <p class="text-subtitle"
+          >Soy profesor de física titulado, desde el año 2020 decidí reconvertir mi carrera profesional hacia el desarrollo porque siempre he que sentido pasión por la tecnología, estoy enfocado en seguir desarrollando mis habilidades para llegar a ser un desarrollador web FullStack, y para ello busco estar en constante crecimiento y desarrollo adquiriendo experiencias en proyectos ambiciosos y de gran impacto.</p>
       </div>
     </div>
     <div class="about" id="about">
@@ -13,12 +13,12 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador web y de software con orientación hacia al Front-End en proyectos de soluciones informáticas con el uso de lenguajes de programación como: Java, JavaScript, librerías como: React y marcos de trabajo tales como Vue, Django y Angular."
+          content="Desarrollador web y de software con sólidos conocimientos del Front-End y Back-End con participación en proyectos de soluciones informáticas con el uso de lenguajes de programación como: JavaScript, librerías como: React y marcos de trabajo tales como Vue y Django."
         />
         <Card
         iconName="fa fa-mobile"
         name="Habilidades"
-        content="Me autodefino como un profesional flexible, con liderazgo, capacidad de análisis y resolución de problemas, compromiso organizacional, dedicación y pasión, comunicación y escucha activa y disposición para el trabajo en equipo."
+        content="Soy un profesional flexible, con liderazgo, capacidad de análisis y resolución de problemas, compromiso organizacional, dedicación y pasión, comunicación y escucha activa y disposición para el trabajo en equipo."
         />
         <Card
           iconName="fa fa-magic"
@@ -160,6 +160,12 @@
               data-bs-target="#carouselExampleIndicators"
               data-bs-slide-to="4"
               aria-label="Slide 5"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselExampleIndicators"
+              data-bs-slide-to="4"
+              aria-label="Slide 6"
             ></button>
           </div>
           <div class="carousel-inner">
@@ -444,15 +450,18 @@ export default {
       document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
     },
   },
+  mounted(){
+    
+  },
   created() {
     window.addEventListener("scroll", this.handleScroll);
-  },
+  }
+  
 };
 </script>
 
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
 /* Estilos Generales */
 * {
   margin: 0;
@@ -467,26 +476,26 @@ export default {
 }
 
 .text-title {
-  padding-top: 50px;
+  margin: 10;
+  padding: 0px;
   justify-content: center;
   text-align: center;
-  text-transform: capitalize;
   font-weight: 700;
-  font-size: 26px;
+  font-size: 18px;
   color: #000000;
 }
 .text-subtitle {
-  font-family: "Varela Round" !important;
-  text-align: center;
+  padding: 5px;
+  text-align: justify;
   color: #000000;
-  font-family: Varela;
-  font-size: 16px;
+  font-size: 14px;
 }
+
 .section1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 1000px;
+  height: 100vh;
   background-image: url("../assets/Escritorio.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -495,12 +504,13 @@ export default {
 }
 
 .section1-blur {
+  width: 85%;
   text-align: center;
   backdrop-filter: blur(2.5px);
   background-color: hsla(0, 0%, 100%, 0.748);
   border-radius: 15px;
   padding: 10px;
-
+  margin: 60px;
 }
 
 .contact-form iframe {
@@ -513,16 +523,19 @@ export default {
     justify-content: center;
   }
   .text-title {
-    text-align: center;
-    justify-content: center;
-    padding-top:15px;
+    padding:15px;
     width: auto;
-    text-align: center;
-    font-size: 32px;
+    font-size: 48px;
   }
   .text-subtitle{
-    text-align: center;
+    padding: 20px;
+    text-align: justify;
     color:#555;
+    font-size: 24px;
+  }
+  .section1 {
+    padding: 20px;
+    height: 100vh;
   }
 
   .section1-blur {
