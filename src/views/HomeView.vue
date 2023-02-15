@@ -5,7 +5,7 @@
         <h1 text class="flex text-title">Douglas Guacarán</h1>
         <p class="text-subtitle"
           >
-          Soy profesor de física titulado, desde el año 2020 decidí reconvertir mi carrera profesional hacia el desarrollo porque siempre he que sentido en mi una verdadera pasión por la tecnología, estoy enfocado en seguir desarrollando mis habilidades y aptitudes para llegar a ser un desarrollador web versátil, y para ello he elegido recorrer un track académico diversificado.</p>
+          Desarrollador web especializado en el Front-End, con buen manejo de tecnologías y lenguajes de programación tales como HTML, Java, JavaScript y Python, marcos de trabajo como Vue Js y Django, he realizado proyectos implementando manejo de Restful APIs, manejo y control de versiones con Git, actualmente estoy enfocado en profundizar en la librería React con NextJs, con la habilidad de autoaprendizaje, análisis de problemas complejos y práctica de trabajo en equipo bajo metodologías ágiles en vías de ser un futuro Desarrollador FullStack.</p>
       </div>
     </div>
     <div class="about" id="about">
@@ -14,17 +14,17 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador web y de software con sólidos conocimientos del Front-End y Back-End con participación en proyectos de soluciones informáticas con el uso de lenguajes de programación como: JavaScript, librerías como: React y marcos de trabajo tales como Vue y Django."
+          content="Desarrollador del Front-End con participación en proyectos con el uso de lenguajes de programación como: Java, JavaScript, marcos de trabajo tales como; Vue Js y Django además de librerías como React."
         />
         <Card
         iconName="fa fa-mobile"
         name="Habilidades"
-        content="Soy un profesional flexible, con liderazgo, capacidad de análisis y resolución de problemas, compromiso organizacional, dedicación y pasión, comunicación y escucha activa y disposición para el trabajo en equipo."
+        content="Soy flexible, poseo capacidades de liderazgo y de análisis para resolución de problemas con dedicación y pasión, habilidades de comunicación y escucha activa y excelente disposición para el trabajo en equipo."
         />
         <Card
           iconName="fa fa-magic"
           name="Un poco de mí"
-          content="Me gusta viajar y conocer personas, soy aficionado a la música, el ajedrez y a los deportes, me encanta la comida, me gusta disfrutar del sabor del café en grano, soy casado y junto a mi esposa tenemos a Miguel, nací en en Mérida, Venezuela."
+          content="Me gusta viajar y conocer personas, soy aficionado al rock, el ajedrez y los deportes, me encanta la comida, el sabor del café en grano y de la cerveza artesanal."
         />
       </div>
     </div>
@@ -107,17 +107,17 @@
         <CardService
           iconName="fa-regular fa-gem"
           title="Front-End"
-          content="Desarrollar e implementar plataformas con uso de lenguajes de programación tales como Java, JavaScript o Python."
+          content="Desarrollar e implementar plataformas o sistemas con uso de lenguajes de programación tales como HTML, Java, JavaScript o Python. Manejo de Boostrap, tailwind, vuetify."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
         title="Back-End"
-        content="Gestionar requerimientos y poblamientos de bases de datos, Mejorar o refactorizar soluciones de código existentes."
+        content="Gestionar requerimientos y poblamientos de bases de datos relacionales o no relacionales, mejorar o refactorizar soluciones de código existentes, manejo de SEO, Accesibilidad."
         />
         <CardService
           iconName="fa-solid fa-rocket"
           title="Full-Stack Junior"
-          content="Desarrollar e implementar plataformas, aplicaciones o funcionalidades tanto en Front-End como Back-End"
+          content="Desarrollar e implementar plataformas, aplicaciones o funcionalidades tanto en Front-End como Back-End con las tecnologías antes descritas."
         />
       </div>
     </div>
