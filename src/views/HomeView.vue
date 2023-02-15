@@ -4,7 +4,8 @@
       <div class="section1-blur">
         <h1 text class="flex text-title">Douglas Guacarán</h1>
         <p class="text-subtitle"
-          >Soy profesor de física titulado, desde el año 2020 decidí reconvertir mi carrera profesional hacia el desarrollo porque siempre he que sentido pasión por la tecnología, estoy enfocado en seguir desarrollando mis habilidades para llegar a ser un desarrollador web FullStack, y para ello busco estar en constante crecimiento y desarrollo adquiriendo experiencias en proyectos ambiciosos y de gran impacto.</p>
+          >
+          Soy profesor de física titulado, desde el año 2020 decidí reconvertir mi carrera profesional hacia el desarrollo porque siempre he que sentido en mi una verdadera pasión por la tecnología, estoy enfocado en seguir desarrollando mis habilidades y aptitudes para llegar a ser un desarrollador web versátil, y para ello he elegido recorrer un track académico diversificado.</p>
       </div>
     </div>
     <div class="about" id="about">
@@ -23,7 +24,7 @@
         <Card
           iconName="fa fa-magic"
           name="Un poco de mí"
-          content="Me gusta viajar y conocer personas, soy aficionado a la música, el ajedrez y de los deportes, me encanta la comida, me gusta disfrutar del sabor del café en grano, soy casado y junto a mi esposa tenemos a Miguel, nací en junio de 1980 en Mérida, Venezuela."
+          content="Me gusta viajar y conocer personas, soy aficionado a la música, el ajedrez y a los deportes, me encanta la comida, me gusta disfrutar del sabor del café en grano, soy casado y junto a mi esposa tenemos a Miguel, nací en en Mérida, Venezuela."
         />
       </div>
     </div>
@@ -101,22 +102,22 @@
       </div>
     </div>
     <div class="service" id="service">
-      <h2>Servicios que puedo ofrecerte</h2>
+      <h2>Perfiles como Desarrollador</h2>
       <div class="about-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Desarrollador Front-End"
-          content="Implementar diseños web con uso de lenguajes de alto nivel tales como Python, Java o JavaScript, Manejo de peticiones asíncronas y Ajax, Accesibilidad del sitio web, SEO, manejo de versionado con Git"
+          title="Front-End"
+          content="Desarrollar e implementar plataformas con uso de lenguajes de programación tales como Java, JavaScript o Python."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Analista / Data Scientist"
-        content="Gestionar requerimientos y poblamientos de bases de datos a ambientes Cloud, con uso del lenguaje SQL. Manejo de herramientas de visualización tal como PowerBI"
+        title="Back-End"
+        content="Gestionar requerimientos y poblamientos de bases de datos, Mejorar o refactorizar soluciones de código existentes."
         />
         <CardService
           iconName="fa-solid fa-rocket"
-          title="Desarrollador Full-Stack"
-          content="Definir arquitecturas eficientes y escalables. Asegurar la calidad de desarrollos bajo los lineamientos establecidos por las áreas técnicas de arquitectura base, bajo modalidad de metodología ágil"
+          title="Full-Stack Junior"
+          content="Desarrollar e implementar plataformas, aplicaciones o funcionalidades tanto en Front-End como Back-End"
         />
       </div>
     </div>
