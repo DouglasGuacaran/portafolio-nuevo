@@ -4,7 +4,7 @@
         <div class="section1-blur">
           <h1 class="flex text-title">Bienvenid@! Soy Douglas</h1>
           <span class="text-subtitle"
-            >Me describo como una persona a la que le encanta lo que hace, soy un apasionado por aprender a implementar nuevas formas de programación. Como profesional del desarrollo como Front-End uso con regularidad lenguajes como Python, JavaScript, he realizado proyectos en entornos de trabajo como Vue, Django, React y hasta Angular, con conocimientos en JQuery, HTML y CSS algunos de ellos con conceptos de diseño como Mobile First y responsividad. Estoy motivado a seguir profundizando mis conocimientos en programación como DevOps y Cloud Computing para aplicarlos en entornos empresariales y nuevos retos. Los proyectos que he elegido mostrar en este sitio los he abordado con entusiasmo y pasión, tómate un tiempo para apreciarlos, espero que los encuentres interesantes y que éste sitio te permita conocer una muestra de algunos de mis más recientes proyectos como desarrollador.</span>
+            >specialized in the Front-End, with a good command of technologies and programming languages ​​such as HTML, Java, JavaScript and Python, frameworks such as Vue Js and Django, I have carried out projects implementing Restful APIs, management and control of versions with Git, I am currently focused on deepening the React library with NextJs, with the ability to self-learn, analyze complex problems and practice teamwork under agile methodologies in the process of being a future FullStack Developer</span>
         </div>
       </div>
       <div class="about" id="about">
@@ -414,7 +414,7 @@
   import CardService from "../components/CardService.vue";
   import Footer from "../components/Footer.vue";
   export default {
-    name: "HomeView",
+    name: "HomeEnView",
     components: {
       Card,
       CardService,

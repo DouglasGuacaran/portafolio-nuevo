@@ -7,12 +7,14 @@
         <b-collapse id="nav-collapse" class="mx-1 justify-content-end" is-nav>
         <b-navbar-nav>
             <b-nav-item href="#section1">Inicio</b-nav-item>
-            <b-nav-item href="#about">Acerca</b-nav-item>
+            <b-nav-item href="#about">Acerca de</b-nav-item>
             <b-nav-item href="#portfolio">Portafolio</b-nav-item>
             <b-nav-item href="#service">Servicios</b-nav-item>
             <b-nav-item href="#studies">Estudios</b-nav-item>
             <b-nav-item href="#experience">Experiencia</b-nav-item>
             <b-nav-item href="#contact">Contacto</b-nav-item>
+            <b-nav-item to="/en/home">Home</b-nav-item>
+            <b-nav-item href="https://github.com/douguac"><img src="../assets/img/icons/github-mark-white.png" alt="Github icon"></b-nav-item>
         </b-navbar-nav>
         </b-collapse>
         </b-navbar>
@@ -80,4 +82,10 @@ nav a.router-link-exact-active {
   text-decoration: none;
   color:#ffffff;
 }
+
+img {
+  height: 30px;
+  width: 30px;
+}
+
 </style>

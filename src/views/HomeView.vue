@@ -103,7 +103,7 @@
     </div>
     <div class="service" id="service">
       <h2>Perfiles como Desarrollador</h2>
-      <div class="about-cards" id="cards">
+      <div class="perfil-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
           title="Front-End"
@@ -469,7 +469,7 @@ export default {
   padding: 0;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .flex {
@@ -519,6 +519,9 @@ export default {
 }
 
 @media screen and (min-width: 769px) {
+  *{
+    font-size: 16px;
+  }
   .flex {
     display:flex;
     justify-content: center;
@@ -536,7 +539,7 @@ export default {
   }
   .section1 {
     padding: 20px;
-    height: 100vh;
+    height: 900px;
   }
 
   .section1-blur {
@@ -600,16 +603,29 @@ export default {
   font-size: 30px;
 }
 
+.perfil-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 350px;
+}
+
 @media screen and (min-width: 769px) {
   .about-cards {
     flex-direction: row;
   }
+
   .card span {
     font-size: 16px;
     margin: 20px
   }
-}
 
+  .perfil-cards {
+    flex-direction: row;
+  } 
+}
 .portfolio {
   text-align: center;
   padding-top: 60px;
@@ -698,6 +714,7 @@ export default {
 }
 
 .cardService {
+  height: 280px;
   width: 290px;
   padding: 15px;
   border: 1px solid rgba(0, 0, 0, 0.175);
@@ -759,6 +776,10 @@ export default {
 
 @media screen and (min-width: 769px) {
   .cardService {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
     width: 400px;
   }
   .studies-main {
@@ -922,6 +943,7 @@ export default {
   }
   .contact-card {
     width: 60%;
+    height: 100px !important;
   }
   .contact-body{
     height:200px;
