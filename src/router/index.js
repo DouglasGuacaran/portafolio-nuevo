@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import Bienvenida from '../views/Bienvenida.vue'
 
 
 Vue.use(VueRouter)
@@ -8,13 +8,18 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: HomeView
+    name: 'Bienvenida',
+    component: Bienvenida
   },
   {
-    path: '/en/home',
+    path: '/home-es',
+    name: 'HomeEsp',
+    component: () => import("../views/HomeViewEsp.vue"),
+  },
+  {
+    path: '/home-eng',
     name: 'HomeEn',
-    component: () => import("../views/HomeEnView.vue"),
+    component: () => import("../views/HomeViewEng.vue"),
   },
   {
     path: "/*",

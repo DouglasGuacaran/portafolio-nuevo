@@ -2,7 +2,7 @@
   <div :id= "`${id}`" class="header">
         <b-navbar  class="nav-bar" toggleable="md" type="dark" variant="dark">
         <img class="header-logo" src="../assets/Ajedrez.jpg" alt="logo">
-        <b-navbar-brand href="#section1">Douglas Guacaran</b-navbar-brand>
+        <b-navbar-brand to="/">Douglas Guacaran</b-navbar-brand>
         <b-navbar-toggle class="mx-2" target="nav-collapse"></b-navbar-toggle>
         <b-collapse id="nav-collapse" class="mx-1 justify-content-end" is-nav>
         <b-navbar-nav>
@@ -13,8 +13,10 @@
             <b-nav-item href="#studies">Estudios</b-nav-item>
             <b-nav-item href="#experience">Experiencia</b-nav-item>
             <b-nav-item href="#contact">Contacto</b-nav-item>
-            <b-nav-item to="/en/home">Home</b-nav-item>
-            <b-nav-item href="https://github.com/douguac"><img src="../assets/img/icons/github-mark-white.png" alt="Github icon"></b-nav-item>
+            <b-nav-item to="/">Home</b-nav-item>
+            <b-nav-item href="https://github.com/douglasguacaran"><img class="imagen-nav" src="../assets/img/icons/github-mark-white.png" alt="Github icon"></b-nav-item>
+            <b-nav-item to="/home-es"><img class="imagen-nav" src="../assets/img/icons/espana.png" alt="Github icon"></b-nav-item>
+            <b-nav-item to="/home-eng"><img class="imagen-nav" src="../assets/img/icons/united-kingdom.png" alt="Github icon"></b-nav-item>
         </b-navbar-nav>
         </b-collapse>
         </b-navbar>
@@ -83,7 +85,7 @@ nav a.router-link-exact-active {
   color:#ffffff;
 }
 
-img {
+.imagen-nav {
   height: 30px;
   width: 30px;
 }
