@@ -127,7 +127,7 @@
       <div class="carousel1">
         <div
           id="carouselExampleIndicators"
-          class="carousel slide"
+          class="carousel slide carousel-fade"
           data-bs-ride="true"
         >
           <div class="carousel-indicators">
@@ -166,7 +166,7 @@
             <button
               type="button"
               data-bs-target="#carouselExampleIndicators"
-              data-bs-slide-to="4"
+              data-bs-slide-to="5"
               aria-label="Slide 6"
             ></button>
           </div>

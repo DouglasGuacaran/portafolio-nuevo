@@ -126,7 +126,7 @@
         <div class="carousel1">
           <div
             id="carouselExampleIndicators"
-            class="carousel slide"
+            class="carousel slide carousel-fade"
             data-bs-ride="true"
           >
             <div class="carousel-indicators">
