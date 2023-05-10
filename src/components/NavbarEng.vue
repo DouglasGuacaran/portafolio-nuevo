@@ -1,31 +1,32 @@
 <template>
   <div :id= "`${id}`" class="header">
-        <b-navbar  class="nav-bar" toggleable="md" type="dark" variant="dark">
+      <b-navbar  class="nav-bar" toggleable="md" type="dark" variant="dark">
         <img class="header-logo" src="../assets/Ajedrez.jpg" alt="logo">
-        <b-navbar-brand to="/">Douglas Guacaran</b-navbar-brand>
+        <a class="navbar-brand" href="#">Douglas Guacaran</a>
         <b-navbar-toggle class="mx-2" target="nav-collapse"></b-navbar-toggle>
-        <b-collapse id="nav-collapse" class="mx-1 justify-content-end" is-nav>
-        <b-navbar-nav>
-            <b-nav-item href="#section1">Start</b-nav-item>
+        <b-collapse id="nav-collapse" class="flex justify-content-between" is-nav>
+        <b-navbar-nav class="justify-content-left">
+            <b-nav-item href="#section1">Welcome</b-nav-item>
             <b-nav-item href="#about">About</b-nav-item>
             <b-nav-item href="#portfolio">Portfolio</b-nav-item>
             <b-nav-item href="#service">Services</b-nav-item>
             <b-nav-item href="#studies">Studies</b-nav-item>
             <b-nav-item href="#experience">Experience</b-nav-item>
             <b-nav-item href="#contact">Contact</b-nav-item>
-            <b-nav-item to="/">Home</b-nav-item>
+        </b-navbar-nav>
+        <b-navbar-nav class="justify-content-right">
             <b-nav-item href="https://github.com/douglasguacaran"><img class="imagen-nav" src="../assets/img/icons/github-mark-white.png" alt="Github icon"></b-nav-item>
-            <b-nav-item to="/home-es"><img class="imagen-nav" src="../assets/img/icons/espana.png" alt="Github icon"></b-nav-item>
+            <b-nav-item to="/"><img class="imagen-nav" src="../assets/img/icons/espana.png" alt="Github icon"></b-nav-item>
             <b-nav-item to="/home-eng"><img class="imagen-nav" src="../assets/img/icons/united-kingdom.png" alt="Github icon"></b-nav-item>
         </b-navbar-nav>
         </b-collapse>
-        </b-navbar>
+      </b-navbar>
   </div>
 </template>
 
 <script>
 export default {
-    name:'Navbar',
+    name:'NavbarEng',
     components:{
     },
     props: {
@@ -38,16 +39,13 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 .header {
     font-family: Avenir, Helvetica, Arial, sans-serif;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
     position: fixed;
     width: 100%;
     min-width: 320px;
 }
 
 .header-logo {
+    border-radius: 5px;
     margin-left: 6px;
     height: 35px;
     width: 35px;
@@ -61,7 +59,21 @@ export default {
   color: #fff;
   letter-spacing:-1px;
   font-size: 14px;
-  margin-left:20px;
+}
+
+nav a {
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+}
+
+nav a.router-link-exact-active {
+  text-decoration: none;
+  color:hsl(208, 75%, 40%);
+}
+
+.imagen-nav {
+  height: 30px;
+  width: 30px;
 }
 
 @media screen and (max-width: 330px){
@@ -73,21 +85,4 @@ export default {
         width: 25px;
     }
 }
-
-nav a {
-  font-family: 'Varela Round', sans-serif;
-  font-weight: bold;
-  letter-spacing:0px;
-}
-
-nav a.router-link-exact-active {
-  text-decoration: none;
-  color:#ffffff;
-}
-
-.imagen-nav {
-  height: 30px;
-  width: 30px;
-}
-
 </style>

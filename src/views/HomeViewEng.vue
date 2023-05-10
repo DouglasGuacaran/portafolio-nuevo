@@ -3,33 +3,33 @@
       <Navbar id="nav-bar-sticky"/>
       <div class="section1" id="section1">
         <div class="section1-blur">
-          <h1 class="flex text-title">Bienvenid@! Soy Douglas</h1>
+          <h1 class="flex text-title">Welcome! I'm Douglas</h1>
           <span class="text-subtitle"
-            >specialized in the Front-End, with a good command of technologies and programming languages ​​such as HTML, Java, JavaScript and Python, frameworks such as Vue Js and Django, I have carried out projects implementing Restful APIs, management and control of versions with Git, I am currently focused on deepening the React library with NextJs, with the ability to self-learn, analyze complex problems and practice teamwork under agile methodologies in the process of being a future FullStack Developer</span>
+            >I am a Full-Stack developer with experience in multiple programming languages ​​and web development technologies like Python, Java, JavaScript, Vue, and React, as well as frameworks like Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. He also recently trained me in a data science bootcamp, which has allowed me to gain skills in key tools and technologies such as Python, SQL, pandas, numpy, scikit-learn, among others. My focus is always to understand my client's data and needs to create effective and customized data science solutions. If you are looking for an expert in web development and data science with a focus on quality, efficiency and innovation, do not hesitate to contact me! I am confident that we can work together to create impressive and effective web and data science solutions."</span>
         </div>
       </div>
       <div class="about" id="about">
-        <h2>Acerca De</h2>
+        <h2>About me</h2>
         <div class="about-cards" id="cards">
           <Card
             iconName="fa-solid fa-gears"
-            name="Perfil Profesional"
-            content="Desarrollador web y de software con orientación hacia al Front-End en proyectos de soluciones informáticas con el uso de lenguajes de programación como: Java, JavaScript, librerías como: React y marcos de trabajo tales como Vue, Django y Angular."
+            name="Professional profilep"
+            content="Web and software developer oriented towards the Front-End in IT solutions projects with the use of programming languages ​​such as: Java, JavaScript, libraries such as: React and frameworks such as Vue and Django."
           />
           <Card
           iconName="fa fa-mobile"
-          name="Habilidades"
-          content="Me autodefino como un profesional flexible, con liderazgo, capacidad de análisis y resolución de problemas, compromiso organizacional, dedicación y pasión, comunicación y escucha activa y disposición para el trabajo en equipo."
+          name="Skills"
+          content="Knowledge of frameworks, handling of some programming languages, Problem resolution, interest in technological innovation, teamwork, analitic person."
           />
           <Card
             iconName="fa fa-magic"
-            name="Un poco de mí"
-            content="Me gusta viajar y conocer personas, soy aficionado a la música, el ajedrez y de los deportes, me encanta la comida, me gusta disfrutar del sabor del café en grano, soy casado y junto a mi esposa tenemos a Miguel, nací en junio de 1980 en Mérida, Venezuela."
+            name="About me"
+            content="I like to travel and meet people, I am a fan of music, chess and sports, I love food, I like to enjoy the taste of coffee beans, I am married and together with my wife we ​​have Miguel, I was born in June 1980 in Merida, Venezuela."
           />
         </div>
       </div>
       <div class="portfolio" id="portfolio">
-        <h2>Portafolio</h2>
+        <h2>Portfolio</h2>
         <div class="portfolio-cards-container">
           <div class="portfolio-cards-group" role="radiogroup">
             <div
@@ -43,7 +43,7 @@
               href="https://douglasguacaran.github.io/moneyconverter-react/"
               target="_blank"
               >
-              <span>Proyecto Money Converter</span></a>
+              <span>Project Money Converter</span></a>
               <img
                   src="../assets/Money.jpg"
               />
@@ -59,7 +59,7 @@
                 href="https://douglasguacaran.github.io/vue-big-mobile//"
                 target="_blank"
                 >
-                <span>Proyecto Big Mobile</span><img
+                <span>Project Big Mobile</span><img
                   src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
               /></a>
             </div>
@@ -75,7 +75,7 @@
                 href="https://douglasguacaran.github.io/vue-pages-pokedex"
                 target="_blank"
                 >
-                <span>Proyecto Poke-Dex</span><img
+                <span>Project Poke-Dex</span><img
                   src="https://images.unsplash.com/photo-1650573547848-d7b93ed79782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
                   alt="Image description"
               /></a>
@@ -92,7 +92,7 @@
                 href="https://douglasguacaran.github.io/vue-marveldex"
                 target="_blank"
                 >
-                <span>Proyecto Marvel-Dex</span>
+                <span>Project Marvel-Dex</span>
                 <img
                   src="https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
                   alt="Image description"
@@ -102,27 +102,27 @@
         </div>
       </div>
       <div class="service" id="service">
-        <h2>Servicios que puedo ofrecerte</h2>
+        <h2>What I can do for you</h2>
         <div class="about-cards" id="cards">
           <CardService
             iconName="fa-regular fa-gem"
-            title="Desarrollador Front-End"
-            content="Implementar diseños web con uso de lenguajes de alto nivel tales como Python, Java o JavaScript, Manejo de peticiones asíncronas y Ajax, Accesibilidad del sitio web, SEO, manejo de versionado con Git"
+            title="Front-End Developer"
+            content="I have implemented solutions that improve the user experience on platforms and systems. I have skills in programming languages ​​like HTML, CSS, JavaScript, and frameworks like Vue.js and React. Furthermore, I have experience using libraries such as Bootstrap and Vuetify to optimize the design and functionality of applications."
           />
           <CardService
           iconName="fa-solid fa-wand-magic-sparkles"
-          title="Analista / Data Scientist"
-          content="Gestionar requerimientos y poblamientos de bases de datos a ambientes Cloud, con uso del lenguaje SQL. Manejo de herramientas de visualización tal como PowerBI"
+          title="Back-End"
+          content="My experience allows me to develop and maintain robust and scalable systems and platforms using technologies and programming languages ​​such as Java, Python and Node.js. Also, I have skills in designing and maintaining SQL and NoSQL databases. As well as in the implementation and consumption of API Restful services. in order to improve the quality of the applications."
           />
           <CardService
             iconName="fa-solid fa-rocket"
-            title="Desarrollador Full-Stack"
-            content="Definir arquitecturas eficientes y escalables. Asegurar la calidad de desarrollos bajo los lineamientos establecidos por las áreas técnicas de arquitectura base, bajo modalidad de metodología ágil"
+            title="Analist / Data Scientist"
+            content="Thanks to the Digital Talent scholarship I have trained in a data science bootcamp, in order to manage data and create predictive models, and I have also learned to analyze and understand large data sets using statistical techniques, machine learning and analysis of data. I can extract useful and valuable knowledge from data to help companies and organizations make data-driven decisions."
           />
         </div>
       </div>
       <div class="studies" id="studies">
-        <h2 class="studies-title">Estudios</h2>
+        <h2 class="studies-title">Education</h2>
         <div class="carousel1">
           <div
             id="carouselExampleIndicators"
@@ -221,68 +221,67 @@
           </div>
         </div>
         <div class="studies-main">
-          <h2>Estudios</h2>
-          <h3>Programas Educativos Intensivos</h3>
+          <h2>Education</h2>
+          <h3>Intensive Educational Programs</h3>
           <ul>
             <li>
-              <strong>Certified Tech Developer</strong> - Digital House becado por
-              Globant y Mercadolibre (En curso).
+              <strong>Certified Tech Developer</strong> - Digital House, scholarship granted by Globant and Mercadolibre (In progress).
             </li>
             <li>
-              <strong
-                >Desarrollador aplicaciones Full Stack Python Trainee</strong
-              >
-              - Sustantiva Inst. de Formación Laboral.
-            </li>
-            <li>
-              <strong>LowCode/NoCode</strong> - Microsoft Power Platform Power BI
-              - Ernest&Young.
-            </li>
-            <li>
-              <strong>Desarrollador aplicaciones de Software</strong> - Claro -
-              Madicap Inst. de Formación Laboral
-            </li>
-            <li>
-              <strong>Desarrollador aplicaciones FrontEnd trainee</strong> -
-              AwakeLab by Adalid Inkmark ltda.
-            </li>
-          </ul>
-          <h3>Postgrado</h3>
-          <ul>
-            <li><strong>Magíster en Física Médica</strong> - Egresado</li>
-          </ul>
+            <strong>Data Science</strong> -
+            AwakeLab by Aspasia.
+          </li>
+          <li>
+            <strong
+              >Full Stack Python Application Developer Trainee</strong
+            >
+            - Sustantiva Labor Training Institute.
+          </li>
+          <li>
+            <strong>LowCode/NoCode</strong> - Microsoft Power Platform Power BI
+            - Ernst & Young.
+          </li>
+          <li>
+            <strong>Software Application Developer</strong> - Claro -
+            Madicap Labor Training Institute.
+          </li>
+          <li>
+            <strong>FrontEnd Application Developer Trainee</strong> -
+            AwakeLab by Adalid Inkmark Ltda.
+          </li>
+        </ul>
+        <h3>Postgraduate</h3>
+        <ul>
+          <li><strong>Master's Degree in Medical Physics</strong> - Graduated</li>
+        </ul>
   
-          <h3>Universitaria</h3>
-          <ul>
-            <li>
-              <strong>Profesor de Física</strong> - Título revalidado por
-              Universidad de Chile. Mención Cum Laude.
-            </li>
-          </ul>
-          <h3>Certificaciones y Cursos</h3>
-          <ul>
-            <li>
-              <strong>Curador de Datos</strong> - Claro, Fundación Carlos Slim.
-            </li>
-            <li>
-              <strong>Lógica de Programación</strong> - Servicio Nacional de
-              Capacitación y Empleo y Fundación Carlos Slim.
-            </li>
-            <li>
-              <strong>Introducción a la Programación con Python</strong> -
-              Servicio Nacional de Capacitación y Empleo y Universidad Austral.
-            </li>
-            <li>
-              <strong>Processing Data with Python</strong> - Servicio Nacional de
-              Capacitación y Empleo y Universidad Austral.
-            </li>
-            <li>
-              <strong>Programación con JavaScript Ed 5</strong> - Servicio
-              Nacional de Capacitación y Empleo y Movistar.
-            </li>
-            <li>
-              <strong>Operador Integral de Computadoras</strong> - INESCO.</li>
-          </ul>
+        <h3>Undergraduate</h3>
+    <ul>
+      <li>
+        <strong>Physics Teacher</strong> - Degree revalidated by the University of Chile. Cum Laude Mention.
+      </li>
+    </ul>
+    <h3>Certifications and Courses</h3>
+    <ul>
+      <li>
+        <strong>Data Curator</strong> - Claro, Carlos Slim Foundation.
+      </li>
+      <li>
+        <strong>Programming Logic</strong> - National Service for Training and Employment and Carlos Slim Foundation.
+      </li>
+      <li>
+        <strong>Introduction to Programming with Python</strong> -
+        National Service for Training and Employment and Austral University.
+      </li>
+      <li>
+        <strong>Processing Data with Python</strong> - National Service for Training and Employment and Austral University.
+      </li>
+      <li>
+        <strong>Programming with JavaScript Ed 5</strong> - National Service for Training and Employment and Movistar.
+      </li>
+      <li>
+        <strong>Comprehensive Computer Operator</strong> - INESCO.</li>
+    </ul>
         </div>
         <div class="studies-bottom">
           <div class="studies-bottom-main">
@@ -295,9 +294,9 @@
                 />
                 <h2>Douglas Guacarán</h2>
               </div>
-              <h3>Desarrollador Front End</h3>
+              <h3>Web Developer / Data scientist</h3>
               <span class="studies-bottom-parraph"
-                >Profesional del desarrollo con experiencia en QA y en el desarrollo de aplicaciones web responsivas con conceptos de diseño como Mobile First, bajo paradigmas de programación como la programación orientada a objetos, programación funcional, microservicios.</span
+                >Professional developer with experience in QA and development of responsive web applications with design concepts such as Mobile First, under programming paradigms such as object-oriented programming, functional programming, and microservices. Additionally, I have experience with Design Thinking methodologies and a background in Data Science.</span
               >
             </div>
             <div class="studies-bottom-icons">
@@ -325,39 +324,35 @@
       </div>
   
       <div class="experience" id="experience">
-        <h2>Experiencia Laboral</h2>
+        <h2>Work Experience</h2>
         <div class="experience-main">
           <ul>
-            <li>
+              <li>
               <strong>Trainee</strong> -
-              <i> ElitSoft Ingeniería y Asesorías Informáticas LTDA </i> , abril
-              2022 - julio 2022.
+              <i> ElitSoft Ingeniería y Asesorías Informáticas LTDA </i> , April
+              2022 - July 2022.
               <p>
-                Actividades orientadas a la confección, desarrollo y ejecución de
-                pruebas de QA en proyectos web relacionados con la Banca usando
-                herramientas como Control M, Jira, CyberArk, manejo de bases de
-                datos SQL.
+                Activities focused on the preparation, development, and execution of QA tests on web projects related to Banking using tools such as Control M, Jira, CyberArk, and SQL database management.
               </p>
             </li>
             <li>
-              <strong>Voluntariado</strong> -
-              <i>Awake Factory S. L.</i> , octubre 
-              2020 - Enero 2021.
+              <strong>Volunteer Work</strong> -
+              <i>Awake Factory S.L.</i> , October 2020 - January 2021.
               <p>
-                Colaboración en el diseño e implementación del sitio web Distrito Digital de Magallanes con WordPress, metodología ágil utilizada: SCRUM.
+                Collaboration in the design and implementation of the Magallanes Digital District website with WordPress, using the agile methodology: SCRUM.
               </p>
             </li>
           </ul>
         </div>
       </div>
       <div class="contact" id="contact">
-        <h2>Datos de Contacto</h2>
+        <h2>Contact</h2>
         <div class="contact-main">
           <div class="contact-main-col">
             <div class="card contact-card">
               <div class="card-body contact-body">
                 <i class="fa fa-phone card-img-top"> </i>
-                <h3>Teléfono</h3>
+                <h3>Phone</h3>
                 <span>(+56) 9 4879 2726</span>
               </div>
             </div>
@@ -375,7 +370,7 @@
             <div class="card contact-card">
               <div class="card-body contact-body">
                 <i class="fa fa-map-marker card-img-top"></i>
-                <h3>Ubicación</h3>
+                <h3>Location</h3>
                 <span>Santiago de Chile, Región Metropolitana de Chile.</span>
               </div>
             </div>
@@ -384,7 +379,7 @@
         <div class="contact-form">
           <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLSeCmbfwIVpUwuNA8AeAd1AGVKpgdugJTfSk0BMWlAoaAHefVQ/formResponse"> 
             <label for="entry.409911114" class="form-label" >
-              Nombre
+              Name
             </label>
             <input type="text" class="form-control" name="entry.409911114" required>
             <label for="entry.1646563546" class="form-label" >
@@ -392,18 +387,18 @@
             </label>
             <input type="email" class="form-control" name="entry.1646563546" required>
             <label for="entry.1025755838" class="form-label" >
-              Asunto
+              Issue
             </label>
             <input type="text" class="form-control" name="entry.1025755838" required>
             <label for="entry.1621200888" class="form-label" >
-              Mensaje
+              Message
             </label>
-            <textarea class="form-control" placeholder="Deje su mensaje acá" name="entry.1621200888"></textarea>
-            <button class="contact-button" type="submit">Enviar</button>
+            <textarea class="form-control" placeholder="leave your message here" name="entry.1621200888"></textarea>
+            <button class="contact-button" type="submit">Send</button>
           </form>
         </div>
       </div>
-      <button class="btn" v-on:click="topFunction()" id="mybtn">Subir</button>
+      <button class="btn" v-on:click="topFunction()" id="mybtn">Up</button>
       <div class="footer">
         <Footer />
       </div>

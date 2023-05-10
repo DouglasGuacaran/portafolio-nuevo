@@ -4,9 +4,9 @@
     <div class="section1" id="section1">
       <div class="section1-blur">
         <h1 text class="flex text-title">Douglas Guacarán</h1>
-        <p class="text-subtitle"
-          >
-          Desarrollador web especializado en el Front-End, con buen manejo de tecnologías y lenguajes de programación tales como HTML, Java, JavaScript y Python, marcos de trabajo como Vue Js y Django, he realizado proyectos implementando manejo de Restful APIs, manejo y control de versiones con Git, actualmente estoy enfocado en profundizar en la librería React con NextJs, con la habilidad de autoaprendizaje, análisis de problemas complejos y práctica de trabajo en equipo bajo metodologías ágiles en vías de ser un futuro Desarrollador FullStack.</p>
+        <p class="text-subtitle">
+          Desarrollador Full-Stack con experiencia en múltiples lenguajes de programación y tecnologías de desarrollo web como Python, Java, JavaScript, Vue y React, así como frameworks como Django, Bootstrap y SASS. Además, tengo habilidades en la gestión de bases de datos y la creación de soluciones de almacenamiento de datos seguras y eficientes. Recientemente, también me he formado en un bootcamp de ciencia de datos, lo que me ha permitido adquirir habilidades en herramientas y tecnologías clave como Python, SQL, pandas, numpy, scikit-learn, entre otras. Mi enfoque es siempre el de comprender los datos y las necesidades de mi cliente para crear soluciones de ciencia de datos eficaces y personalizadas.
+        </p>
       </div>
     </div>
     <div class="about" id="about">
@@ -15,12 +15,12 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador del Front-End con participación en proyectos con el uso de lenguajes de programación como: Java, JavaScript, marcos de trabajo tales como; Vue Js y Django además de librerías como React."
+          content="Desarrollador web en proyectos con el uso de lenguajes de programación como: Java, JavaScript, marcos de trabajo tales como; Vue Js y Django además de librerías como React."
         />
         <Card
         iconName="fa fa-mobile"
         name="Habilidades"
-        content="Soy flexible, poseo capacidades de liderazgo y de análisis para resolución de problemas con dedicación y pasión, habilidades de comunicación y escucha activa y excelente disposición para el trabajo en equipo."
+        content="Conocimientos de frameworks, dominio lenguajes de programación, resolución de problemas, interés por la innovación tecnológica, trabajo en equipo, persona analítica."
         />
         <Card
           iconName="fa fa-magic"
@@ -108,17 +108,17 @@
         <CardService
           iconName="fa-regular fa-gem"
           title="Front-End"
-          content="Desarrollar e implementar plataformas o sistemas con uso de lenguajes de programación tales como HTML, Java, JavaScript o Python. Manejo de Boostrap, tailwind, vuetify."
+          content="He implementado soluciones que mejoran la experiencia del usuario en plataformas y sistemas. Poseo habilidades en lenguajes de programación como HTML, CSS, JavaScript, y marcos de trabajo como Vue.js y React. Además, tengo experiencia en el uso de librerías como Bootstrap y Vuetify para optimizar el diseño y la funcionalidad de las aplicaciones."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
         title="Back-End"
-        content="Gestionar requerimientos y poblamientos de bases de datos relacionales o no relacionales, mejorar o refactorizar soluciones de código existentes, manejo de SEO, Accesibilidad."
+        content="Mi experiencia me permite desarrollar y mantener sistemas y plataformas robustas y escalables utilizando tecnologías y lenguajes de programación como Java, Python y Node.js. Además, tengo habilidades en el diseño y mantenimiento de bases de datos SQL y NoSQL. Así como en la implementación y consumo de servicios de API Restful. con el fin de mejorar la calidad de las aplicaciones."
         />
         <CardService
           iconName="fa-solid fa-rocket"
-          title="Full-Stack Junior"
-          content="Desarrollar e implementar plataformas, aplicaciones o funcionalidades tanto en Front-End como Back-End con las tecnologías antes descritas."
+          title="Científico de Datos"
+          content="Gracias a la beca de Talento Digital me he formado en un bootcamp de ciencia de datos, con el fin de manejar datos y crear modelos predictivos, y también he aprendido a analizar y comprender grandes conjuntos de datos utilizando técnicas de estadística, aprendizaje de máquina y análisis de datos. Puedo extraer conocimiento útil y valioso de los datos para ayudar a las empresas y organizaciones a tomar decisiones basadas en datos."
         />
       </div>
     </div>
@@ -234,6 +234,7 @@
           </button>
         </div>
       </div>
+      
       <div class="studies-main">
         <h2>Estudios</h2>
         <h3>Programas Educativos Intensivos</h3>
@@ -241,6 +242,10 @@
           <li>
             <strong>Certified Tech Developer</strong> - Digital House becado por
             Globant y Mercadolibre (En curso).
+          </li>
+          <li>
+            <strong>Ciencia de datos</strong> -
+            AwakeLab by Aspasia.
           </li>
           <li>
             <strong
@@ -309,9 +314,9 @@
               />
               <h2>Douglas Guacarán</h2>
             </div>
-            <h3>Desarrollador Front End</h3>
+            <h3>Desarrollador web / Científico de Datos</h3>
             <span class="studies-bottom-parraph"
-              >Profesional del desarrollo con experiencia en QA y en el desarrollo de aplicaciones web responsivas con conceptos de diseño como Mobile First, bajo paradigmas de programación como la programación orientada a objetos, programación funcional, microservicios.</span
+              >Desarrollador profesional con experiencia en QA y desarrollo de aplicaciones web responsive con conceptos de diseño como Mobile First, bajo paradigmas de programación como programación orientada a objetos, programación funcional y microservicios. Adicionalmente, tengo experiencia con metodologías de Design Thinking y background en Data Science.</span
             >
           </div>
           <div class="studies-bottom-icons">
@@ -472,7 +477,6 @@ export default {
   padding: 0;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  font-size: 14px;
 }
 
 #nav-bar-sticky {
@@ -486,29 +490,6 @@ export default {
   display: flex;
 }
 
-.image-container{
-  background-image: url('../assets/img/perfil_1.png');  
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: auto 100%;
-}
-
-.image-container-row{
-  height: 300px;
-
-}
-.image-container-col{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  text-decoration: none;
-}
-.image-container-col a {
-  text-decoration: none;
-  text-align: center;
-  color: black;
-}
 .text-title {
   margin: 10;
   padding: 0px;
@@ -518,6 +499,7 @@ export default {
   font-size: 18px;
   color: #000000;
 }
+
 .text-subtitle {
   padding: 5px;
   text-align: justify;
@@ -642,7 +624,6 @@ export default {
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 350px;
 }
 
 @media screen and (min-width: 769px) {
@@ -657,6 +638,7 @@ export default {
 
   .perfil-cards {
     flex-direction: row;
+    align-items: flex-start;
   } 
 }
 .portfolio {
@@ -747,16 +729,17 @@ export default {
 }
 
 .cardService {
-  height: 280px;
+  height: auto;
   width: 290px;
-  padding: 15px;
+  padding: 10px;
   border: 1px solid rgba(0, 0, 0, 0.175);
   border-radius: 5px;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: start;
-  margin: 15px;
+  align-items: flex-start;
+  margin: 0px;
+  margin-bottom: 5px;
 }
 
 .cardService:hover {
@@ -808,12 +791,14 @@ export default {
 }
 
 @media screen and (min-width: 769px) {
+
   .cardService {
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: center;
-    height: 350px;
+    height: auto;
     width: 400px;
+    margin: 10px;
   }
   .studies-main {
     margin-left: 15%;
