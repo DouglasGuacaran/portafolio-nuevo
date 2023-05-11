@@ -480,12 +480,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-<<<<<<< HEAD
     height: 1000px;
-=======
-    justify-content: center;
-    height: 1300px;
->>>>>>> rama-dev
     background-image: url("../assets/Escritorio.jpg");
     background-position: center;
     background-repeat: no-repeat;
