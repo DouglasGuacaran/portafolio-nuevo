@@ -4,7 +4,6 @@
     <i :class="`${iconName} icon`"></i>
     <h2>{{name}}</h2>
     <span>{{content}}</span>
-    <span><a href="#">Leer más</a></span>
   </div>
 </template>
 
