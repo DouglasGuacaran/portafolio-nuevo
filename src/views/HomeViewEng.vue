@@ -462,8 +462,6 @@
   }
   
   .text-title {
-  margin: 10;
-  padding: 0px;
   justify-content: center;
   text-align: justify;
   font-weight: 700;
@@ -480,7 +478,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 1000px;
+    justify-content: center;
+    height: 1300px;
     background-image: url("../assets/Escritorio.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -498,6 +497,10 @@
     margin: 60px;
   }
   
+  .image-profile {
+  margin:2px ;
+  max-width: 200px;
+}
   .contact-form iframe {
     width: 335px;
   }
