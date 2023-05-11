@@ -545,10 +545,12 @@
   padding: 10px;
   margin: 60px;
   }
+
   .image-profile {
     margin:2px ;
     max-width: 200px;
   }
+  
   .contact-form iframe {
     width: 335px;
   }
