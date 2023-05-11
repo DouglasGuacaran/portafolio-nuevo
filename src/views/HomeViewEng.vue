@@ -104,7 +104,7 @@
     </div>
     <div class="service-eng" id="service-eng">
       <h2>What I can do for you</h2>
-      <div class="about-cards-eng" id="cards">
+      <div class="about-cards-eng" id="service-cards-eng">
         <CardService
           iconName="fa-regular fa-gem"
           title="Front-End Developer"
@@ -784,7 +784,6 @@ margin: 60px;
   text-align: center;
 }
 
-
 .studies-main-eng h2 {
   font-weight: 700;
 }
@@ -915,7 +914,9 @@ margin: 60px;
   height: auto;
   background-color: #ffffff;
 }
-
+.experience-eng h2 {
+  font-weight: 700;
+}
 .experience-main-eng {
   text-align: start;
   margin: 15px;
@@ -929,6 +930,9 @@ margin: 60px;
   padding-top: 20px;
   height: auto;
   background-color: #ffffff;
+}
+.publications-eng h2 {
+  font-weight: 700;
 }
 .publications-main-eng{
   text-align: start;
@@ -945,7 +949,9 @@ margin: 60px;
   text-align: center;
   padding-top: 20px;
 }
-
+.contact-eng h2 {
+  font-weight: 700;
+}
 .contact-main-eng {
   display: flex;
   flex-direction: column;
