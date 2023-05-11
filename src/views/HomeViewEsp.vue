@@ -2,11 +2,13 @@
   <div class="flex body">
     <Navbar id="nav-bar-sticky"/>
     <div class="section1" id="section1">
+      <img class = "image-profile" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
       <div class="section1-blur">
-        <h1 text class="flex text-title">Douglas Guacarán</h1>
+        <h1 text class="flex text-title">Bienvenido Soy Douglas</h1>
         <p class="text-subtitle">
-          Desarrollador Full-Stack con experiencia en múltiples lenguajes de programación y tecnologías de desarrollo web como Python, Java, JavaScript, Vue y React, así como frameworks como Django, Bootstrap y SASS. Además, tengo habilidades en la gestión de bases de datos y la creación de soluciones de almacenamiento de datos seguras y eficientes. Recientemente, también me he formado en un bootcamp de ciencia de datos, lo que me ha permitido adquirir habilidades en herramientas y tecnologías clave como Python, SQL, pandas, numpy, scikit-learn, entre otras. Mi enfoque es siempre el de comprender los datos y las necesidades de mi cliente para crear soluciones de ciencia de datos eficaces y personalizadas.
+          Soy un Profesor de Física especialista en Protección Radiológica, con al menos nueve publicaciones como co-autor en el campo de la Física Médica, relator de al menos 10 cursos en PR de forma presencial y remota en Chile, Oficial de Protección Radiológica del Hospital Clínico de Magallanes. Recientemente, he dado un giro a mi carrera y me he convertido en un desarrollador Full-Stack con experiencia en múltiples lenguajes de programación y tecnologías de desarrollo web como Python, Java, JavaScript, Vue y React, así como frameworks como Django, Bootstrap y SASS. Además, tengo habilidades en la gestión de bases de datos y la creación de soluciones de almacenamiento de datos seguras y eficientes. Recientemente, también me he formado en un bootcamp de ciencia de datos, lo que me ha permitido adquirir habilidades en herramientas y tecnologías clave como Python, SQL, pandas, numpy, scikit-learn, entre otras. Mi enfoque es siempre el de comprender los datos para implementar soluciones de ciencia de datos eficaces y personalizadas. Soy un profesional altamente comprometido y apasionado, con la capacidad de combinar habilidades técnicas sólidas con conocimientos especializados en Física Médica para enfrentar nuevos desafíos y retos de la programación.
         </p>
+        
       </div>
     </div>
     <div class="about" id="about">
@@ -234,7 +236,6 @@
           </button>
         </div>
       </div>
-      
       <div class="studies-main">
         <h2>Estudios</h2>
         <h3>Programas Educativos Intensivos</h3>
@@ -248,9 +249,7 @@
             AwakeLab by Aspasia.
           </li>
           <li>
-            <strong
-              >Desarrollador aplicaciones Full Stack Python Trainee</strong
-            >
+            <strong>Desarrollador aplicaciones Full Stack Python Trainee</strong>
             - Sustantiva Inst. de Formación Laboral.
           </li>
           <li>
@@ -338,7 +337,7 @@
             <img src="../assets/img/icons/Jira.png" alt="12">
             <img src="../assets/img/icons/bmc.png" alt="1">
             <img src="../assets/img/icons/CyberArk.png" alt="5">
-          </div>s
+          </div>
         </div>
       </div>
     </div>
@@ -352,10 +351,7 @@
             <i> ElitSoft Ingeniería y Asesorías Informáticas LTDA </i> , abril
             2022 - julio 2022.
             <p>
-              Actividades orientadas a la confección, desarrollo y ejecución de
-              pruebas de QA en proyectos web relacionados con la Banca usando
-              herramientas como Control M, Jira, CyberArk, manejo de bases de
-              datos SQL.
+              Actividades orientadas a la confección, desarrollo y ejecución de pruebas de QA en proyectos web relacionados con la Banca usando herramientas como Control M, Jiraz, CyberArk, manejo de bases de datos SQL.
             </p>
           </li>
           <li>
@@ -369,6 +365,43 @@
         </ul>
       </div>
     </div>
+
+    <div class="publications" id="publications">
+      <h2>Publicaciones Científicas</h2>
+      <div class="publications-main">
+        <ul>
+          <li>
+            <i> Memorias V Congreso Latinoamericano de Física Médica. Encuentro Iberoamericano de Física Médica. III Congreso Peruano de Física Médica. VI Congreso Peruano de Protección Radiológica. C Leal. L Carrizales. D Guacarán. A Moreno y J Duran. <strong>Calibración de Detectores Portátiles de Radiación Ionizante.</strong> Cusco Perú 2010.</i>
+          </li>
+          <li>
+            <i>Memorias V Congreso Latinoamericano de Física Médica. Encuentro Iberoamericano de Física Médica. III Congreso Peruano de Física Médica. VI Congreso Peruano de Protección Radiológica. L Carrizales. A Moreno. C Leal. D Guacarán y J. Duran. <strong>Diagnostico a Dos Décadas del Laboratorio Secundario de calibración Dosimétrica del Instituto Venezolano de Investigaciones Científicas.</strong> Cusco Perú 2010</i>
+          </li>
+          <li>
+            <i>Memorias VIII Congreso Regional de Seguridad Radiológica y Nuclear, I Congreso Latinoamericano del IRPA, V Congreso Nacional de Protección Radiológica DSSA. Leal C. Villa N. Carrizales L. Guacarán D. Moreno A y Duran J. <strong>Estimación del Kerma en Procedimientos de Cardiología Intervencionista.</strong> Medellín Colombia 2010.</i>
+          </li>
+          <li>
+            <i>Memorias VIII Congreso Regional de Seguridad Radiológica y Nuclear, I Congreso Latinoamericano del IRPA, V Congreso Nacional de Protección Radiológica DSSA. Guacarán D. Carrizales L. Leal C. Moreno A y Duran J. <strong>Evaluación Radiológica y Dosimétrica de la Unidad de Cobalto 60 Instalada en el Laboratorio Secundario de Calibración Dosimétrica de Venezuela.</strong> Medellín Colombia 2010.</i>
+          </li>
+          <li>
+            <i>Memorias VIII Congreso Regional de Seguridad Radiológica y Nuclear, I Congreso Latinoamericano del IRPA, V Congreso Nacional de Protección Radiológica DSSA. Moreno A. Camacho C. Carrizales L. Leal C. Duran J y Guacarán D. <strong>Estimación del Kerma en Aire en la Piel de Pacientes Sometidos a Estudios de Endodoncia y Ortodoncia.</strong> Medellín Colombia 2010.</i>
+          </li>
+          <li>
+            <i>Memorias VIII Congreso Regional de Seguridad Radiológica y Nuclear, I Congreso Latinoamericano del IRPA, V Congreso Nacional de Protección Radiológica DSSA. Duran J. Carrizales L. Leal C. Moreno A. y Guacarán D. <strong>Intercomparación de Coeficientes de Calibración de una Cámara Tipo Farmer LSCD-IVIC con el Laboratorio Seiberdorf, Viena.</strong> Medellín Colombia 2010.</i>
+          </li>
+          <li>
+            <i>Encuentro Iberoamericano de Protección Radiológica, Simposio Internacional Sobre Protección Radiológica, C. Leal, L. Carrizales Silva, D. Guacarán, A. Moreno, J. Durán, N. Villa, <strong>Estimación del Kerma en procedimientos de cardiología Intervencionista.</strong></i>
+          </li>
+          <li>
+            <i>Encuentro Iberoamericano de Protección Radiológica, Simposio Internacional Sobre Protección Radiológica, J. A. Durán, L. Carrizales S., C. Leal, A. Moreno, D. Guacarán, <strong>Intercomparación de los coeficientes de calibración de una cámara de LSCD-IVIC con el Laboratorio de Siebersdorf Viena.</strong></i>
+          </li>
+          <li>
+            <i>Segundo Congreso Venezolano, Ciencia, Tecnología e Innovación, J. A. Durán, L. Carrizales S., C. Leal, A. Moreno, D. Guacarán,  <strong>Resultados de la República Bolivariana de Venezuela en la Comparación de Coeficientes de Calibración de la Red de LSCD-OIEA-OMS.</strong></i>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
     <div class="contact" id="contact">
       <h2>Datos de Contacto</h2>
       <div class="contact-main">
@@ -491,10 +524,9 @@ export default {
 }
 
 .text-title {
-  margin: 10;
-  padding: 0px;
   justify-content: center;
   text-align: center;
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 26px;
   color: #000000;
@@ -511,7 +543,12 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
+<<<<<<< HEAD
   height: 1000px;
+=======
+  justify-content: center;
+  height: 1300px;
+>>>>>>> rama-dev
   background-image: url("../assets/Escritorio.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -529,37 +566,43 @@ export default {
   margin: 60px;
 }
 
+.image-profile {
+  margin:2px ;
+  max-width: 200px;
+}
+
 .contact-form iframe {
   width: 335px;
 }
 
 @media screen and (min-width: 769px) {
-  *{
-    font-size: 16px;
-  }
   .flex {
     display:flex;
     justify-content: center;
   }
   .text-title {
-    padding:15px;
     width: auto;
-    font-size: 48px;
+    font-size: 38px;
   }
   .text-subtitle{
-    padding: 20px;
+    font-size: 19px;
     text-align: justify;
     color:#555;
-    font-size: 24px;
   }
   .section1 {
+    flex-direction: row;
     padding: 20px;
-    height: 900px;
+    height: 1000px;
   }
 
-  .section1-blur {
-    width: 72%;
-    margin: 200px 30px 10px 30px;
+  .section1-blur{
+      max-width: 65%;
+      padding: 5px;
+    margin: 10px;
+    }
+    .image-profile {
+    margin:2px ;
+    max-width: 400px;
   }
 
   .contact-form iframe {
@@ -919,6 +962,20 @@ export default {
 }
 
 .experience-main {
+  text-align: start;
+  margin: 15px;
+  padding-top: 20px;
+  height: auto;
+  background-color: #ffffff;
+}
+.publications {
+  text-align: center;
+  padding-top: 60px;
+  height: auto;
+  background-color: #ffffff;
+}
+
+.publications-main {
   text-align: start;
   margin: 15px;
   padding-top: 20px;
