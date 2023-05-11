@@ -6,7 +6,7 @@
       <div class="section1-blur">
         <h1 text class="flex text-title">Bienvenido Soy Douglas</h1>
         <p class="text-subtitle">
-          Soy un Profesor de Física especialista en Protección Radiológica, con al menos nueve publicaciones como co-autor en el campo de la Física Médica, relator de al menos 10 cursos en PR de forma presencial y remota en Chile, Oficial de Protección Radiológica del Hospital Clínico de Magallanes. Recientemente, he dado un giro a mi carrera y me he convertido en un desarrollador Full-Stack con experiencia en múltiples lenguajes de programación y tecnologías de desarrollo web como Python, Java, JavaScript, Vue y React, así como frameworks como Django, Bootstrap y SASS. Además, tengo habilidades en la gestión de bases de datos y la creación de soluciones de almacenamiento de datos seguras y eficientes. Recientemente, también me he formado en un bootcamp de ciencia de datos, lo que me ha permitido adquirir habilidades en herramientas y tecnologías clave como Python, SQL, pandas, numpy, scikit-learn, entre otras. Mi enfoque es siempre el de comprender los datos para implementar soluciones de ciencia de datos eficaces y personalizadas. Soy un profesional altamente comprometido y apasionado, con la capacidad de combinar habilidades técnicas sólidas con conocimientos especializados en Física Médica para enfrentar nuevos desafíos y retos de la programación.
+          Soy un Profesor de Física especialista en Protección Radiológica, con al menos diez publicaciones como co-autor en el campo de la Física Médica, relator de al menos 10 cursos en PR de forma presencial y remota en Chile, Oficial de Protección Radiológica del Hospital Clínico de Magallanes. Recientemente, he dado un giro a mi carrera y me he convertido en un desarrollador Full-Stack con experiencia en múltiples lenguajes de programación y tecnologías de desarrollo web como Python, Java, JavaScript, Vue y React, así como frameworks como Django, Bootstrap y SASS. Además, tengo habilidades en la gestión de bases de datos y la creación de soluciones de almacenamiento de datos seguras y eficientes. Recientemente, también me he formado en un bootcamp de ciencia de datos, lo que me ha permitido adquirir habilidades en herramientas y tecnologías clave como Python, SQL, pandas, numpy, scikit-learn, entre otras. Mi enfoque es siempre el de comprender los datos para implementar soluciones de ciencia de datos eficaces y personalizadas. Soy un profesional altamente comprometido y apasionado, con la capacidad de combinar habilidades técnicas sólidas con conocimientos especializados en Física Médica para enfrentar nuevos desafíos y retos de la programación.
         </p>
         
       </div>
@@ -543,12 +543,8 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
-<<<<<<< HEAD
-  height: 1000px;
-=======
   justify-content: center;
   height: 1300px;
->>>>>>> rama-dev
   background-image: url("../assets/Escritorio.jpg");
   background-position: center;
   background-repeat: no-repeat;
