@@ -1,20 +1,20 @@
 <template>
     <div class="flex body">
-      <Navbar id="nav-bar-sticky"/>
-      <div class="section1" id="section1">
-        <img class = "image-profile" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
-        <div class="section1-blur">
-          <h1 class="flex text-title">Welcome! I'm Douglas</h1>
-          <p class="text-subtitle"
+      <Navbar id="nav-bar-sticky-eng"/>
+      <div class="section1-eng" id="section1-eng">
+        <img class = "image-profile-eng" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
+        <div class="section1-blur-eng">
+          <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
+          <p class="text-subtitle-eng"
             >I am a Physics Professor specialist in Radiological Protection, with at least nine publications as co-autor in the field of Medical Physics, and a certified lecturer in at least 10 PR courses both in-person and remotely in Chile. Radiological Protection Officer at the Hospital Clínico de Magallanes until december 2020. Recently, I have shifted my career towards becoming a Full-Stack Developer with experience in multiple programming languages and web development technologies such as Python, Java, JavaScript, Vue, and React, as well as frameworks such as Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. I have also completed a Data Science bootcamp, which has allowed me to acquire skills in key tools and technologies such as Python, SQL, pandas, numpy, and scikit-learn, among others. My focus is always on understanding data to implement effective and personalized data science solutions. I am a highly committed and passionate professional with the ability to combine solid technical skills with specialized knowledge in Medical Physics  to face new challenges and programming tasks.</p>
         </div>
       </div>
-      <div class="about" id="about">
+      <div class="about-eng" id="about-eng">
         <h2>About me</h2>
-        <div class="about-cards" id="cards">
+        <div class="about-cards-eng" id="cards">
           <Card
             iconName="fa-solid fa-gears"
-            name="Professional profilep"
+            name="Professional profile"
             content="Web and software developer oriented towards the Front-End in IT solutions projects with the use of programming languages ​​such as: Java, JavaScript, libraries such as: React and frameworks such as Vue and Django."
           />
           <Card
@@ -24,17 +24,17 @@
           />
           <Card
             iconName="fa fa-magic"
-            name="About me"
-            content="I like to travel and meet people, I am a fan of music, chess and sports, I love food, I like to enjoy the taste of coffee beans, I am married and together with my wife we ​​have Miguel, I was born in June 1980 in Merida, Venezuela."
+            name="More about me"
+            content="I like to play acoustic guitar, I am a fan of music, chess and sports, I love food, I like to enjoy the taste of coffee beans, I was born in June 1980 in Merida, Venezuela."
           />
         </div>
       </div>
-      <div class="portfolio" id="portfolio">
+      <div class="portfolio-eng" id="portfolio-eng">
         <h2>Portfolio</h2>
-        <div class="portfolio-cards-container">
-          <div class="portfolio-cards-group" role="radiogroup">
+        <div class="portfolio-cards-container-eng">
+          <div class="portfolio-cards-group-eng" role="radiogroup">
             <div
-              class="portfolio-card__btn"
+              class="portfolio-card__btn-eng"
               role="radio"
               aria-checked="false"
               tabindex="-1"
@@ -50,7 +50,7 @@
               />
             </div>
             <div
-              class="portfolio-card__btn"
+              class="portfolio-card__btn-eng"
               role="radio"
               aria-checked="false"
               tabindex="-1"
@@ -66,7 +66,7 @@
             </div>
   
             <div
-              class="portfolio-card__btn"
+              class="portfolio-card__btn-eng"
               role="radio"
               aria-checked="false"
               tabindex="-1"
@@ -83,7 +83,7 @@
             </div>
   
             <div
-              class="portfolio-card__btn"
+              class="portfolio-card__btn-eng"
               role="radio"
               aria-checked="false"
               tabindex="-1"
@@ -102,9 +102,9 @@
           </div>
         </div>
       </div>
-      <div class="service" id="service">
+      <div class="service-eng" id="service-eng">
         <h2>What I can do for you</h2>
-        <div class="about-cards" id="cards">
+        <div class="about-cards-eng" id="cards">
           <CardService
             iconName="fa-regular fa-gem"
             title="Front-End Developer"
@@ -112,7 +112,7 @@
           />
           <CardService
           iconName="fa-solid fa-wand-magic-sparkles"
-          title="Back-End"
+          title="Back-End De"
           content="My experience allows me to develop and maintain robust and scalable systems and platforms using technologies and programming languages ​​such as Java, Python and Node.js. Also, I have skills in designing and maintaining SQL and NoSQL databases. As well as in the implementation and consumption of API Restful services. in order to improve the quality of the applications."
           />
           <CardService
@@ -234,7 +234,7 @@
             </button>
           </div>
         </div>
-        <div class="studies-main">
+        <div class="studies-main-eng">
           <h2>Education</h2>
           <h3>Intensive Educational Programs</h3>
           <ul>
@@ -295,19 +295,19 @@
         <strong>Comprehensive Computer Operator</strong> - INESCO.</li>
     </ul>
         </div>
-        <div class="studies-bottom">
-          <div class="studies-bottom-main">
-            <div class="studies-bottom-container">
-              <div class="studies-bottom-main-content">
+        <div class="studies-bottom-eng">
+          <div class="studies-bottom-main-eng">
+            <div class="studies-bottom-container-eng">
+              <div class="studies-bottom-main-content-eng">
                 <img
-                  class="studies-bottom-img"
+                  class="studies-bottom-img-eng"
                   src="../assets/img/perfil.png"
                   alt="Foto perfil"
                 />
                 <h2>Douglas Guacarán</h2>
               </div>
               <h3>Web Developer / Data scientist</h3>
-              <span class="studies-bottom-parraph"
+              <span class="studies-bottom-parraph-eng"
                 >Professional developer with experience in QA and development of responsive web applications with design concepts such as Mobile First, under programming paradigms such as object-oriented programming, functional programming, and microservices. Additionally, I have experience with Design Thinking methodologies and a background in Data Science.</span
               >
             </div>
@@ -335,9 +335,9 @@
         </div>
       </div>
   
-      <div class="experience" id="experience">
+      <div class="experience-eng" id="experience-eng">
         <h2>Work Experience</h2>
-        <div class="experience-main">
+        <div class="experience-main-eng">
           <ul>
               <li>
               <strong>Trainee</strong> -
@@ -358,9 +358,9 @@
         </div>
       </div>
 
-      <div class="publications" id="publications">
+      <div class="publications-eng" id="publications-eng">
       <h2>Scientific Publications</h2>
-      <div class="publications-main">
+      <div class="publications-main-eng">
         <ul>
           <li>
             <i>Proceedings of the V Latin American Congress of Medical Physics, Ibero-American Meeting of Medical Physics, III Peruvian Congress of Medical Physics, VI Peruvian Congress of Radiological Protection. C. Leal, L. Carrizales, D. Guacarán, A. Moreno, and J. Duran. <strong>Calibration of Portable Ionizing Radiation Detectors.</strong> Cusco, Peru, 2010.</i>
@@ -393,30 +393,30 @@
       </div>
     </div>
 
-      <div class="contact" id="contact">
+      <div class="contact-eng" id="contact-eng">
         <h2>Contact</h2>
-        <div class="contact-main">
-          <div class="contact-main-col">
-            <div class="card contact-card">
-              <div class="card-body contact-body">
+        <div class="contact-main-eng">
+          <div class="contact-main-col-eng">
+            <div class="card contact-card-eng">
+              <div class="card-body-eng contact-body-eng">
                 <i class="fa fa-phone card-img-top"> </i>
                 <h3>Phone</h3>
                 <span>(+56) 9 4879 2726</span>
               </div>
             </div>
           </div>
-          <div class="contact-main-col">
-            <div class="card contact-card">
-              <div class="card-body contact-body">
+          <div class="contact-main-col-eng">
+            <div class="card contact-card-eng">
+              <div class="card-body-eng contact-body-eng">
                 <i class="fa-solid fa-envelope card-img-top"></i>
                 <h3>Email</h3>
                 <span>douglasguacaran@gmail.com</span>
               </div>
             </div>
           </div>
-          <div class="contact-main-col">
-            <div class="card contact-card">
-              <div class="card-body contact-body">
+          <div class="contact-main-col-eng">
+            <div class="card contact-card-eng">
+              <div class="card-body-eng contact-body-eng">
                 <i class="fa fa-map-marker card-img-top"></i>
                 <h3>Location</h3>
                 <span>Santiago de Chile, Región Metropolitana de Chile.</span>
@@ -441,13 +441,13 @@
             <label for="entry.1621200888" class="form-label" >
               Message
             </label>
-            <textarea class="form-control" placeholder="leave your message here" name="entry.1621200888"></textarea>
-            <button class="contact-button" type="submit">Send</button>
+            <textarea class="form-control" placeholder="Leave your message in here" name="entry.1621200888"></textarea>
+            <button class="contact-button-eng" type="submit">Send</button>
           </form>
         </div>
       </div>
-      <button class="btn" v-on:click="topFunction()" id="mybtn">Up</button>
-      <div class="footer">
+      <button class="btn" v-on:click="topFunction()" id="mybtn-eng">Up</button>
+      <div class="footer-eng">
         <Footer />
       </div>
     </div>
@@ -492,14 +492,8 @@
   <style>
   @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
   /* Estilos Generales */
-  * {
-    margin: 0;
-    padding: 0;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    
-  }
-  #nav-bar-sticky {
+
+  #nav-bar-sticky-eng {
     position: fixed;
     top: 0;
     width: 100%;
@@ -509,7 +503,7 @@
     display: flex;
   }
   
-  .text-title {
+  .text-title-eng {
     justify-content: center;
     text-align: center;
     text-transform: capitalize;
@@ -523,12 +517,12 @@
     color: #000000;
     font-size: 16px;
   }
-  .section1 {
+  .section1-eng {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 1300px;
+    height: 1625px;
     background-image: url("../assets/Escritorio.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -536,17 +530,17 @@
     padding-top: 50px;
   }
   
-  .section1-blur {
+  .section1-blur-eng {
   width: 85%;
   text-align: center;
-  backdrop-filter: blur(2.5px);
+  backdrop-filter: blur(1.0px);
   background-color: hsla(0, 0%, 100%, 0.748);
   border-radius: 15px;
   padding: 10px;
   margin: 60px;
   }
 
-  .image-profile {
+  .image-profile-eng {
     margin:2px ;
     max-width: 200px;
   }
@@ -560,29 +554,35 @@
       display:flex;
       justify-content: center;
     }
-    .text-title {
+
+    .text-title-eng {
       width: auto;
       font-size: 38px;
     }
-    .text-subtitle{
+
+    .text-subtitle-eng {
       font-size: 19px;
       text-align: justify;
       color:#555;
     }
-    .section1{
+
+    .section1-eng{
       flex-direction: row;
       padding: 20px;
       height: 1000px;
     }
-    .section1-blur{
+
+    .section1-blur-eng{
       max-width: 65%;
       padding: 5px;
     margin: 10px;
     }
-    .image-profile {
-    margin:2px ;
+
+    .image-profile-eng {
+    margin: 2px;
     max-width: 400px;
     }
+
     .contact-form iframe {
       width: 700px;
     }
@@ -592,7 +592,7 @@
     flex-direction: column;
   }
   
-  .about {
+  .about-eng {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -602,7 +602,7 @@
     z-index: 1;
   }
   
-  .about-cards {
+  .about-cards-eng {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -640,7 +640,7 @@
   }
   
   @media screen and (min-width: 769px) {
-    .about-cards {
+    .about-cards-eng {
       flex-direction: row;
     }
     .card span {
@@ -649,34 +649,34 @@
     }
   }
   
-  .portfolio {
+  .portfolio-eng {
     text-align: center;
     padding-top: 60px;
   }
   
-  .portfolio-cards-container {
+  .portfolio-cards-container-eng {
     width: 100%;
     margin: auto;
   }
   
-  .portfolio-cards-group {
+  .portfolio-cards-group-eng {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
   }
   
-  .portfolio-cards-group:hover .portfolio-card__btn:not(:hover) {
+  .portfolio-cards-group-eng:hover .portfolio-card__btn_eng:not(:hover) {
     filter: grayscale(100%);
     opacity: 0.75;
   
   }
   
-  .portfolio-cards-group:hover .portfolio-card__btn:not(:hover)::after {
+  .portfolio-cards-group-eng:hover .portfolio-card__btn-eng:not(:hover)::after {
     background-color: rgba(#000, 0.5);
   }
   
-  .portfolio-card__btn {
+  .portfolio-card__btn-eng {
     position: relative;
     width: 80%;
     max-width: 395px;
@@ -686,7 +686,7 @@
     transition: 0.3s;
   }
   
-  .portfolio-card__btn::after {
+  .portfolio-card__btn-eng::after {
     width: 100%;
     height: 100%;
     background-color: rgba(#000, 0);
@@ -694,17 +694,17 @@
   }
   
   
-  .portfolio-card__btn img {
+  .portfolio-card__btn-eng img {
     width: 90%;
     border-radius: 5px;
     max-width: 100%;
   }
   
-  .portfolio-card__btn a {
+  .portfolio-card__btn-eng a {
     text-decoration: none;
   } 
   
-  .portfolio-card__btn a span {
+  .portfolio-card__btn-eng a span {
     text-decoration: none;
     color: #6195ff;
     font-size: 18px;
@@ -713,22 +713,22 @@
     opacity: 0;
   }
   
-  .portfolio-card__btn:hover a span {
+  .portfolio-card__btn-eng:hover a span {
     opacity: 1;
     -webkit-transition: .3s ease-in-out;
       transition: .3s ease-in-out;
   }
   
   @media (max-width: 769px) {
-    .portfolio-cards-group {
+    .portfolio-cards-group-eng {
       flex-direction: column;
     }
-    .portfolio-card__btn img {
+    .portfolio-card__btn-eng img {
       width: 100%;
     }
   }
   
-  .service {
+  .service-eng {
     text-align: center;
     padding-top: 60px;
     height: auto;
@@ -737,6 +737,7 @@
   }
   
   .cardService {
+    min-height: 410px;
     width: 290px;
     padding: 15px;
     border: 1px solid rgba(0, 0, 0, 0.175);
@@ -758,12 +759,17 @@
     margin: 2px;
   }
   
-  .column span {
-    font-weight: 400;
-  }
-  
   /* Seccion de estudios */
   
+  .studies-main-eng {
+    padding-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+
   .studies-bottom-parraph{
     font-size: 14px;
   }
@@ -778,20 +784,12 @@
     text-align: center;
   }
   
-  .studies-main {
-    padding-top: 25px;
-    margin-left: 10%;
-    margin-right: 10%;
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-  }
   
-  .studies-main h2 {
+  .studies-main-eng h2 {
     font-weight: 700;
   }
   
-  .studies-main h3 {
+  .studies-main-eng h3 {
     font-weight: 600;
     font-size: 22px;
   }
@@ -800,11 +798,11 @@
     .cardService {
       width: 400px;
     }
-    .studies-main {
+    .studies-main-eng {
       margin-left: 15%;
       margin-right: 15%;
     }
-    .studies-bottom-parraph{
+    .studies-bottom-parraph-eng{
       width: 65%;
       font-size: 16px;
     }
@@ -815,11 +813,11 @@
     margin: auto;
   }
   
-  .studies-bottom {
+  .studies-bottom-eng {
     text-align: center;
   }
   
-  .studies-bottom-main {
+  .studies-bottom-main-eng {
     height: auto;
     opacity: 0.96;
     background-image: url("../assets/Ajedrez.jpg");
@@ -828,7 +826,7 @@
     background-attachment: fixed;
   }
   
-  .studies-bottom-container {
+  .studies-bottom-container-eng {
     width: 65%;
     margin: auto;
     display: flex;
@@ -837,7 +835,7 @@
     justify-content: center;
   }
   
-  .studies-bottom-main-content {
+  .studies-bottom-main-content-eng {
     padding-top: 50px;
     display: flex;
     flex-direction: row;
@@ -845,20 +843,20 @@
     justify-content: center;
   }
   
-  .studies-bottom-main-content h2 {
+  .studies-bottom-main-content-eng h2 {
     margin: 10px;
     color: #ffffff;
     font-weight: 700;
     font-size: 16px;
   }
   
-  .studies-bottom-container h3 {
+  .studies-bottom-container-eng h3 {
     margin: 10px;
     color: #ffffff;
     font-weight: 400;
   }
   
-  .studies-bottom-img {
+  .studies-bottom-img-eng {
     width: 28%;
     border-radius: 50%;
     transition: 0.2s;
@@ -866,39 +864,39 @@
   
   
   @media screen and (min-width: 769px) {
-    .studies-bottom-container {
+    .studies-bottom-container-eng {
       width: 80%;
     }
     
-    .studies-bottom-img {
+    .studies-bottom-img-eng {
       margin: 4px;
       max-width: 90px;
       border-radius: 50%;
     }
   
-    .studies-bottom-img:hover {
+    .studies-bottom-img-eng:hover {
       transform: scale(1.5);
     }
     
-    .studies-bottom-main-content h2 {
+    .studies-bottom-main-content-eng h2 {
       font-size: 32px;
     }
   }
   
   @media screen and (min-width: 501px) and (max-width:768) {
-    .studies-bottom-main-content h2 {
+    .studies-bottom-main-content-eng h2 {
       font-size: 22px;
     }
   }
-  .studies-bottom-parraph {
+  .studies-bottom-parraph-eng {
     color: #ffffff;
   }
   
-  .studies-bottom-icons {
+  .studies-bottom-icons-eng {
     padding-top: 35px;
   }
   
-  .studies-bottom-icons img {	
+  .studies-bottom-icons-eng img {	
     background-color: #fff;
     border-radius: 10px;
     margin: 4px;
@@ -907,18 +905,18 @@
     transition: transform .3s
   }
   
-  .studies-bottom-icons img:hover {	
+  .studies-bottom-icons-eng img:hover {	
     transform: scale(2);
   }
   
-  .experience {
+  .experience-eng {
     text-align: center;
-    padding-top: 60px;
+    padding-top: 40px;
     height: auto;
     background-color: #ffffff;
   }
   
-  .experience-main {
+  .experience-main-eng {
     text-align: start;
     margin: 15px;
     padding-top: 20px;
@@ -926,63 +924,83 @@
     background-color: #ffffff;
   }
   
-  /* Sección Contacto */
-  .contact {
+  .publications-eng{
     text-align: center;
-    padding-top: 60px;
+    padding-top: 20px;
+    height: auto;
+    background-color: #ffffff;
+  }
+  .publications-main-eng{
+    text-align: start;
+    margin: 15px;
+    padding-top: 20px;
+    height: auto;
+    background-color: #ffffff;
+  }
+  .publications-main-eng ul li{
+    padding:10px;
+  }
+  /* Sección Contacto */
+  .contact-eng {
+    text-align: center;
+    padding-top: 20px;
   }
   
-  .contact-main {
+  .contact-main-eng {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
   }
   
-  .contact-main-col{
+  .contact-main-col-eng{
     width: 80%;
     display: flex;
     justify-content: center;
+    align-items: center;
   }
   
-  .contact-card {
-    width: 80%;
+  .contact-card-eng {
+    width: 100%;
   }
-  .contact-body{
-    height:215px;
-   }
-  
-  @media screen and (max-width: 769px) {
-    .experience-main {
-      padding-top:60px;
+  .contact-main-col-eng .card {
+    min-height: 150px !important;
+  }
+
+@media screen and (min-width: 769px) {
+  .experience-main-eng {
+      padding-top:20px;
       margin:25px;
     }
-    .contact-main-col{
+    .contact-main-col-eng {
+      display: flex;
+      justify-content: center;
       width: 90%;
     }
-    .contact-card {
+    .contact-card-eng {
       width: 60%;
     }
-    .contact-body{
+    .contact-body-eng{
       height:200px;
     }
-    .contact-main {
-      flex-direction: column;
+    .contact-main-eng {
+      flex-direction: row;
+      justify-content: center;
       align-items: center;
-      
     }
   }
   
-  .card-body i {	
+  .card-body-eng i {	
     font-size: 32px;
     color:#6195ff;
     padding: 10px;
   }
   
-  .card-body h3 {
+  .card-body-eng h3 {
     padding: 5px;
   }
   
-  .contact-button {
+  .contact-button-eng {
     color:#ffffff;
     background-color:#6195ff;
     padding: 10px 25px;
@@ -990,10 +1008,9 @@
     margin-bottom: 22px;
     border: none;
     border-radius: 5px;
-  
   }
   
-  .contact-form form {
+  .contact-form-eng form {
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -1001,32 +1018,32 @@
     margin: auto;
   }
   
-  .form-control {
+  .form-control-eng {
     margin:12px ;
     width: 90%;
   }
   
-  .form-label {
+  .form-label-eng {
     margin: 0 15px;
     text-align: start;
   }
   
-  .contact-form form button {
+  .contact-form-eng form button {
     text-align: center;
     width: 50%;
     margin: auto;
     margin-bottom: 10px;
   }
   @media screen and (min-width: 769px) {
-    .contact-form form {
+    .contact-form-eng form {
       width: 38%;
     }
-    .contact-button {
+    .contact-button-eng {
       max-width: 150px;
     }
     
   }
-  #mybtn {
+  #mybtn-eng {
     display: none;
     position: fixed;
     bottom: 20px;
@@ -1041,7 +1058,7 @@
     border-radius: 10px;
     font-size: 18px;
   }
-  #mybtn:hover {
+  #mybtn-eng:hover {
     background-color: #555;
   }
   </style>
