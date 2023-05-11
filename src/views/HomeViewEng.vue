@@ -497,7 +497,6 @@
     padding: 0;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 16px;
     
   }
   #nav-bar-sticky {
@@ -519,16 +518,16 @@
     color: #000000;
   }
   .text-subtitle {
-    font-family: "Varela Round" !important;
-    text-align: center;
+    padding: 5px;
+    text-align: justify;
     color: #000000;
-    font-family: Varela;
     font-size: 16px;
   }
   .section1 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     height: 1300px;
     background-image: url("../assets/Escritorio.jpg");
     background-position: center;
