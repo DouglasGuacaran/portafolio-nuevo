@@ -2,10 +2,11 @@
     <div class="flex body">
       <Navbar id="nav-bar-sticky"/>
       <div class="section1" id="section1">
+        <img class = "image-profile" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
         <div class="section1-blur">
           <h1 class="flex text-title">Welcome! I'm Douglas</h1>
-          <span class="text-subtitle"
-            >I am a Full-Stack developer with experience in multiple programming languages ​​and web development technologies like Python, Java, JavaScript, Vue, and React, as well as frameworks like Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. He also recently trained me in a data science bootcamp, which has allowed me to gain skills in key tools and technologies such as Python, SQL, pandas, numpy, scikit-learn, among others. My focus is always to understand my client's data and needs to create effective and customized data science solutions. If you are looking for an expert in web development and data science with a focus on quality, efficiency and innovation, do not hesitate to contact me! I am confident that we can work together to create impressive and effective web and data science solutions."</span>
+          <p class="text-subtitle"
+            >I am a Physics Professor specialist in Radiological Protection, with at least nine publications as co-autor in the field of Medical Physics, and a certified lecturer in at least 10 PR courses both in-person and remotely in Chile. Radiological Protection Officer at the Hospital Clínico de Magallanes until december 2020. Recently, I have shifted my career towards becoming a Full-Stack Developer with experience in multiple programming languages and web development technologies such as Python, Java, JavaScript, Vue, and React, as well as frameworks such as Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. I have also completed a Data Science bootcamp, which has allowed me to acquire skills in key tools and technologies such as Python, SQL, pandas, numpy, and scikit-learn, among others. My focus is always on understanding data to implement effective and personalized data science solutions. I am a highly committed and passionate professional with the ability to combine solid technical skills with specialized knowledge in Medical Physics  to face new challenges and programming tasks.</p>
         </div>
       </div>
       <div class="about" id="about">
@@ -126,7 +127,7 @@
         <div class="carousel1">
           <div
             id="carouselExampleIndicators"
-            class="carousel slide"
+            class="carousel slide carousel-fade"
             data-bs-ride="true"
           >
             <div class="carousel-indicators">
@@ -162,6 +163,12 @@
                 data-bs-slide-to="4"
                 aria-label="Slide 5"
               ></button>
+              <button
+              type="button"
+              data-bs-target="#carouselExampleIndicators"
+              data-bs-slide-to="5"
+              aria-label="Slide 6"
+            ></button>
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
@@ -199,6 +206,13 @@
                   alt="..."
                 />
               </div>
+              <div class="carousel-item">
+              <img
+                src="../assets/img/img6.png"
+                class="d-block w-100"
+                alt="..."
+              />
+            </div>
             </div>
             <button
               class="carousel-control-prev"
@@ -232,14 +246,12 @@
             AwakeLab by Aspasia.
           </li>
           <li>
-            <strong
-              >Full Stack Python Application Developer Trainee</strong
-            >
+            <strong>Full Stack Python Application Developer Trainee</strong>
             - Sustantiva Labor Training Institute.
           </li>
           <li>
             <strong>LowCode/NoCode</strong> - Microsoft Power Platform Power BI
-            - Ernst & Young.
+            - Ernest&Young.
           </li>
           <li>
             <strong>Software Application Developer</strong> - Claro -
@@ -318,7 +330,7 @@
               <img src="../assets/img/icons/Jira.png" alt="12">
               <img src="../assets/img/icons/bmc.png" alt="1">
               <img src="../assets/img/icons/CyberArk.png" alt="5">
-            </div>s
+            </div>
           </div>
         </div>
       </div>
@@ -345,6 +357,42 @@
           </ul>
         </div>
       </div>
+
+      <div class="publications" id="publications">
+      <h2>Scientific Publications</h2>
+      <div class="publications-main">
+        <ul>
+          <li>
+            <i>Proceedings of the V Latin American Congress of Medical Physics, Ibero-American Meeting of Medical Physics, III Peruvian Congress of Medical Physics, VI Peruvian Congress of Radiological Protection. C. Leal, L. Carrizales, D. Guacarán, A. Moreno, and J. Duran. <strong>Calibration of Portable Ionizing Radiation Detectors.</strong> Cusco, Peru, 2010.</i>
+          </li>
+          <li>
+            <i>Proceedings of the V Latin American Congress of Medical Physics, Ibero-American Meeting of Medical Physics, III Peruvian Congress of Medical Physics, VI Peruvian Congress of Radiological Protection. L. Carrizales, A. Moreno, C. Leal, D. Guacarán, and J. Duran. <strong>Diagnosis Two Decades after the Secondary Dosimetric Calibration Laboratory of the Venezuelan Institute of Scientific Research.</strong> Cusco, Peru, 2010.</i>
+          </li>
+          <li>
+            <i>Proceedings of the VIII Regional Congress on Radiological and Nuclear Safety, I Latin American Congress of IRPA, V National Congress of Radiological Protection DSSA. Leal C, Villa N, Carrizales L, Guacarán D, Moreno A, and Duran J. <strong>Estimation of Kerma in Interventional Cardiology Procedures.</strong> Medellín, Colombia, 2010.</i>
+          </li>
+          <li>
+            <i>Proceedings of the VIII Regional Congress on Radiological and Nuclear Safety, I Latin American Congress of IRPA, V National Congress of Radiological Protection DSSA. Guacarán D, Carrizales L, Leal C, Moreno A, and Duran J. <strong>Radiological and Dosimetric Evaluation of the Cobalt-60 Unit Installed in the Secondary Dosimetric Calibration Laboratory of Venezuela.</strong> Medellín, Colombia, 2010.</i>
+          </li>
+          <li>
+            <i>Proceedings of the VIII Regional Congress on Radiological and Nuclear Safety, I Latin American Congress of IRPA, V National Congress of Radiological Protection DSSA. Moreno A, Camacho C, Carrizales L, Leal C, Duran J, and Guacarán D. <strong>Estimation of Kerma in Air on the Skin of Patients Undergoing Endodontic and Orthodontic Studies.</strong> Medellín, Colombia, 2010.</i>
+          </li>
+          <li>
+            <i>Proceedings of the VIII Regional Congress on Radiological and Nuclear Safety, I Latin American Congress of IRPA, V National Congress of Radiological Protection DSSA. Duran J, Carrizales L, Leal C, Moreno A, and Guacarán D. <strong>Intercomparison of Calibration Coefficients of a Farmer-Type Chamber LSCD-IVIC with the Seiberdorf Laboratory in Vienna.</strong> Medellín, Colombia, 2010.</i>
+          </li>
+          <li>
+            <i>Ibero-American Meeting on Radiological Protection, International Symposium on Radiological Protection, C. Leal, L. Carrizales Silva, D. Guacarán, A. Moreno, J. Durán, and N. Villa. <strong>Estimation of Kerma in Interventional Cardiology Procedures.</strong></i>
+          </li>
+          <li>
+            <i>Ibero-American Meeting on Radiological Protection, International Symposium on Radiological Protection, J. A. Durán, L. Carrizales S., C. Leal, A. Moreno, D. Guacarán, <strong>Intercomparison of the calibration coefficients of an LSCD-IVIC camera with the Siebersdorf Vienna Laboratory.</strong></i>
+          </li>
+          <li>
+            <i>Second Venezuelan Congress, Science, Technology and Innovation, J. A. Durán, L. Carrizales S., C. Leal, A. Moreno, D. Guacarán, <strong>Results of the Bolivarian Republic of Venezuela in the Comparison of Calibration Coefficients of the Network of LSCD-OIEA-WHO.</strong></i>
+          </li>
+        </ul>
+      </div>
+    </div>
+
       <div class="contact" id="contact">
         <h2>Contact</h2>
         <div class="contact-main">
@@ -443,7 +491,6 @@
   
   <style>
   @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
-  @import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
   /* Estilos Generales */
   * {
     margin: 0;
@@ -464,7 +511,6 @@
   }
   
   .text-title {
-    padding-top: 50px;
     justify-content: center;
     text-align: center;
     text-transform: capitalize;
@@ -483,7 +529,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 1000px;
+    height: 1300px;
     background-image: url("../assets/Escritorio.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -492,14 +538,18 @@
   }
   
   .section1-blur {
-    text-align: center;
-    backdrop-filter: blur(2.5px);
-    background-color: hsla(0, 0%, 100%, 0.748);
-    border-radius: 15px;
-    padding: 10px;
-  
+  width: 85%;
+  text-align: center;
+  backdrop-filter: blur(2.5px);
+  background-color: hsla(0, 0%, 100%, 0.748);
+  border-radius: 15px;
+  padding: 10px;
+  margin: 60px;
   }
-  
+  .image-profile {
+    margin:2px ;
+    max-width: 200px;
+  }
   .contact-form iframe {
     width: 335px;
   }
@@ -510,23 +560,28 @@
       justify-content: center;
     }
     .text-title {
-      text-align: center;
-      justify-content: center;
-      padding-top:15px;
       width: auto;
-      text-align: center;
-      font-size: 32px;
+      font-size: 38px;
     }
     .text-subtitle{
-      text-align: center;
+      font-size: 19px;
+      text-align: justify;
       color:#555;
     }
-  
-    .section1-blur {
-      width: 72%;
-      margin: 200px 30px 10px 30px;
+    .section1{
+      flex-direction: row;
+      padding: 20px;
+      height: 1000px;
     }
-  
+    .section1-blur{
+      max-width: 65%;
+      padding: 5px;
+    margin: 10px;
+    }
+    .image-profile {
+    margin:2px ;
+    max-width: 400px;
+    }
     .contact-form iframe {
       width: 700px;
     }
