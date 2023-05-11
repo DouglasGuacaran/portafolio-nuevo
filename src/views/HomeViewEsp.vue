@@ -496,7 +496,7 @@ export default {
   justify-content: center;
   text-align: center;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 26px;
   color: #000000;
 }
 
@@ -504,14 +504,14 @@ export default {
   padding: 5px;
   text-align: justify;
   color: #000000;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .section1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 100vh;
+  height: 1000px;
   background-image: url("../assets/Escritorio.jpg");
   background-position: center;
   background-repeat: no-repeat;

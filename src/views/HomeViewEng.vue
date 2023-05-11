@@ -5,7 +5,7 @@
         <div class="section1-blur">
           <h1 class="flex text-title">Welcome! I'm Douglas</h1>
           <span class="text-subtitle"
-            >I am a Full-Stack developer with experience in multiple programming languages ​​and web development technologies like Python, Java, JavaScript, Vue, and React, as well as frameworks like Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. He also recently trained me in a data science bootcamp, which has allowed me to gain skills in key tools and technologies such as Python, SQL, pandas, numpy, scikit-learn, among others. My focus is always to understand my client's data and needs to create effective and customized data science solutions. If you are looking for an expert in web development and data science with a focus on quality, efficiency and innovation, do not hesitate to contact me! I am confident that we can work together to create impressive and effective web and data science solutions."</span>
+            >I am a Full-Stack developer with experience in multiple programming  languages ​​and web development technologies like Python, Java, JavaScript, Vue, and React, as well as frameworks like Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. He also recently trained me in a data science bootcamp, which has allowed me to gain skills in key tools and technologies such as Python, SQL, pandas, numpy, scikit-learn, among others. My focus is always to understand my client's data and needs to create effective and customized data science solutions. If you are looking for an expert in web development and data science with a focus on quality, efficiency and innovation, do not hesitate to contact me! I am confident that we can work together to create impressive and effective web and data science solutions."</span>
         </div>
       </div>
       <div class="about" id="about">
@@ -13,7 +13,7 @@
         <div class="about-cards" id="cards">
           <Card
             iconName="fa-solid fa-gears"
-            name="Professional profilep"
+            name="Professional profile"
             content="Web and software developer oriented towards the Front-End in IT solutions projects with the use of programming languages ​​such as: Java, JavaScript, libraries such as: React and frameworks such as Vue and Django."
           />
           <Card
@@ -443,14 +443,12 @@
   
   <style>
   @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
-  @import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
   /* Estilos Generales */
   * {
     margin: 0;
     padding: 0;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 16px;
     
   }
   #nav-bar-sticky {
@@ -464,19 +462,18 @@
   }
   
   .text-title {
-    padding-top: 50px;
-    justify-content: center;
-    text-align: center;
-    text-transform: capitalize;
-    font-weight: 700;
-    font-size: 26px;
-    color: #000000;
+  margin: 10;
+  padding: 0px;
+  justify-content: center;
+  text-align: justify;
+  font-weight: 700;
+  font-size: 26px;
+  color: #000000;
   }
   .text-subtitle {
-    font-family: "Varela Round" !important;
-    text-align: center;
+    padding: 5px;
+    text-align: justify;
     color: #000000;
-    font-family: Varela;
     font-size: 16px;
   }
   .section1 {
@@ -492,12 +489,13 @@
   }
   
   .section1-blur {
+    width: 85%;
     text-align: center;
     backdrop-filter: blur(2.5px);
     background-color: hsla(0, 0%, 100%, 0.748);
     border-radius: 15px;
     padding: 10px;
-  
+    margin: 60px;
   }
   
   .contact-form iframe {
@@ -505,23 +503,28 @@
   }
   
   @media screen and (min-width: 769px) {
-    .flex {
-      display:flex;
-      justify-content: center;
-    }
-    .text-title {
-      text-align: center;
-      justify-content: center;
-      padding-top:15px;
-      width: auto;
-      text-align: center;
-      font-size: 32px;
-    }
-    .text-subtitle{
-      text-align: center;
-      color:#555;
-    }
-  
+  *{
+  font-size: 16px;
+  }
+  .flex {
+    display:flex;
+    justify-content: center;
+  }
+  .text-title {
+    padding-top:15px;
+    width: auto;
+    font-size: 32px;
+  }
+  .text-subtitle{
+  padding: 20px;
+  text-align: justify;
+  color:#555;
+  font-size: 24px;
+  }
+  .section1 {
+  padding: 20px;
+  height: 900px;
+  }
     .section1-blur {
       width: 72%;
       margin: 200px 30px 10px 30px;
