@@ -24,6 +24,7 @@ export default {
 
 .card {
     max-width: 400px;
+    min-height: 350px;
     display: flex;
     justify-content: center;
     align-items: center;

@@ -506,105 +506,101 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 /* Estilos Generales */
 * {
-  margin: 0;
-  padding: 0;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-}
-
-#nav-bar-sticky {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    
+  }
+  #nav-bar-sticky {
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 999;
 }
-
-.flex {
-  display: flex;
-}
-
-.text-title {
-  justify-content: center;
-  text-align: center;
-  text-transform: capitalize;
-  font-weight: 700;
-  font-size: 26px;
-  color: #000000;
-}
-
-.text-subtitle {
-  padding: 5px;
-  text-align: justify;
-  color: #000000;
-  font-size: 16px;
-}
-
-.section1 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 1300px;
-  background-image: url("../assets/Escritorio.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-top: 50px;
-}
-
-.section1-blur {
+  .flex {
+    display: flex;
+  }
+  
+  .text-title {
+    justify-content: center;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+  }
+  .text-subtitle {
+    padding: 5px;
+    text-align: justify;
+    color: #000000;
+    font-size: 16px;
+  }
+  .section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 1625px;
+    background-image: url("../assets/Escritorio.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+  }
+  
+  .section1-blur {
   width: 85%;
   text-align: center;
-  backdrop-filter: blur(2.5px);
+  backdrop-filter: blur(1.0px);
   background-color: hsla(0, 0%, 100%, 0.748);
   border-radius: 15px;
   padding: 10px;
   margin: 60px;
-}
-
-.image-profile {
-  margin:2px ;
-  max-width: 200px;
-}
-
-.contact-form iframe {
-  width: 335px;
-}
-
-@media screen and (min-width: 769px) {
-  .flex {
-    display:flex;
-    justify-content: center;
-  }
-  .text-title {
-    width: auto;
-    font-size: 38px;
-  }
-  .text-subtitle{
-    font-size: 19px;
-    text-align: justify;
-    color:#555;
-  }
-  .section1 {
-    flex-direction: row;
-    padding: 20px;
-    height: 1000px;
   }
 
-  .section1-blur{
+  .image-profile {
+    margin:2px ;
+    max-width: 200px;
+  }
+  
+  .contact-form iframe {
+    width: 335px;
+  }
+  
+  @media screen and (min-width: 769px) {
+    .flex {
+      display:flex;
+      justify-content: center;
+    }
+    .text-title {
+      width: auto;
+      font-size: 38px;
+    }
+    .text-subtitle{
+      font-size: 19px;
+      text-align: justify;
+      color:#555;
+    }
+    .section1{
+      flex-direction: row;
+      padding: 20px;
+      height: 1000px;
+    }
+    .section1-blur{
       max-width: 65%;
       padding: 5px;
     margin: 10px;
     }
     .image-profile {
-    margin:2px ;
+    margin: 2px;
     max-width: 400px;
+    margin-top: 80px;
+    }
+    .contact-form iframe {
+      width: 700px;
+    }
   }
-
-  .contact-form iframe {
-    width: 700px;
-  }
-}
 
 .body {
   flex-direction: column;
@@ -724,7 +720,6 @@ export default {
   transition: 0.3s;
 }
 
-
 .portfolio-card__btn img {
   width: 90%;
   border-radius: 5px;
@@ -791,9 +786,6 @@ export default {
   margin: 2px;
 }
 
-.column span {
-  font-weight: 400;
-}
 
 /* Seccion de estudios */
 
@@ -987,14 +979,14 @@ export default {
 
 .contact-main {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
 }
 
 .contact-main-col{
   width: 80%;
   display: flex;
-  justify-content: center;
+  align-items: center;
 }
 
 .contact-card {
@@ -1004,7 +996,7 @@ export default {
   height:215px;
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (min-width: 769px) {
   .experience-main {
     padding-top:60px;
     margin:25px;
@@ -1014,15 +1006,14 @@ export default {
   }
   .contact-card {
     width: 60%;
-    height: 100px !important;
   }
   .contact-body{
     height:200px;
   }
   .contact-main {
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: center;
     align-items: center;
-    
   }
 }
 
