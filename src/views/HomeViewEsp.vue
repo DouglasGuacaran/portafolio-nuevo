@@ -980,16 +980,19 @@ export default {
 .contact-main {
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: center;
 }
 
 .contact-main-col{
-  width: 80%;
+  width: 90%;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .contact-card {
+  min-height: 150px !important;
   width: 80%;
 }
 .contact-body{
