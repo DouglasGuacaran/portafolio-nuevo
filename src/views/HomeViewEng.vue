@@ -1,12 +1,13 @@
 <template>
-    <div class="flex body">
-      <Navbar id="nav-bar-sticky-eng"/>
-      <div class="section1-eng" id="section1-eng">
-        <img class = "image-profile-eng" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
-        <div class="section1-blur-eng">
-          <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
-          <p class="text-subtitle-eng"
-          >I am a Physics Professor specialist in Radiological Protection, with at least nine publications as co-autor in the field of Medical Physics, and a certified lecturer in at least 10 PR courses both in-person and remotely in Chile. Radiological Protection Officer at the Hospital Clínico de Magallanes until december 2020. Recently, I have shifted my career towards becoming a Full-Stack Developer with experience in multiple programming languages and web development technologies such as Python, Java, JavaScript, Vue, and React, as well as frameworks such as Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. I have also completed a Data Science bootcamp, which has allowed me to acquire skills in key tools and technologies such as Python, SQL, pandas, numpy, and scikit-learn, among others. My focus is always on understanding data to implement effective and personalized data science solutions. I am a highly committed and passionate professional with the ability to combine solid technical skills with specialized knowledge in Medical Physics  to face new challenges and programming tasks.</p>
+  <div class="flex body">
+    <Navbar id="nav-bar-sticky-eng"/>
+    <div class="section1-eng" id="section1-eng">
+      <img class = "image-profile-eng" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
+      <div class="section1-blur-eng">
+        <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
+        <p class="text-subtitle-eng"
+          >Hello! I am a professor in Physics, specialist in Radiation Protection, with at least 10 publications in the field of Medical Physics, rapporteur of at least 10 PR courses in person and remotely in Chile.
+        Since 2020 it has turned my professional career around and made me a Full-Stack developer with experience in multiple programming languages ​​and web development technologies such as Python, Java, JavaScript, Vue and React, as well as frameworks such as Django, Bootstrap and SASS. . Additionally, I have skills in database management and creating secure and efficient data storage solutions. I also recently completed a data science bootcamp, which has allowed me to gain skills in key tools and technologies such as pandas, numpy, matplotlib, scikit-learn, among others. My focus is always to understand the data and the needs of my projects to create effective and customized data science solutions. If you are looking for a web developer with knowledge in data science with a touch of quality, efficiency and innovation, do not hesitate to contact me! I am confident that we can work together to create impressive and effective solutions.</p>
       </div>
     </div>
     <div class="about-eng" id="about-eng">
@@ -29,76 +30,92 @@
         />
       </div>
     </div>
-      <div class="portfolio-eng" id="portfolio-eng">
-        <h2>Portfolio</h2>
-        <div class="portfolio-cards-container-eng">
-          <div class="portfolio-cards-group-eng" role="radiogroup">
-            <div
-            class="portfolio-card__btn-eng"
-              role="radio"
-              aria-checked="false"
-              tabindex="-1"
-              aria-label="Select image one"
-            >
-              <a
-              href="https://douglasguacaran.github.io/moneyconverter-react/"
-              target="_blank"
-              >
-            <span>Project Money Converter</span></a>
-            <img
-                src="../assets/Money.jpg"
-            />
-          </div>
+    <div class="portfolio-eng" id="portfolio-eng">
+      <h2>Portfolio</h2>
+      <div class="portfolio-cards-container-eng">
+        <div class="portfolio-cards-group-eng" role="radiogroup">
           <div
-            class="portfolio-card__btn-eng"
+            class="portfolio-card__btn"
             role="radio"
             aria-checked="false"
             tabindex="-1"
-            aria-label="Select image two"
+            aria-label="Select image one"
           >
-              <a
-              href="https://douglasguacaran.github.io/vue-big-mobile//"
-              target="_blank"
-              >
-              <span>Project Big Mobile</span><img
-                src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-            /></a>
-          </div>
-  
-          <div
-            class="portfolio-card__btn-eng"
-            role="radio"
-            aria-checked="false"
-            tabindex="-1"
-            aria-label="Select image three"
-          >
+          <img
+              src="../assets/Money.jpg"
+          />
+          <div class="portfolio-card__description">
             <a
-            href="https://douglasguacaran.github.io/vue-pages-pokedex"
+            href="https://douglasguacaran.github.io/moneyconverter-react/"
             target="_blank"
             >
-              <span>Project Poke-Dex</span><img
-                src="https://images.unsplash.com/photo-1650573547848-d7b93ed79782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
-                alt="Image description"
-            /></a>
+            Money Converter project, developed in React, consuming the www.mindicador.cl API, allows currency conversion.
+          </a>
           </div>
-  
-          <div
-            class="portfolio-card__btn-eng"
-            role="radio"
-            aria-checked="false"
-            tabindex="-1"
-            aria-label="Select image four"
-          >
+        </div>
+        <div
+          class="portfolio-card__btn"
+          role="radio"
+          aria-checked="false"
+          tabindex="-1"
+          aria-label="Select image two"
+        >
+          
+          <img
+              src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+          />
+          <div class="portfolio-card__description">
             <a
-            href="https://douglasguacaran.github.io/vue-marveldex"
+            href="https://douglasguacaran.github.io/vue-big-mobile//"
             target="_blank"
             >
-              <span>Project Marvel-Dex</span>
-              <img
-                src="https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-                alt="Image description"
-            /></a>
-          </div>
+          Big Mobile Project, an e-commerce website for a virtual store selling mobile phones created using Vue and consuming Json files. Part of the test as a Front End Trainee.
+        </a>
+        </div>
+        </div>
+
+        <div
+          class="portfolio-card__btn"
+          role="radio"
+          aria-checked="false"
+          tabindex="-1"
+          aria-label="Select image three"
+        >
+        <img
+        src="https://images.unsplash.com/photo-1650573547848-d7b93ed79782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+        alt="Image description"
+        />
+        <div class="portfolio-card__description">
+          <a
+          href="https://douglasguacaran.github.io/vue-pages-pokedex"
+          target="_blank"
+          >
+          Poke-Dex Project, made in Vue, consuming the www.pokeapi API, allows you to navigate through it and even catch Pokémons.
+        </a>
+        </div>
+        </div>
+
+        <div
+          class="portfolio-card__btn"
+          role="radio"
+          aria-checked="false"
+          tabindex="-1"
+          aria-label="Select image four"
+        >
+        
+        <img
+        src="https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        alt="Image description"
+        />
+        <div class="portfolio-card__description">
+          <a
+          href="https://douglasguacaran.github.io/vue-marveldex"
+          target="_blank"
+          >
+          Project Poke-Marvel, made with Vue, consuming the Marvel API, allows you to navigate through it and even edit the names of the heroes.
+        </a>
+        </div>
+        </div>
         </div>
       </div>
     </div>
@@ -687,7 +704,7 @@ margin: 60px;
 
 .portfolio-cards-group-eng {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -711,43 +728,70 @@ margin: 60px;
   cursor: pointer;
   transition: 0.3s;
 }
-
-.portfolio-card__btn-eng::after {
-  width: 100%;
-  height: 100%;
-  background-color: rgba(#000, 0);
-  transition: 0.3s;
+.portfolio-card__btn-eng {
+position: relative;
+width: 80%;
+max-width: 395px;
+margin: 15px;
+padding: 0px;
+cursor: pointer;
+transition: 0.3s;
 }
 
+.portfolio-card__description-eng {
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgba(0, 0, 0, 0.7);
+color:#10A37F;
+font-size: 18px;
+opacity: 0;
+transform: rotateY(180deg);
+transition: all 0.5s ease-in-out;
+border-radius: 5px;
+}
+
+.portfolio-card__btn-eng:hover .portfolio-card__description-eng {
+transform: rotateY(0);
+opacity: 1;
+}
 
 .portfolio-card__btn-eng img {
-  width: 90%;
-  border-radius: 5px;
-  max-width: 100%;
+width: 100%;
+border-radius: 5px;
+max-width: 100%;
 }
 
 .portfolio-card__btn-eng a {
-  text-decoration: none;
-} 
-
-.portfolio-card__btn-eng a span {
-  text-decoration: none;
-  color: #6195ff;
-  font-size: 18px;
-  -webkit-transition: .3s ease-in-out;
-    transition: .3s ease-in-out;
-  opacity: 0;
+margin: 10px;
+text-decoration: none;
+color: #10A37F;
+font-size: 14px;
+font-weight: 600;
+-webkit-transition: .3s ease-in-out;
+transition: .3s ease-in-out;
+opacity: 0;
 }
 
-.portfolio-card__btn-eng:hover a span {
-  opacity: 1;
-  -webkit-transition: .3s ease-in-out;
-    transition: .3s ease-in-out;
+.portfolio-card__btn-eng:hover a  {
+opacity: 1;
+-webkit-transition: .3s ease-in-out;
+transition: .3s ease-in-out;
+text-decoration: none;
+color: #10A37F;
 }
-
-@media (max-width: 769px) {
+@media (min-width: 769px) {
+  .portfolio-eng {
+  text-align: center;
+  padding-top: 40px;
+  }
   .portfolio-cards-group-eng {
-    flex-direction: column;
+    flex-direction: row;
   }
   .portfolio-card__btn-eng img {
     width: 100%;
