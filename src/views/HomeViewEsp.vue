@@ -122,8 +122,8 @@
       </div>
     </div>
     <div class="service" id="service">
-      <h2>Perfiles como Desarrollador / Científico de Datos</h2>
-      <div class="about-cards" id="service-cards">
+      <h2>Perfiles como Desarrollador</h2>
+      <div class="perfil-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
           title="Front-End"
@@ -588,7 +588,7 @@ export default {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 1700px;
+    height: 1625px;
     background-image: url("../assets/Escritorio.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -642,6 +642,7 @@ export default {
     .image-profile {
     margin: 2px;
     max-width: 400px;
+    margin-top: 80px;
     }
     .contact-form iframe {
       width: 700px;
@@ -699,16 +700,29 @@ export default {
   font-size: 30px;
 }
 
+.perfil-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
 @media screen and (min-width: 769px) {
   .about-cards {
     flex-direction: row;
   }
+
   .card span {
     font-size: 16px;
     margin: 20px
   }
-}
 
+  .perfil-cards {
+    flex-direction: row;
+    align-items: flex-start;
+  } 
+}
 .portfolio {
   text-align: center;
   padding-top: 10px;
@@ -810,21 +824,22 @@ export default {
   text-align: center;
   padding-top: 60px;
   height: auto;
+  background-color: #ffffff;
   margin: 5px;
 }
 
 .cardService {
-
-  min-height: 410px;
+  height: auto;
   width: 290px;
-  padding: 15px;
+  padding: 10px;
   border: 1px solid rgba(0, 0, 0, 0.175);
   border-radius: 5px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
-  align-items: start;
-  margin: 15px;
+  align-items: flex-start;
+  margin: 0px;
+  margin-bottom: 5px;
 }
 
 .cardService:hover {
@@ -840,15 +855,6 @@ export default {
 
 /* Seccion de estudios */
 
-.studies-main {
-  padding-top: 25px;
-  margin-left: 10%;
-  margin-right: 10%;
-  display: flex;
-  flex-direction: column;
-  align-items: start;
-}
-
 .studies-bottom-parraph{
   font-size: 14px;
 }
@@ -863,6 +869,15 @@ export default {
   text-align: center;
 }
 
+.studies-main {
+  padding-top: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
 .studies-main h2 {
   font-weight: 700;
 }
@@ -873,8 +888,14 @@ export default {
 }
 
 @media screen and (min-width: 769px) {
+
   .cardService {
-    width: 415px;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    height: auto;
+    width: 400px;
+    margin: 10px;
   }
   .studies-main {
     margin-left: 15%;
@@ -994,9 +1015,6 @@ export default {
   background-color: #ffffff;
 }
 
-.experience h2 {
-  font-weight: 700;
-}
 .experience-main {
   text-align: start;
   margin: 15px;
@@ -1004,17 +1022,13 @@ export default {
   height: auto;
   background-color: #ffffff;
 }
-
 .publications {
   text-align: center;
-  padding-top: 20px;
+  padding-top: 60px;
   height: auto;
   background-color: #ffffff;
 }
 
-.publications h2 {
-  font-weight: 700;
-}
 .publications-main {
   text-align: start;
   margin: 15px;
@@ -1022,18 +1036,13 @@ export default {
   height: auto;
   background-color: #ffffff;
 }
-.publications-main ul li{
-  padding:10px;
-}
 
 /* Sección Contacto */
 .contact {
   text-align: center;
   padding-top: 60px;
 }
-.contact h2 {
-  font-weight: 700;
-}
+
 .contact-main {
   display: flex;
   flex-direction: column;
@@ -1052,18 +1061,16 @@ export default {
   min-height: 150px !important;
   width: 80%;
 }
-.contact-main-col .card {
-  min-height: 150px !important;
+.contact-body{
+  height:215px;
 }
 
 @media screen and (min-width: 769px) {
   .experience-main {
-    padding-top:20px;
+    padding-top:60px;
     margin:25px;
   }
   .contact-main-col{
-    display: flex;
-    justify-content: center;
     width: 90%;
   }
   .contact-card {
