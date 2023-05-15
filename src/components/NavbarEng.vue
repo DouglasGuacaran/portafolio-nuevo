@@ -6,13 +6,14 @@
         <b-navbar-toggle class="mx-2" target="nav-collapse"></b-navbar-toggle>
         <b-collapse id="nav-collapse" class="flex justify-content-between" is-nav>
         <b-navbar-nav class="justify-content-left">
-            <b-nav-item href="#section1">Welcome</b-nav-item>
-            <b-nav-item href="#about">About</b-nav-item>
-            <b-nav-item href="#portfolio">Portfolio</b-nav-item>
-            <b-nav-item href="#service">Services</b-nav-item>
-            <b-nav-item href="#studies">Studies</b-nav-item>
-            <b-nav-item href="#experience">Experience</b-nav-item>
-            <b-nav-item href="#contact">Contact</b-nav-item>
+            <b-nav-item href="#section1-eng">Welcome</b-nav-item>
+            <b-nav-item href="#about-eng">About</b-nav-item>
+            <b-nav-item href="#portfolio-eng">Portfolio</b-nav-item>
+            <b-nav-item href="#service-eng">Services</b-nav-item>
+            <b-nav-item href="#studies-eng">Studies</b-nav-item>
+            <b-nav-item href="#experience-eng">Experience</b-nav-item>
+            <b-nav-item href="#publications-eng">Publications</b-nav-item>
+            <b-nav-item href="#contact-eng">Contact</b-nav-item>
         </b-navbar-nav>
         <b-navbar-nav class="justify-content-right">
             <b-nav-item href="https://github.com/douglasguacaran"><img class="imagen-nav" src="../assets/img/icons/github-mark-white.png" alt="Github icon"></b-nav-item>

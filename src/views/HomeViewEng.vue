@@ -122,7 +122,7 @@
           />
         </div>
       </div>
-      <div class="studies" id="studies">
+      <div class="studies" id="studies-eng">
         <h2 class="studies-title">Education</h2>
         <div class="carousel1">
           <div
@@ -339,22 +339,48 @@
         <h2>Work Experience</h2>
         <div class="experience-main-eng">
           <ul>
-              <li>
-              <strong>Trainee</strong> -
-              <i> ElitSoft Ingeniería y Asesorías Informáticas LTDA </i> , April
-              2022 - July 2022.
-              <p>
-                Activities focused on the preparation, development, and execution of QA tests on web projects related to Banking using tools such as Control M, Jira, CyberArk, and SQL database management.
-              </p>
-            </li>
-            <li>
-              <strong>Volunteer Work</strong> -
-              <i>Awake Factory S.L.</i> , October 2020 - January 2021.
-              <p>
-                Collaboration in the design and implementation of the Magallanes Digital District website with WordPress, using the agile methodology: SCRUM.
-              </p>
-            </li>
-          </ul>
+      <li>
+        <strong>Trainee</strong> -
+        <i>ElitSoft Ingeniería y Asesorías Informáticas LTDA</i>, April 2022 - July 2022.
+        <p>
+          Activities oriented to the preparation, development and execution of QA tests on web projects related to the banking industry using tools such as Control M, Jiraz, CyberArk, and management of SQL databases.
+        </p>
+      </li>
+      <li>
+        <strong>Radiation Protection Officer</strong> -
+        <i>Magallanes Clinical Hospital "Dr. Lautaro Navarro Avaria"</i>, June 2020 - December 2020.
+        <p>
+          Responsible for the radiation safety of all occupationally exposed personnel in the hospital facilities. In my role as a direct advisory, I managed the licensing of the first and second category facilities belonging to the hospital. I organized and taught training activities to the staff.
+        </p>
+      </li>
+      <li>
+        <strong>Senior Analyst in Protection and Security of Radioactive Installations</strong> -
+        <i>INGERAD</i>, November 2017 - April 2020.
+        <p>
+          Adviser on radiation protection to companies in the industrial and medical areas. I carried out the necessary procedures for the transportation of radioactive materials from regional hospitals to the corresponding entities. I elaborated the shielding calculation memory of the customs control equipment at Arturo Merino Benitez airport (Santiago). I was a speaker for more than 10 Radiological Protection courses, both in-person and online, certified by SENCE.
+        </p>
+      </li>
+      <li>
+        <ul>
+          <strong>Venezuelan Institute for Scientific Research</strong>
+          
+          <li>
+          <strong>Research Associate Professional</strong> -
+          <i>PEGAMMA Co-60 Plant Unit of Sterilization</i>, September 2014 - July 2018.
+          <p>
+            Analyst in the High Dose Laboratory of the Gamma Radiation Sterilization Plant Unit (PEGAMMA) of IVIC, responsible for the radiation safety of the installation. I collaborated with the Master's Program in Medical Physics in the Introduction to Radiological Protection course, specifically on the topic of Shielding Calculations for high and low energy linear accelerators. I supervised undergraduate theses.
+          </p>
+        </li>
+        <li>
+          <strong>Research Associate Professional</strong> -
+          <i>Secondary Dosimetric Calibration Laboratory</i>, October 2020 - January 2021.
+          <p>
+            Scientific personnel responsible for the magnitudes Absorbed Dose in Water and Kerma in Air. I calibrated radiation detectors, radioactive sources, and dosimetry systems, elaborated calibration curves for personal dosimetry, performed radiometric surveys on facilities with photon and neutron emitting equipment, calculated shielding for low and high energy installations. I participated in intercomparison procedures with other laboratories, participated in missions to facilities located in Venezuela for acceptance testing and quality control of Radiotherapy Units, Conventional and Digital Diagnostic Installations. I was named acting head of the laboratory on two occasions.
+          </p>
+        </li>
+        </ul>
+      </li>
+    </ul>
         </div>
       </div>
 

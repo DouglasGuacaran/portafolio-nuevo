@@ -355,12 +355,42 @@
             </p>
           </li>
           <li>
-            <strong>Voluntariado</strong> -
-            <i>Awake Factory S. L.</i> , octubre 
-            2020 - Enero 2021.
+            <strong>Oficial de Protección Radiológica</strong> -
+            <i>Hospital Clínico Magallanes "Dr. Lautaro Navarro Avaria"</i> , junio 
+            2020 - diciembre 2020.
             <p>
-              Colaboración en el diseño e implementación del sitio web Distrito Digital de Magallanes con WordPress, metodología ágil utilizada: SCRUM.
+              Responsable de la seguridad radiológica de todo el personal ocupacionalmente expuesto de las instalaciones del hospital, en mi rol de asesor directivo gestioné el licenciamiento de las instalaciones de primera y segunda categoría pertenecientes al hospital. Organicé y dicté actividades de capacitación al personal.
             </p>
+          </li>
+          <li>
+            <strong>Analista Senior en Protección y Seguridad de Instalaciones Radiactivas</strong> -
+            <i>INGERAD</i> , noviembre 
+            2017 - Abril 2020.
+            <p>
+              Asesor en protección radiológica a empresas del área industrial y del área médica, realicé las gestiones necesarias para el transporte de materiales radiactivos de hospitales regionales ante los entes correspondientes, elaboré la memoria de cálculo de blindaje del equipo de control de aduana del aeropuerto Arturo Merino Benitez (Santiago), fui relator de más de 10 cursos de Protección Radiológica por SENCE de forma presencial y on-line. 
+            </p>
+          </li>
+          <li>
+            <ul>
+              <strong>Instituto Venezolano de Investigaciones Científicas</strong>
+              
+              <li>
+              <strong>Profesional Asociado a la Investigación</strong> -
+              <i>Unidad de Planta PEGAMMA</i> , septiembre 
+              2014 - julio 2018.
+              <p>
+                Analista del Laboratorio de Altas Dosis de la Unidad de Planta de Esterilización por rayos Gamma (PEGAMMA) del IVIC, responsable de la seguridad radiológica de la instalación. Colaboré con el programa de maestría en Física Médica en la cátedra de Introducción a la Protección Radiológica en el tópico sobre Cálculo de Blindajes para aceleradores lineales de altas y bajas energías, tutor de tesis de estudiantes de pregrado.
+              </p>
+            </li>
+            <li>
+              <strong>Profesional Asociado a la Investigación</strong> -
+              <i>Laboratorio Secundario de Calibración Dosimétrica del</i> , octubre 
+              2020 - Enero 2021.
+              <p>
+                Personal científico responsable de las magnitudes Dosis Absorbida en Agua y del Kerma en Aire. Calibré detectores de radiación, fuentes radiactivas y sistemas dosimétricos, elaboré curvas de calibración para dosimetría personal, realicé levantamientos radiométricos en instalaciones con equipos emisores de haces de fotones y neutrones, elaboré cálculos de blindaje a instalaciones de baja y altas energías. Participé en procedimientos de intercomparaciones de dosis con otros laboratorios, participé en misiones en instalaciones ubicadas en Venezuela con el fin de realizar pruebas de aceptación y de control de calidad a unidades de Radioterapia, Instalaciones de diagnóstico convencionales y digitales, participé como personal cientifico contraparte en proyectos nacionales de aseguramiento de calidad, fui nombrado jefe encargado del laboratorio en dos ocasiones.
+              </p>
+            </li>
+            </ul>
           </li>
         </ul>
       </div>

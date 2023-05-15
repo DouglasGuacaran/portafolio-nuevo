@@ -12,6 +12,7 @@
             <b-nav-item href="#service">Servicios</b-nav-item>
             <b-nav-item href="#studies">Estudios</b-nav-item>
             <b-nav-item href="#experience">Experiencia</b-nav-item>
+            <b-nav-item href="#publications">Publicaciones</b-nav-item>
             <b-nav-item href="#contact">Contacto</b-nav-item>
           </b-navbar-nav>
           <b-navbar-nav class="justify-content-right">
