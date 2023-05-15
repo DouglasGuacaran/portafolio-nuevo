@@ -1,11 +1,11 @@
 <template>
-  <div class="flex body">
-    <Navbar id="nav-bar-sticky-eng"/>
-    <div class="section1-eng" id="section1-eng">
-      <img class = "image-profile-eng" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
-      <div class="section1-blur-eng">
-        <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
-        <p class="text-subtitle-eng"
+    <div class="flex body">
+      <Navbar id="nav-bar-sticky-eng"/>
+      <div class="section1-eng" id="section1-eng">
+        <img class = "image-profile-eng" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
+        <div class="section1-blur-eng">
+          <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
+          <p class="text-subtitle-eng"
           >I am a Physics Professor specialist in Radiological Protection, with at least nine publications as co-autor in the field of Medical Physics, and a certified lecturer in at least 10 PR courses both in-person and remotely in Chile. Radiological Protection Officer at the Hospital Clínico de Magallanes until december 2020. Recently, I have shifted my career towards becoming a Full-Stack Developer with experience in multiple programming languages and web development technologies such as Python, Java, JavaScript, Vue, and React, as well as frameworks such as Django, Bootstrap, and SASS. Additionally, I have skills in database management and creating secure and efficient data storage solutions. I have also completed a Data Science bootcamp, which has allowed me to acquire skills in key tools and technologies such as Python, SQL, pandas, numpy, and scikit-learn, among others. My focus is always on understanding data to implement effective and personalized data science solutions. I am a highly committed and passionate professional with the ability to combine solid technical skills with specialized knowledge in Medical Physics  to face new challenges and programming tasks.</p>
       </div>
     </div>
@@ -29,21 +29,21 @@
         />
       </div>
     </div>
-    <div class="portfolio-eng" id="portfolio-eng">
-      <h2>Portfolio</h2>
-      <div class="portfolio-cards-container-eng">
-        <div class="portfolio-cards-group-eng" role="radiogroup">
-          <div
+      <div class="portfolio-eng" id="portfolio-eng">
+        <h2>Portfolio</h2>
+        <div class="portfolio-cards-container-eng">
+          <div class="portfolio-cards-group-eng" role="radiogroup">
+            <div
             class="portfolio-card__btn-eng"
-            role="radio"
-            aria-checked="false"
-            tabindex="-1"
-            aria-label="Select image one"
-          >
-            <a
-            href="https://douglasguacaran.github.io/moneyconverter-react/"
-            target="_blank"
+              role="radio"
+              aria-checked="false"
+              tabindex="-1"
+              aria-label="Select image one"
             >
+              <a
+              href="https://douglasguacaran.github.io/moneyconverter-react/"
+              target="_blank"
+              >
             <span>Project Money Converter</span></a>
             <img
                 src="../assets/Money.jpg"
@@ -56,7 +56,7 @@
             tabindex="-1"
             aria-label="Select image two"
           >
-            <a
+              <a
               href="https://douglasguacaran.github.io/vue-big-mobile//"
               target="_blank"
               >
@@ -64,7 +64,7 @@
                 src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             /></a>
           </div>
-
+  
           <div
             class="portfolio-card__btn-eng"
             role="radio"
@@ -73,15 +73,15 @@
             aria-label="Select image three"
           >
             <a
-              href="https://douglasguacaran.github.io/vue-pages-pokedex"
-              target="_blank"
-              >
+            href="https://douglasguacaran.github.io/vue-pages-pokedex"
+            target="_blank"
+            >
               <span>Project Poke-Dex</span><img
                 src="https://images.unsplash.com/photo-1650573547848-d7b93ed79782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
                 alt="Image description"
             /></a>
           </div>
-
+  
           <div
             class="portfolio-card__btn-eng"
             role="radio"
@@ -90,9 +90,9 @@
             aria-label="Select image four"
           >
             <a
-              href="https://douglasguacaran.github.io/vue-marveldex"
-              target="_blank"
-              >
+            href="https://douglasguacaran.github.io/vue-marveldex"
+            target="_blank"
+            >
               <span>Project Marvel-Dex</span>
               <img
                 src="https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
