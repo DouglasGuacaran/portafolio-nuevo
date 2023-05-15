@@ -32,12 +32,12 @@
         />
       </div>
     </div>
-    <div class="portfolio-eng" id="portfolio-eng">
+    <div class="portfolio" id="portfolio">
       <h2>Portafolio</h2>
-      <div class="portfolio-cards-container-eng">
-        <div class="portfolio-cards-group-eng" role="radiogroup">
+      <div class="portfolio-cards-container">
+        <div class="portfolio-cards-group" role="radiogroup">
           <div
-            class="portfolio-card__btn-eng"
+            class="portfolio-card__btn"
             role="radio"
             aria-checked="false"
             tabindex="-1"
@@ -46,7 +46,7 @@
           <img
               src="../assets/Money.jpg"
           />
-          <div class="portfolio-card__description-eng">
+          <div class="portfolio-card__description">
             <a
             href="https://douglasguacaran.github.io/moneyconverter-react/"
             target="_blank"
@@ -56,7 +56,7 @@
           </div>
         </div>
           <div
-            class="portfolio-card__btn-eng"
+            class="portfolio-card__btn"
             role="radio"
             aria-checked="false"
             tabindex="-1"
@@ -66,7 +66,7 @@
             <img
                 src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             />
-            <div class="portfolio-card__description-eng">
+            <div class="portfolio-card__description">
               <a
               href="https://douglasguacaran.github.io/vue-big-mobile//"
               target="_blank"
@@ -77,7 +77,7 @@
           </div>
 
           <div
-            class="portfolio-card__btn-eng"
+            class="portfolio-card__btn"
             role="radio"
             aria-checked="false"
             tabindex="-1"
@@ -87,7 +87,7 @@
           src="https://images.unsplash.com/photo-1650573547848-d7b93ed79782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
           alt="Image description"
           />
-          <div class="portfolio-card__description-eng">
+          <div class="portfolio-card__description">
             <a
             href="https://douglasguacaran.github.io/vue-pages-pokedex"
             target="_blank"
@@ -98,7 +98,7 @@
           </div>
 
           <div
-            class="portfolio-card__btn-eng"
+            class="portfolio-card__btn"
             role="radio"
             aria-checked="false"
             tabindex="-1"
@@ -109,7 +109,7 @@
           src="https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
           alt="Image description"
           />
-          <div class="portfolio-card__description-eng">
+          <div class="portfolio-card__description">
             <a
             href="https://douglasguacaran.github.io/vue-marveldex"
             target="_blank"
