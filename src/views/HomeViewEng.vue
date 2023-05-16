@@ -574,13 +574,13 @@ export default {
 }
 
 .section1-blur-eng {
-width: 85%;
-text-align: center;
-backdrop-filter: blur(1.0px);
-background-color: hsla(0, 0%, 100%, 0.748);
-border-radius: 15px;
-padding: 10px;
-margin: 60px;
+  width: 85%;
+  text-align: center;
+  backdrop-filter: blur(1.0px);
+  background-color: hsla(0, 0%, 100%, 0.748);
+  border-radius: 15px;
+  padding: 10px;
+  margin: 60px;
 }
 
 .image-profile-eng {

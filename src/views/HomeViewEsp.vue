@@ -448,7 +448,6 @@
       </div>
     </div>
 
-
     <div class="contact" id="contact">
       <h2>Datos de Contacto</h2>
       <div class="contact-main">
@@ -553,67 +552,67 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 /* Estilos Generales */
 * {
-    margin: 0;
-    padding: 0;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    
-  }
-  #nav-bar-sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 999;
-}
-  .flex {
-    display: flex;
-  }
-  
-  .text-title {
-    justify-content: center;
-    text-align: center;
-    text-transform: capitalize;
-    font-weight: 700;
-    font-size: 26px;
-    color: #000000;
-  }
-  .text-subtitle {
-    padding: 5px;
-    text-align: justify;
-    color: #000000;
-    font-size: 16px;
-  }
-  .section1 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 1625px;
-    background-image: url("../assets/Escritorio.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 50px;
-  }
-  
-  .section1-blur {
-  width: 85%;
-  text-align: center;
-  backdrop-filter: blur(1.0px);
-  background-color: hsla(0, 0%, 100%, 0.748);
-  border-radius: 15px;
-  padding: 10px;
-  margin: 60px;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
   }
 
-  .image-profile {
-    margin:2px ;
-    max-width: 200px;
-  }
+#nav-bar-sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+.flex {
+  display: flex;
+}
   
-  .contact-form iframe {
-    width: 335px;
-  }
+.text-title {
+  justify-content: center;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 26px;
+  color: #000000;
+}
+.text-subtitle {
+  padding: 5px;
+  text-align: justify;
+  color: #000000;
+  font-size: 16px;
+}
+.section1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 1625px;
+  background-image: url("../assets/Escritorio.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 50px;
+}
+  
+.section1-blur {
+width: 85%;
+text-align: center;
+backdrop-filter: blur(1.0px);
+background-color: hsla(0, 0%, 100%, 0.748);
+border-radius: 15px;
+padding: 10px;
+margin: 60px;
+}
+
+.image-profile {
+  margin:2px ;
+  max-width: 200px;
+}
+
+.contact-form iframe {
+  width: 335px;
+}
   
   @media screen and (min-width: 769px) {
     .flex {
@@ -642,7 +641,7 @@ export default {
     .image-profile {
     margin: 2px;
     max-width: 400px;
-    /* margin-top: 80px; */
+    margin-top: 80px;
     }
     .contact-form iframe {
       width: 700px;
