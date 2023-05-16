@@ -959,7 +959,13 @@ color: #10A37F;
   }
 }
 .studies-bottom-parraph-eng {
-  color: #ffffff;
+  padding: 5px;
+  font-size: 14px;
+  color: #5D4581;
+  font-weight:600;
+  backdrop-filter: blur(1.0px);
+  background-color: hsla(0, 0%, 100%, 0.578);
+  border-radius: 5px ;
 }
 
 .studies-bottom-icons-eng {

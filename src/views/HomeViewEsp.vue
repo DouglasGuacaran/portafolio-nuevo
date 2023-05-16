@@ -642,7 +642,7 @@ export default {
     .image-profile {
     margin: 2px;
     max-width: 400px;
-    margin-top: 80px;
+    /* margin-top: 80px; */
     }
     .contact-form iframe {
       width: 700px;
@@ -858,7 +858,13 @@ export default {
 /* Seccion de estudios */
 
 .studies-bottom-parraph{
+  padding: 5px;
   font-size: 14px;
+  color: #5D4581;
+  font-weight:600;
+  backdrop-filter: blur(1.0px);
+  background-color: hsla(0, 0%, 100%, 0.578);
+  border-radius: 5px ;
 }
 
 .studies {
@@ -988,9 +994,6 @@ export default {
   .studies-bottom-main-content h2 {
     font-size: 22px;
   }
-}
-.studies-bottom-parraph {
-  color: #ffffff;
 }
 
 .studies-bottom-icons {
