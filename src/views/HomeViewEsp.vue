@@ -851,7 +851,9 @@ export default {
 .cardService i {
   margin: 2px;
 }
-
+.column{
+  min-height: 400px;
+}
 
 /* Seccion de estudios */
 
