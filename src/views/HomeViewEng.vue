@@ -6,8 +6,13 @@
       <div class="section1-blur-eng">
         <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
         <p class="text-subtitle-eng"
-          >Hello! I am a professor in Physics, specialist in Radiation Protection, with at least 10 publications in the field of Medical Physics, rapporteur of at least 10 PR courses in person and remotely in Chile.
-        Since 2020 it has turned my professional career around and made me a Full-Stack developer with experience in multiple programming languages ​​and web development technologies such as Python, Java, JavaScript, Vue and React, as well as frameworks such as Django, Bootstrap and SASS. . Additionally, I have skills in database management and creating secure and efficient data storage solutions. I also recently completed a data science bootcamp, which has allowed me to gain skills in key tools and technologies such as pandas, numpy, matplotlib, scikit-learn, among others. My focus is always to understand the data and the needs of my projects to create effective and customized data science solutions. If you are looking for a web developer with knowledge in data science with a touch of quality, efficiency and innovation, do not hesitate to contact me! I am confident that we can work together to create impressive and effective solutions.</p>
+          >Hello and welcome! I am a professor of Physics, with postgraduate studies in Medical Physics with participation as a co-author in multiple scientific publications, a specialist in Radiation Protection, accredited by the only registry of facilitators in Chile as a rapporteur for Radiation Protection courses.</p>
+          <p class="text-subtitle-eng">
+            Since 2020 I decided to turn my professional career around and become a <strong> FullStack developer</strong>, since then my experience has focused on using programming languages and web development technologies such as JavaScript, Java, Python with the use of the Vue Js framework and the renowned React website design library for the Front End, and Django for the Back End, while I have acquired the necessary skills for relational and non-relational database management, agile methodologies and product creation with processes based on Design Thinking, object-oriented programming and microservices.
+          </p>
+          <p class="text-subtitle-eng">
+            If you are looking for a developer capable of being transversal in projects and with knowledge in development and data science thanks to the completion of multiple academic improvement programs, do not hesitate to contact me! I am sure that together we can create impressive and effective applications.
+          </p>
       </div>
     </div>
     <div class="about-eng" id="about-eng">
@@ -21,7 +26,7 @@
         <Card
         iconName="fa fa-mobile"
         name="Skills"
-        content="Knowledge of frameworks, handling of some programming languages, Problem resolution, interest in technological innovation, teamwork, analitic person."
+        content="Knowledge of frameworks, handling of programming languages like Java, JavaScript, Problem resolution, interest in technological innovation, teamwork, analitic person."
         />
         <Card
           iconName="fa fa-magic"

@@ -6,10 +6,14 @@
       <div class="section1-blur">
         <h1 text class="flex text-title">Bienvenido Soy Douglas</h1>
         <p class="text-subtitle">
-          "¡Hola! Soy un profesor de Física, especialista en Protección Radiológica, con al menos 10 publicaciones en el campo de la Física Médica, relator de al menos 10 cursos de PR en de forma presencial y remota en Chile. 
-          Desde 2020 he dado un giro a mi carrera profesional y me he convertido en un desarrollador Full-Stack con experiencia en múltiples lenguajes de programación y tecnologías de desarrollo web como Python, Java, JavaScript, Vue y React, así como frameworks como Django, Bootstrap y SASS. Además, tengo habilidades en la gestión de bases de datos y la creación de soluciones de almacenamiento de datos seguras y eficientes. Recientemente, también he cursado un bootcamp de ciencia de datos, lo que me ha permitido adquirir habilidades en herramientas y tecnologías clave como pandas, numpy, matplotlib, scikit-learn, entre otras. Mi enfoque es siempre el de comprender los datos y las necesidades de mis proyectos para crear soluciones de ciencia de datos eficaces y personalizadas. Si buscas un desarrollador web con conocimiento en ciencia de datos con un toque de calidad, eficiencia e innovación, ¡no dudes en contactarme! Estoy seguro de que podemos trabajar juntos para crear soluciones impresionantes y efectivas.
+          ¡Hola y bienvenido! Soy un profesor de Física, con estudios de postgrado en Física Médica con participación como coautor en múltiples publicaciones científicas, especialista en Protección Radiológica, acreditado por el registro único de facilitadores de Chile como relator de cursos de Protección Radiológica.
         </p>
-        
+        <p class="text-subtitle">
+          Desde el año 2020 decidí dar un giro a mi carrera profesional y convertirme en un <strong> Desarrollador FullStack</strong>, desde entonces mi experiencia se ha centrado en utilizar lenguajes de programación y tecnologías de desarrollo web tales como JavaScript, Java, Python con manejo de framework Vue Js y la reconocida librería para diseño de sitios web React por el lado del Front End, y a Django por el Back End, al tiempo que he adquirido las habilidades necesarias para la gestión de bases de datos relacionales y no relacionales, metodologías ágiles y creación de productos con procesos basados en Design Thinking, programación orientada a objetos y microservicios.
+        </p>
+        <p class="text-subtitle">
+          Si buscas un desarrollador capaz de ser transversal en proyectos y con conocimientos en desarrollo y en ciencia de datos gracias a la realización de multiples programas de perfeccionamiento académico, ¡no dudes en contactarme! Estoy seguro de que podemos juntos crear aplicaciones impresionantes y efectivas.
+        </p>
       </div>
     </div>
     <div class="about" id="about">
