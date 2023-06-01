@@ -134,7 +134,7 @@
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Back-End De"
+        title="Back-End Developer"
         content="My experience allows me to develop and maintain robust and scalable systems and platforms using technologies and programming languages ​​such as Java, Python and Node.js. Also, I have skills in designing and maintaining SQL and NoSQL databases. As well as in the implementation and consumption of API Restful services. in order to improve the quality of the applications."
         />
         <CardService
