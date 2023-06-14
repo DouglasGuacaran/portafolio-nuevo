@@ -7,12 +7,18 @@
         <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
         <p class="text-subtitle-eng"
           >Hello and welcome! I am a professor of Physics, with postgraduate studies in Medical Physics with participation as a co-author in multiple scientific publications, a specialist in Radiation Protection, accredited by the only registry of facilitators in Chile as a rapporteur for Radiation Protection courses.</p>
-          <p class="text-subtitle-eng">
-            Since 2020 I decided to turn my professional career around and become a <strong> FullStack developer</strong>, since then my experience has focused on using programming languages and web development technologies such as JavaScript, Java, Python with the use of the Vue Js framework and the renowned React website design library for the Front End, and Django for the Back End, while I have acquired the necessary skills for relational and non-relational database management, agile methodologies and product creation with processes based on Design Thinking, object-oriented programming and microservices.
-          </p>
-          <p class="text-subtitle-eng">
-            If you are looking for a developer capable of being transversal in projects and with knowledge in development and data science thanks to the completion of multiple academic improvement programs, do not hesitate to contact me! I am sure that together we can create impressive and effective applications.
-          </p>
+        <p class="text-subtitle-eng">
+          Three years ago, I decided to turn my professional career around and become a passionate developer. Since then, I have focused on gaining knowledge in various programming languages ​​and web development technologies, such as JavaScript, Java, and Python. He worked with frameworks such as Vue.js and used libraries to design websites, always applying object-oriented programming structures.
+
+          Also, I am familiar with the Model-View-Controller (MVC) design pattern, which is widely used in web application development. The MVC pattern has allowed me to organize and structure my projects efficiently. Through this pattern, I separate the business logic and interaction with the data in the model, the presentation and display in the view, and the handling of the interactions and events in the controller. This makes it easy to scale, maintain, and collaborate on the projects I work on.
+
+          During my career path, I also gained strong skills in relational and non-relational database management. I feel comfortable working with agile methodologies such as Kanban and Scrum, which have allowed me to develop products with processes based on Design Thinking, fostering creativity and efficient problem solving.
+
+          I also recently took my first steps into the exciting field of data science, exploring how to apply techniques and tools to extract valuable insights from data.
+        </p>
+        <p class="text-subtitle-eng">
+          If you are looking for a project developer who has knowledge of modern and versatile web technologies, do not hesitate to contact me! I am sure that we will be able to build a team capable of creating impressive and effective applications.
+        </p>
       </div>
     </div>
     <div class="about-eng" id="about-eng">

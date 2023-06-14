@@ -9,10 +9,14 @@
           ¡Hola y bienvenido! Soy un profesor de Física, con estudios de postgrado en Física Médica con participación como coautor en múltiples publicaciones científicas, especialista en Protección Radiológica, acreditado por el registro único de facilitadores de Chile como relator de cursos de Protección Radiológica.
         </p>
         <p class="text-subtitle">
-          Desde el año 2020 decidí dar un giro a mi carrera profesional y convertirme en un <strong> Desarrollador FullStack</strong>, desde entonces mi experiencia se ha centrado en utilizar lenguajes de programación y tecnologías de desarrollo web tales como JavaScript, Java, Python con manejo de framework Vue Js y la reconocida librería para diseño de sitios web React por el lado del Front End, y a Django por el Back End, al tiempo que he adquirido las habilidades necesarias para la gestión de bases de datos relacionales y no relacionales, metodologías ágiles y creación de productos con procesos basados en Design Thinking, programación orientada a objetos y microservicios.
+          Hace tres años, decidí dar un giro a mi carrera profesional y convertirme en un desarrollador. Desde entonces, me he enfocado en adquirir conocimientos en diversos lenguajes de programación y tecnologías de desarrollo web, como JavaScript, Java y Python. He trabajado con frameworks como Vue.js y he utilizado librerías para el diseño de sitios web, aplicando patrones de diseño y estructuras de programación orientadas a objetos facilitando la escalabilidad, el mantenimiento y la colaboración en los proyectos en los que trabajo.
+          
+          Durante este tiempo, he adquirido habilidades sólidas en la gestión de bases de datos relacionales y no relacionales. Me siento cómodo trabajando con metodologías ágiles como Kanban y Scrum, las cuales me han permitido desarrollar productos con procesos basados en Design Thinking, fomentando la creatividad y la resolución eficiente de problemas.
+          
+          Recientemente, también he dado mis primeros pasos en el emocionante campo de la ciencia de datos, explorando cómo aplicar técnicas estadísticas y herramientas para extraer conocimientos valiosos de los datos, machine learning y el manejo de redes neuronales.
         </p>
         <p class="text-subtitle">
-          Si buscas un desarrollador capaz de ser transversal en proyectos y con conocimientos en desarrollo y en ciencia de datos gracias a la realización de multiples programas de perfeccionamiento académico, ¡no dudes en contactarme! Estoy seguro de que podemos juntos crear aplicaciones impresionantes y efectivas.
+          Si buscas un desarrollador de proyectos que posea conocimientos en tecnologías web modernas y versátiles, ¡no dudes en contactarme! Estoy seguro de que podremos formar un equipo capaz de crear aplicaciones impresionantes y efectivas.
         </p>
       </div>
     </div>
