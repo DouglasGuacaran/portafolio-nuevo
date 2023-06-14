@@ -8,7 +8,7 @@
         <p class="text-subtitle-eng"
           >Hello and welcome! I am a professor of Physics, with postgraduate studies in Medical Physics with participation as a co-author in multiple scientific publications, a specialist in Radiation Protection, accredited by the only registry of facilitators in Chile as a rapporteur for Radiation Protection courses.</p>
         <p class="text-subtitle-eng">
-          Three years ago, I decided to turn my professional career around and become a passionate developer. Since then, I have focused on gaining knowledge in various programming languages ​​and web development technologies, such as JavaScript, Java, and Python. He worked with frameworks such as Vue.js and used libraries to design websites, always applying object-oriented programming structures.
+          Some time ago, I decided to turn my professional career around and become a developer. Since then, I have focused on gaining knowledge in various programming languages ​​and web development technologies, such as JavaScript, Java, and Python. He worked with frameworks such as Vue.js and used libraries to design websites, always applying object-oriented programming structures.
 
           Also, I am familiar with the Model-View-Controller (MVC) design pattern, which is widely used in web application development. The MVC pattern has allowed me to organize and structure my projects efficiently. Through this pattern, I separate the business logic and interaction with the data in the model, the presentation and display in the view, and the handling of the interactions and events in the controller. This makes it easy to scale, maintain, and collaborate on the projects I work on.
 
