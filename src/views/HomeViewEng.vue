@@ -409,7 +409,7 @@
         <strong>General Notions of Astronomy and Astrophysics</strong> - 2nd Venezuelan School for teaching physics - Los Andes University. 2002
       </li>
       <li>
-        <strong>El Análisis Dimensional de la Física</strong> - 2nd Venezuelan School for teaching physics. 2002
+        <strong>The Dimensional Analysis of Physics</strong> - 2nd Venezuelan School for teaching physics. 2002
       </li>
       <li>
         <strong>2nd Venezuelan School for teaching physics</strong> - 2nd Venezuelan School for teaching physics - Los Andes University. 2002
