@@ -6,18 +6,9 @@
       <div class="section1-blur-eng">
         <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
         <p class="text-subtitle-eng"
-          >Hello and welcome! I am a professor of Physics, with postgraduate studies in Medical Physics with participation as a co-author in multiple scientific publications, a specialist in Radiation Protection, accredited by the only registry of facilitators in Chile as a rapporteur for Radiation Protection courses.</p>
+          >Hello! I am a Front End developer with solid knowledge in fundamentals of software architecture and development in languages ​​such as JavaScript, Java and Python, with skills in relational and non-relational database management, functional software testing, programming patterns and programming Object-oriented in frameworks such as Django, Vue.Js and the renowned React library, under agile methodologies and Design Thinking. I am proactive, adaptable and I work very well in a team. I am still constantly learning and my way of demonstrating it is through teaching since my university training is as a physics professor with studies in medical physics, a specialist in radiation protection and a rapporteur for radiation protection courses.</p>
         <p class="text-subtitle-eng">
-          Some time ago, I decided to turn my professional career around and become a developer. Since then, I have focused on gaining knowledge in various programming languages ​​and web development technologies, such as JavaScript, Java, and Python. He worked with frameworks such as Vue.js and used libraries to design websites, always applying object-oriented programming structures.
-
-          Also, I am familiar with the Model-View-Controller (MVC) design pattern, which is widely used in web application development. The MVC pattern has allowed me to organize and structure my projects efficiently. Through this pattern, I separate the business logic and interaction with the data in the model, the presentation and display in the view, and the handling of the interactions and events in the controller. This makes it easy to scale, maintain, and collaborate on the projects I work on.
-
-          During my career path, I also gained strong skills in relational and non-relational database management. I feel comfortable working with agile methodologies such as Kanban and Scrum, which have allowed me to develop products with processes based on Design Thinking, fostering creativity and efficient problem solving.
-
-          I also recently took my first steps into the exciting field of data science, exploring how to apply techniques and tools to extract valuable insights from data.
-        </p>
-        <p class="text-subtitle-eng">
-          If you are looking for a project developer who has knowledge of modern and versatile web technologies, do not hesitate to contact me! I am sure that we will be able to build a team capable of creating impressive and effective applications.
+          Recently, I have also taken my first steps into the exciting field of data science, exploring how to apply statistical techniques and tools to extract valuable insights from data, machine learning, and neural network management.
         </p>
       </div>
     </div>
@@ -27,17 +18,17 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Professional profile"
-          content="Web and software developer oriented towards the Front-End in IT solutions projects with the use of programming languages ​​such as: Java, JavaScript, libraries such as: React and frameworks such as Vue and Django."
+          content="Front End Developer in projects with the use of programming languages such as: Java, JavaScript, frameworks such as Vue.Js and Django as well as the recognized React library."
         />
         <Card
         iconName="fa fa-mobile"
         name="Skills"
-        content="Knowledge of frameworks, handling of programming languages like Java, JavaScript, Problem resolution, interest in technological innovation, teamwork, analitic person."
+        content="Effective communication, leadership skills, problem solving, teamwork, analytical person, course relator, intermediate English level becoming conversational."
         />
         <Card
           iconName="fa fa-magic"
           name="More about me"
-          content="I like to play acoustic guitar, I am a fan of music, chess and sports, I love food, I like to enjoy the taste of coffee beans, I was born in June 1980 in Merida, Venezuela."
+          content="I like to travel and meet people, I am a fan of Rock, chess and sports, the taste of coffee beans, craft beer and a good barbecue."
         />
       </div>
     </div>
@@ -135,18 +126,18 @@
       <div class="about-cards-eng" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Front-End Developer"
-          content="I have implemented solutions that improve the user experience on platforms and systems. I have skills in programming languages ​​like HTML, CSS, JavaScript, and frameworks like Vue.js and React. Furthermore, I have experience using libraries such as Bootstrap and Vuetify to optimize the design and functionality of applications."
+          title="Front End Developer"
+          content="My knowledge allows me to implement advanced solutions that improve the user experience in platforms and systems. I have skills in programming languages like HTML, CSS, JavaScript, and frameworks like Vue.js and Django. In addition, I have solid knowledge in the use of libraries such as React, to implement the design and functionality of web applications in a responsive way."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Back-End Developer"
-        content="My experience allows me to develop and maintain robust and scalable systems and platforms using technologies and programming languages ​​such as Java, Python and Node.js. Also, I have skills in designing and maintaining SQL and NoSQL databases. As well as in the implementation and consumption of API Restful services. in order to improve the quality of the applications."
+        title="Back End and QA"
+        content="In addition, my training allows me to support robust and scalable systems and platforms using technologies such as node.Js. Integration to API Restful services, design and maintenance of SQL and NoSQL databases. in order to improve the quality of the applications making it scalable under patterns such as MVC, in addition to implementing functional, integration and smoke tests."
         />
         <CardService
           iconName="fa-solid fa-rocket"
-          title="Analist / Data Scientist"
-          content="Thanks to the Digital Talent scholarship I have trained in a data science bootcamp, in order to manage data and create predictive models, and I have also learned to analyze and understand large data sets using statistical techniques, machine learning and analysis of data. I can extract useful and valuable knowledge from data to help companies and organizations make data-driven decisions."
+          title="Data Science"
+          content="I have recently trained in the field of data science in order to manage data and implement predictive models to analyze large data sets using statistical techniques, machine learning and neural networks. These technologies allow extracting valuable information that helps companies and organizations make fundamental decisions for their development and improvement."
         />
       </div>
     </div>
@@ -267,61 +258,165 @@
         <h3>Intensive Educational Programs</h3>
         <ul>
           <li>
-            <strong>Certified Tech Developer</strong> - Digital House, scholarship granted by Globant and Mercadolibre (In progress).
+            <strong>Certified Tech Developer (Scholarship by Globant and Mercadolibre)</strong> - Digital House (In progress, third bimester approved).
           </li>
           <li>
-          <strong>Data Science</strong> -
+          <strong>Data Science (Digital Talent Scholarship)</strong> -
           AwakeLab by Aspasia.
         </li>
         <li>
-          <strong>Full Stack Python Application Developer Trainee</strong>
+          <strong>Full Stack Python Application Developer Trainee (NSTEC Scholarship)</strong>
           - Sustantiva Labor Training Institute.
         </li>
         <li>
-          <strong>LowCode/NoCode</strong> - Microsoft Power Platform Power BI
-          - Ernest&Young.
+          <strong>LowCode/NoCode</strong> - Microsoft Power Platform
+          - EY.
         </li>
         <li>
-          <strong>Software Application Developer</strong> - Claro -
+          <strong>Software Application Developer (NSTEC Scholarship)</strong> - Claro -
           Madicap Labor Training Institute.
         </li>
         <li>
-          <strong>FrontEnd Application Developer Trainee</strong> -
+          <strong>FrontEnd Application Developer Trainee (Talent Digital Scholarship)</strong> -
           AwakeLab by Adalid Inkmark Ltda.
         </li>
       </ul>
       <h3>Postgraduate</h3>
       <ul>
-        <li><strong>Master's Degree in Medical Physics</strong> - Graduated</li>
+        <li><strong>Studies in Medical Physics</strong> - Center for Advanced Studies of the Venezuelan Institute of Scientific Research</li>
       </ul>
 
       <h3>Undergraduate</h3>
   <ul>
     <li>
-      <strong>Physics Teacher</strong> - Degree revalidated by the University of Chile. Cum Laude Mention.
+      <strong>Physics Teacher</strong> - Degree revalidated by the University of Chile. Cum Laude recognition for grade achieved. 1999 - 2005
     </li>
   </ul>
-  <h3>Certifications and Courses</h3>
+  <h3>Advanced courses in Computer Science</h3>
   <ul>
     <li>
-      <strong>Data Curator</strong> - Claro, Carlos Slim Foundation.
+      <strong>Data Curator</strong> - Claro, Carlos Slim Foundation. 2021
     </li>
     <li>
-      <strong>Programming Logic</strong> - National Service for Training and Employment and Carlos Slim Foundation.
+      <strong>Programming Logic</strong> - National Service for Training and Employment - Carlos Slim Foundation. 2020
     </li>
     <li>
       <strong>Introduction to Programming with Python</strong> -
-      National Service for Training and Employment and Austral University.
+      National Service for Training and Employment - Austral University. 2020
     </li>
     <li>
-      <strong>Processing Data with Python</strong> - National Service for Training and Employment and Austral University.
+      <strong>Processing Data with Python</strong> - National Service for Training and Employment - Austral University. 2020
     </li>
     <li>
-      <strong>Programming with JavaScript Ed 5</strong> - National Service for Training and Employment and Movistar.
+      <strong>Programming with JavaScript Ed 5</strong> - National Service for Training and Employment - Movistar.
     </li>
     <li>
       <strong>Comprehensive Computer Operator</strong> - INESCO.</li>
   </ul>
+  <h3>Cursos</h3>
+    <ul>
+      <li>
+        <strong>Duties and Rights of Health Personnel </strong> - National School of Public Administration. 2020
+      </li>
+      <li>
+        <strong>Health Personnel Qualification System </strong> - National School of Public Administration. 2020
+      </li>
+      <li>
+        <strong>Radiation Protection 24 h.</strong> - Institute of Radiation Protection. Chile 2017
+      </li>
+      <li>
+        <strong>Basic Principles of Quality Management Based on the ISO 9001 Standard.</strong> - Venezuelan Institute of Scientific Research. 2016
+      </li>
+      <li>
+        <strong>Use of the LIEN-IVLAD system and induction to Agilent VEE.</strong> - Venezuelan Institute of Scientific Research. 2015
+      </li>
+      <li>
+        <strong>Special Course: Alternative Energies</strong> - Venezuelan Institute of Scientific Research. 2013
+      </li>
+      <li>
+        <strong>Trainers in Radiation Protection for Medical Practice</strong> - Ministry of Popular Power for Health. 2012
+      </li>
+      <li>
+        <strong>Intervention Course Aimed at Medical Physicists</strong> - Institute of Oncology “Dr. Luis Razetti”. 2012
+      </li>
+      <li>
+        <strong>Computed Tomography Targeted at Medical Physicists</strong> - Institute of Oncology “Dr. Luis Razetti”. 2012
+      </li>
+      <li>
+        <strong>Master Conference in Computed Tomography</strong> - Institute of Oncology “Dr. Luis Razetti”. 2012
+      </li>
+      <li>
+        <strong>Radiation Protection in Interventional Radiology with emphasis in Cardiology</strong> - Peruvian Society of Radiological Protection. 2012
+      </li>
+      <li>
+        <strong>Radiation Protection in Computed Tomography</strong> - Peruvian Society of Radiological Protection. 2012
+      </li>
+      <li>
+        <strong>Radiation Protection in Mammography</strong> - Peruvian Society of Radiological Protection. 2012
+      </li>
+      <li>
+        <strong>International Symposium on Radiation Protection</strong> - Peruvian Society of Radiological Protection. 2012
+      </li>
+      <li>
+        <strong>Quality Management System in Regulatory Bodies</strong> - Peruvian Society of Radiological Protection. 2012
+      </li>
+      <li>
+        <strong>Radiation Protection to the patient in Radiodiagnosis, Nuclear Medicine and Radiotherapy</strong> - Venezuelan Institute of Scientific Research. 2012
+      </li>
+      <li>
+        <strong>First Conference on Radiological Protection of the Patient “Dra. Clemencia García Villasmil”,</strong> - Venezuelan Society of Radiological Protection (SOVEPRA). 2011
+      </li>
+      <li>
+        <strong>Internal Dosimetry Applied to Nuclear Medicine</strong> - Venezuelan Institute of Scientific Research. 2011
+      </li>
+      <li>
+        <strong>Basic Aspects of Intellectual Property</strong> - Autonomous Service of Intellectual Property. 2010
+      </li>
+      <li>
+        <strong>ISO 19011:2002 Guidelines for the audit of Quality and/or Environmental Management Systems</strong> - Ministry of People's Power for Commerce and the National Autonomous Service for Standardization, Quality, Metrology and Technical Regulations (SENCAMER). 2008
+      </li>
+      <li>
+        <strong>Fluoroscopy and Cinefluorography</strong> - Venezuelan Institute of Scientific Research. 2008
+      </li>
+      <li>
+        <strong>Montecarlo Method</strong> - Venezuelan Institute of Scientific Research. 2008
+      </li>
+      <li>
+        <strong>Thermoluminescent Dosimetry Course</strong> - Venezuelan Institute of Scientific Research. 2007
+      </li>
+      <li>
+        <strong>Workshop on Effective Communication and Group Integration before the Challenges of Change</strong> - Venezuelan Institute of Scientific Research. 2007
+      </li>
+      <li>
+        <strong>Basic Course on Radiological Protection, 40 hours for Radiological Safety Officers</strong> - Venezuelan Institute of Scientific Research. 2006
+      </li>
+      <li>
+        <strong>Regional Training Course on Image Quality Assurance in Diagnostic Imaging</strong> - International Atomic Energy Agency with the Government of Mexico through the National Autonomous University of Mexico (UNAM) and the National Institute of Cancerology (INCAN). 2006
+      </li>
+      <li>
+        <strong>Electricity - Electromagnetism - Magnetism - Optics</strong> - 3th Venezuelan School for teaching physics. 2004
+      </li>
+      <li>
+        <strong>Sistema Solar - Física de la Tierra</strong> - 3th Venezuelan School for teaching physics. 2004
+      </li>
+      <li>
+        <strong>La Mecánica de Newton, Usted y Yo</strong> - 2nd Venezuelan School for teaching physics. 2002
+      </li>
+      <li>
+        <strong>La Física y la Vulnerabilidad de Zonas Urbanas</strong> - 2nd Venezuelan School for teaching physics. 2002
+      </li>
+      <li>
+        <strong>Nociones Generales de Astronomía y Astrofísica</strong> - 2nd Venezuelan School for teaching physics. 2002
+      </li>
+      <li>
+        <strong>El Análisis Dimensional de la Física</strong> - 2nd Venezuelan School for teaching physics. 2002
+      </li>
+      <li>
+        <strong>2da Escuela de la Enseñanza de la Física</strong> - 2nd Venezuelan School for teaching physics. 2002
+      </li>
+
+    </ul>
+
       </div>
       <div class="studies-bottom-eng">
         <div class="studies-bottom-main-eng">
@@ -334,9 +429,9 @@
               />
               <h2>Douglas Guacarán</h2>
             </div>
-            <h3>Web Developer / Data scientist</h3>
+            <h3>Front End Developer</h3>
             <span class="studies-bottom-parraph-eng"
-              >Professional developer with experience in QA and development of responsive web applications with design concepts such as Mobile First, under programming paradigms such as object-oriented programming, functional programming, and microservices. Additionally, I have experience with Design Thinking methodologies and a background in Data Science.</span
+              >Developer with advanced knowledge in responsive web design with HTML, CSS, JavaScript, Bootstrap, object-oriented programming, programming patterns with SOLID principles and Agile methodologies, with version control management and unit, functional and integration tests.</span
             >
           </div>
           <div class="studies-bottom-icons">
@@ -367,13 +462,48 @@
       <h2>Work Experience</h2>
       <div class="experience-main-eng">
         <ul>
-    <li>
-      <strong>Trainee</strong> -
-      <i>ElitSoft Ingeniería y Asesorías Informáticas LTDA</i>, April 2022 - July 2022.
-      <p>
-        Activities oriented to the preparation, development and execution of QA tests on web projects related to the banking industry using tools such as Control M, Jiraz, CyberArk, and management of SQL databases.
-      </p>
-    </li>
+        <li>
+          <strong>Trainee</strong> -
+          <i>ElitSoft Ingeniería y Asesorías Informáticas LTDA</i>, April 2022 - July 2022.
+          <p>
+            Some of my tasks were: preparing manual test procedures manuals in QA, designing and executing smoke tests and functional tests using Control-M, review in Cyberark (console) of the records of the tests executed, registering on the platform Jira results of the tests, QA staff to a bank client (Banco de Chile) becoming assigned as countpart of the QA area.
+          </p>
+        </li>
+        <li>
+            <strong> 24-hour Radiation Protection Courses Taught</strong>
+          <ul>
+              <li>
+              <p>
+                Hemisferio Sur S.A. Metropolitan Region - Chile. August 2018.
+              </p>
+            </li>
+            <li>
+              <p>
+                Castro Municipal Corporation, Chiloé - Chile. January 2019.
+            </p>
+            </li>
+            <li>
+              <p>
+                Belcap Capacitaciones, La Serena - Chile. June 2019.
+              </p>
+            </li>
+            <li>
+              <p>
+                Coin House Metropolitan Region - Chile. June 2019.
+              </p>
+            </li>
+            <li>
+              <p>
+                SST TRAINING OF CHILE SPA, On Line modality. November 2022.
+              </p>
+            </li>
+            <li>
+              <p>
+                Belcap Training, On Line modality. March, April and December 2022.
+              </p>
+            </li>
+          </ul>
+        </li>
     <li>
       <strong>Radiation Protection Officer</strong> -
       <i>Magallanes Clinical Hospital "Dr. Lautaro Navarro Avaria"</i>, June 2020 - December 2020.
@@ -389,8 +519,8 @@
       </p>
     </li>
     <li>
+      <strong>Venezuelan Institute for Scientific Research</strong>
       <ul>
-        <strong>Venezuelan Institute for Scientific Research</strong>
         
         <li>
         <strong>Research Associate Professional</strong> -
@@ -406,8 +536,40 @@
           Scientific personnel responsible for the magnitudes Absorbed Dose in Water and Kerma in Air. I calibrated radiation detectors, radioactive sources, and dosimetry systems, elaborated calibration curves for personal dosimetry, performed radiometric surveys on facilities with photon and neutron emitting equipment, calculated shielding for low and high energy installations. I participated in intercomparison procedures with other laboratories, participated in missions to facilities located in Venezuela for acceptance testing and quality control of Radiotherapy Units, Conventional and Digital Diagnostic Installations. I was named acting head of the laboratory on two occasions.
         </p>
       </li>
+      <li>
+          <strong>Profesional en Entrenamiento</strong> -
+          <i>Secondary Laboratory of Dosimetric Calibration of the Venezuelan Institute of Scientific Research</i> July
+              2005 - August 2015.
+          <p>
+            Training period in the Secondary Laboratory of Dosimetric Calibration, where my assigned tasks were the calibration of ionizing radiation detectors, dosimetric systems in terms of Absorbed Dose and Air Kerma magnitudes.
+          </p>
+        </li>
       </ul>
     </li>
+    <li>
+            <strong>Libertador Experimental Pedagogical University</strong>
+            <ul>
+          <li>
+              <strong>Mathematics IV preparer student</strong> - first semester 2002. 
+              <p>
+                Preparer student of the subject mathematics IV, calculus difference and integral.
+              </p>
+            </li>
+            <li>
+              <strong>Preparer student of Fundamentals of Physics</strong> - first semester 2003 
+              <p>
+                Student preparer of the matter fundamentals of physics of students of the III semester.
+              </p>
+            </li>
+          </ul>
+          </li>
+          <li>
+              <strong>Physics teacher</strong> -
+              <i>Educational Units: “Los Próceres” School, “María Auxiliadora” School, “Lisandro Alvarado” National Educational Unit, “Dr. Alberto Carnevalli” National Educational Unit</i> July 2000 - July 2005
+              <p>
+                Hired teacher and head of Physics, Mathematics and Technical Drawing at the high school level in the city of Barquisimeto, Lara State, Venezuela.
+              </p>
+            </li>
   </ul>
       </div>
     </div>
@@ -565,7 +727,7 @@ export default {
   font-size: 26px;
   color: #000000;
 }
-.text-subtitle {
+.text-subtitle-eng {
   padding: 5px;
   text-align: justify;
   color: #000000;

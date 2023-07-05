@@ -6,16 +6,11 @@
       <div class="section1-blur">
         <h1 text class="flex text-title">Bienvenido</h1>
         <p class="text-subtitle">
-          ¡Hola y bienvenido! Soy Douglas profesor de Física, con estudios en Física Médica con experiencia en metrología de las radiaciones y Protección Radiológica, y un ferviente apasionado del desarrollo y la tecnología.
+          ¡Hola! Soy un desarrollador Front End con sólidos conocimientos en fundamentos de la arquitectura y desarrollo de software en lenguajes como JavaScript, Java y Python, con capacidades en la gestión de bases de datos relacionales y no relacionales, pruebas funcionales de software, patrones de programación y programación orientada a objetos en frameworks como Django, Vue.Js y de la reconocida librería React, bajo  metodologías ágiles y Design Thinking. Soy proactivo, adaptable y trabajo muy bien en equipo. Sigo en constante aprendizaje y mi forma de demostrarlo es a través de la enseñanza puesto que mi formación universitaria es como profesor de física con estudios en física médica, especialista en protección radiológica y relator de cursos de protección radiológica.
         </p>
         <p class="text-subtitle">
-          La llegada de la pandemia me permitió comprender la importancia de la tecnología en nuestra vida, desde entonces, me he enfocado en adquirir conocimientos en diversos lenguajes de programación y tecnologías de desarrollo web, como JavaScript, Java y Python. He aprendido a utilizar frameworks como Vue.js y Django y utilizado librerías de desarrollo como React para el diseño de sitios web, aplicando patrones de diseño y estructuras de programación orientadas a objetos facilitando la escalabilidad, el mantenimiento y la implementación de proyectos en los que he decidido colaborar.
-          
-          Durante este tiempo, de forma análoga he adquirido habilidades sólidas en la gestión de bases de datos relacionales y no relacionales. Me siento cómodo al usar metodologías ágiles como Kanban y Scrum.
-          
           Recientemente, también he dado mis primeros pasos en el emocionante campo de la ciencia de datos, explorando cómo aplicar técnicas estadísticas y herramientas para extraer conocimientos valiosos de los datos, machine learning y el manejo de redes neuronales.
-        </p>
-      </div>
+        </p>      </div>
     </div>
     <div class="about" id="about">
       <h2>Acerca De</h2>
@@ -23,17 +18,17 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador web en proyectos con el uso de lenguajes de programación como: Java, JavaScript, marcos de trabajo tales como; Vue Js y Django además de librerías como React."
+          content="Desarrollador Front End en proyectos con el uso de lenguajes de programación como: Java, JavaScript, marcos de trabajo tales como; Vue Js y Django además de la reconocida librería React."
         />
         <Card
         iconName="fa fa-mobile"
         name="Habilidades"
-        content="Conocimientos de frameworks, dominio lenguajes de programación, resolución de problemas, interés por la innovación tecnológica, trabajo en equipo, persona analítica."
+        content="Comunicación efectiva, capacidad de liderazgo, resolución de problemas, trabajo en equipo, persona analítica, relator de cursos, nivel de ingles intermedio llegando a ser conversacional."
         />
         <Card
           iconName="fa fa-magic"
           name="Un poco de mí"
-          content="Me gusta viajar y conocer personas, soy aficionado al rock, el ajedrez y los deportes, me encanta la comida, el sabor del café en grano y de la cerveza artesanal."
+          content="Me gusta viajar y conocer personas, soy aficionado al Rock, el ajedrez y los deportes, el sabor del café en grano, la cerveza artesanal y un buen asado a la parrilla."
         />
       </div>
     </div>
@@ -131,18 +126,18 @@
       <div class="perfil-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Front-End"
-          content="He implementado soluciones que mejoran la experiencia del usuario en plataformas y sistemas. Poseo habilidades en lenguajes de programación como HTML, CSS, JavaScript, y marcos de trabajo como Vue.js y React. Además, tengo experiencia en el uso de librerías como Bootstrap y Vuetify para optimizar el diseño y la funcionalidad de las aplicaciones."
+          title="Front End"
+          content="Mis conocimientos me permiten implementar soluciones avanzadas que mejoran la experiencia del usuario en plataformas y sistemas. Poseo habilidades en lenguajes de programación como HTML, CSS, JavaScript, y marcos de trabajo como Vue.js y Django. Además, tengo sólidos conocimientos en el uso de librerías como React, para implementar el diseño y la funcionalidad de las aplicaciones web de forma responsiva."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Back-End"
-        content="Mi experiencia me permite desarrollar y mantener sistemas y plataformas robustas y escalables utilizando tecnologías y lenguajes de programación como Java, Python y Node.js. Además, tengo habilidades en el diseño y mantenimiento de bases de datos SQL y NoSQL. Así como en la implementación y consumo de servicios de API Restful. con el fin de mejorar la calidad de las aplicaciones."
+        title="Back End y QA"
+        content="Además mi formación me permite dar soporte a sistemas y plataformas robustas y escalables utilizando tecnologías como node.Js.  Integración a servicios API Restful, diseño y mantenimiento de bases de datos SQL y NoSQL. con el fin de mejorar la calidad de las aplicaciones haciendola escalable bajo patrones como MVC, además de implementar pruebas funcionales, de integración y de humo."
         />
         <CardService
           iconName="fa-solid fa-rocket"
-          title="Científico de Datos"
-          content="Gracias a la beca de Talento Digital me he formado en un bootcamp de ciencia de datos, con el fin de manejar datos y crear modelos predictivos, y también he aprendido a analizar y comprender grandes conjuntos de datos utilizando técnicas de estadística, aprendizaje de máquina y análisis de datos. Puedo extraer conocimiento útil y valioso de los datos para ayudar a las empresas y organizaciones a tomar decisiones basadas en datos."
+          title="Ciencia de Datos"
+          content="Recientemente me he formado en el campo de la ciencia de datos con el fin de manejar datos e implementar modelos predictivos para analizar grandes conjuntos de datos utilizando técnicas estadísticas, aprendizaje de máquina y redes neuronales. Estas tecnologías permiten extraer información valiosa que ayudan a las empresas y organizaciones a tomar decisiones fundamentales para su desarrollo y mejoramiento."
         />
       </div>
     </div>
@@ -245,7 +240,7 @@
             data-bs-slide="prev"
           >
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
+            <span class="visually-hidden">Previo</span>
           </button>
           <button
             class="carousel-control-next"
@@ -254,7 +249,7 @@
             data-bs-slide="next"
           >
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
+            <span class="visually-hidden">Adelante</span>
           </button>
         </div>
       </div>
@@ -263,65 +258,163 @@
         <h3>Programas Educativos Intensivos</h3>
         <ul>
           <li>
-            <strong>Certified Tech Developer</strong> - Digital House becado por
-            Globant y Mercadolibre (En curso).
+            <strong>Certified Tech Developer (Beca Globant - Mercadolibre)</strong> - Digital House (Tercer bimestre finalizado).
           </li>
           <li>
-            <strong>Ciencia de datos</strong> -
+            <strong>Ciencia de datos (Beca Talento Digital)</strong> -
             AwakeLab by Aspasia.
           </li>
           <li>
-            <strong>Desarrollador aplicaciones Full Stack Python Trainee</strong>
+            <strong>Desarrollador aplicaciones Full Stack Python Trainee (Beca SENCE)</strong>
             - Sustantiva Inst. de Formación Laboral.
           </li>
           <li>
-            <strong>LowCode/NoCode</strong> - Microsoft Power Platform Power BI
-            - Ernest&Young.
+            <strong>LowCode/NoCode</strong> - Microsoft Power Platform
+            - EY.
           </li>
           <li>
-            <strong>Desarrollador aplicaciones de Software</strong> - Claro -
+            <strong>Desarrollador aplicaciones de Software (Beca SENCE)</strong> - Claro -
             Madicap Inst. de Formación Laboral
           </li>
           <li>
-            <strong>Desarrollador aplicaciones FrontEnd trainee</strong> -
+            <strong>Desarrollador aplicaciones FrontEnd trainee (Beca Talento Digital)</strong> -
             AwakeLab by Adalid Inkmark ltda.
           </li>
         </ul>
         <h3>Postgrado</h3>
         <ul>
-          <li><strong>Magíster en Física Médica</strong> - Egresado</li>
+          <li><strong>Estudios en Física Médica</strong> - Centro de Estudios Avanzados del Instituto Venezolano de Investigaciones Científicas</li>
         </ul>
 
         <h3>Universitaria</h3>
         <ul>
           <li>
             <strong>Profesor de Física</strong> - Título revalidado por
-            Universidad de Chile. Mención Cum Laude.
+            Universidad de Chile. Reconocimiento Cum Laude a nota alcanzada. 1999 - 2005
           </li>
         </ul>
-        <h3>Certificaciones y Cursos</h3>
+        <h3>Cursos de perfeccionamiento en Informática</h3>
         <ul>
           <li>
-            <strong>Curador de Datos</strong> - Claro, Fundación Carlos Slim.
+            <strong>Curador de Datos</strong> - Claro, Fundación Carlos Slim. 2021
           </li>
           <li>
-            <strong>Lógica de Programación</strong> - Servicio Nacional de
-            Capacitación y Empleo y Fundación Carlos Slim.
+            <strong>Lógica de Programación</strong> - SENCE - Fundación Carlos Slim. 2020
           </li>
           <li>
             <strong>Introducción a la Programación con Python</strong> -
-            Servicio Nacional de Capacitación y Empleo y Universidad Austral.
+            SENCE - Universidad Austral. 2020
           </li>
           <li>
-            <strong>Processing Data with Python</strong> - Servicio Nacional de
-            Capacitación y Empleo y Universidad Austral.
+            <strong>Processing Data with Python</strong> - Coursera. 2020 
           </li>
           <li>
-            <strong>Programación con JavaScript Ed 5</strong> - Servicio
-            Nacional de Capacitación y Empleo y Movistar.
+            <strong>Programación con JavaScript Ed 5</strong> - SENCE - Movistar. 2020.
           </li>
           <li>
-            <strong>Operador Integral de Computadoras</strong> - INESCO.</li>
+            <strong>Operador Integral de Computadoras</strong> - INESCO. 1996</li>
+        </ul>
+        <h3>Cursos</h3>
+        <ul>
+          <li>
+            <strong>Deberes y Derechos del Personal de Salud</strong> - Escuela Nacional de Administración Pública. 2020
+          </li>
+          <li>
+            <strong>Sistema de Calificación del Personal de la Salud</strong> - Escuela Nacional de Administración Pública. 2020
+          </li>
+          <li>
+            <strong>Protección Radiológica. 24 horas.</strong> - Instituto de Protección Radiológica. Chile 2017
+          </li>
+          <li>
+            <strong>Principios Básicos de Gestión de Calidad Basados en la Norma ISO 9001.</strong> - Instituto Venezolano de Investigaciones Científicas. 2016
+          </li>
+          <li>
+            <strong>Uso del sistema LIEN-IVLAD e inducción a Agilent VEE.</strong> - Instituto Venezolano de Investigaciones Científicas. 2015
+          </li>
+          <li>
+            <strong>Curso Especial: Energías Alternativas</strong> - Instituto Venezolano de Investigaciones Científicas. 2013
+          </li>
+          <li>
+            <strong>Formadores en Protección Radiológica para la Práctica Médica</strong> - Ministerio del poder popular para la Salud. 2012
+          </li>
+          <li>
+            <strong>Curso de Intervencionismo Dirigido a Físicos Médicos</strong> - Instituto de Oncología “Dr. Luis Razetti”. 2012
+          </li>
+          <li>
+            <strong>Tomografía Computarizada Dirigido a Físicos Médicos</strong> - Instituto de Oncología “Dr. Luis Razetti”. 2012
+          </li>
+          <li>
+            <strong>Conferencia Magistral en Tomografía Computarizada</strong> - Instituto de Oncología “Dr. Luis Razetti”. 2012
+          </li>
+          <li>
+            <strong>Protección Radiológica en Radiología Intervencionista con énfasis en Cardiología</strong> - Sociedad Peruana de Protección Radiológica. 2012
+          </li>
+          <li>
+            <strong>Protección Radiológica en Tomografía Computarizada</strong> - Sociedad Peruana de Protección Radiológica. 2012
+          </li>
+          <li>
+            <strong>Protección Radiológica en Mamografía</strong> - Sociedad Peruana de Protección Radiológica. 2012
+          </li>
+          <li>
+            <strong>Simposio Internacional Sobre Protección Radiológica</strong> - Sociedad Peruana de Protección Radiológica. 2012
+          </li>
+          <li>
+            <strong>Sistema de Gestión de Calidad en Órganos Reguladores</strong> - Sociedad Peruana de Protección Radiológica. 2012
+          </li>
+          <li>
+            <strong>Protección Radiológica al paciente en Radiodiagnóstico, Medicina Nuclear y Radioterapia</strong> - Instituto Venezolano de Investigaciones Científicas. 2012
+          </li>
+          <li>
+            <strong>I Jornadas de Protección Radiológica del Paciente “Dra. Clemencia García Villasmil”,</strong> - Sociedad Venezolana de Protección Radiológica (SOVEPRA). 2011
+          </li>
+          <li>
+            <strong>Dosimetría Interna Aplicada a la Medicina Nuclear</strong> - Instituto Venezolano de Investigaciones Científicas. 2011
+          </li>
+          <li>
+            <strong>Aspectos Básicos de la Propiedad Intelectual</strong> - Servicio Autónomo de la Propiedad Intelectual. 2010
+          </li>
+          <li>
+            <strong>ISO 19011:2002 Directrices para la auditoría de los Sistemas de Gestión de la Calidad y/o Ambiental</strong> - Ministerio del Poder Popular para el Comercio y el Servicio Autónomo Nacional de Normalización, Calidad, Metrología y Reglamentos Técnicos (SENCAMER). 2008
+          </li>
+          <li>
+            <strong>Fluoroscopia y Cinefluorografía</strong> - Instituto Venezolano de Investigaciones Científicas. 2008
+          </li>
+          <li>
+            <strong>Método de Montecarlo</strong> - Instituto Venezolano de Investigaciones Científicas. 2008
+          </li>
+          <li>
+            <strong>Curso de Dosimetría Termoluminiscente</strong> - Instituto Venezolano de Investigaciones Científicas. 2007
+          </li>
+          <li>
+            <strong>Taller de Comunicación Efectiva e Integración Grupal antes los Retos del Cambio</strong> - Instituto Venezolano de Investigaciones Científicas. 2007
+          </li>
+          <li>
+            <strong>Curso Básico de Protección Radiológica, 40 horas para Oficiales de Seguridad Radiológica</strong> - Instituto Venezolano de Investigaciones Científicas. 2006
+          </li>
+          <li>
+            <strong>Curso Regional de Capacitación sobre Garantía de Calidad en Imágenes en el Diagnóstico por Imágenes</strong> - Organismo Internacional de Energía Atómica con el Gobierno de México a través de la Universidad Nacional Autónoma de México (UNAM) y del Instituto Nacional de Cancerología (INCAN). 2006
+          </li>
+          <li>
+            <strong>Electricidad - Electromagnetismo - Magnetismo - Óptica</strong> - 3ª Escuela Venezolana para enseñanza de la física - Universidad de los Andes 2004
+          </li>
+          <li>
+            <strong>Sistema Solar - Física de la Tierra</strong> - 3ª Escuela Venezolana para enseñanza de la física - Universidad de los Andes 2004
+          </li>
+          <li>
+            <strong>La Mecánica de Newton, Usted y Yo</strong> - 2ª Escuela Venezolana para enseñanza de la física - Universidad de los Andes 2002
+          </li>
+          <li>
+            <strong>La Física y la Vulnerabilidad de Zonas Urbanas</strong> - 2ª Escuela Venezolana para enseñanza de la física - Universidad de los Andes. 2002
+          </li>
+          <li>
+            <strong>Nociones Generales de Astronomía y Astrofísica</strong> - 2ª Escuela Venezolana para enseñanza de la física - Universidad de los Andes. 2002
+          </li>
+          <li>
+            <strong>El Análisis Dimensional de la Física</strong> - 2ª Escuela Venezolana para enseñanza de la física. 2002
+          </li>
+          <li>
+            <strong>2da Escuela de la Enseñanza de la Física</strong> - 2ª Escuela Venezolana para enseñanza de la física - Universidad de los Andes. 2002
+          </li>
         </ul>
       </div>
       <div class="studies-bottom">
@@ -335,9 +428,9 @@
               />
               <h2>Douglas Guacarán</h2>
             </div>
-            <h3>Desarrollador web / Científico de Datos</h3>
+            <h3>Desarrollador Front End</h3>
             <span class="studies-bottom-parraph"
-              >Desarrollador profesional con experiencia en QA y desarrollo de aplicaciones web responsive con conceptos de diseño como Mobile First, bajo paradigmas de programación como programación orientada a objetos, programación funcional y microservicios. Adicionalmente, tengo experiencia con metodologías de Design Thinking y background en Data Science.</span
+              >Desarrollador con manejo avanzado en diseño web responsive con HTML, CSS, JavaScript, Bootstrap, programación orientada a objetos, patrones de programación con principios SOLID y metodologías Ágiles, con control manejo de control de versiones y pruebas unitarias, funcionales y de integración.</span
             >
           </div>
           <div class="studies-bottom-icons">
@@ -369,6 +462,49 @@
       <div class="experience-main">
         <ul>
           <li>
+            <strong>Práctica - Trainee</strong> -
+            <i>Elitsoft Ingeniería y Asesorías Informáticas LTDA</i> , Abril 
+            2022 - julio 2022.
+            <p>
+              Algunas de mis tareas fueron: elaborar manuales de procedimientos de prueba manuales en QA, diseñar y ejecutar pruebas de humo y pruebas funcionales con uso de Control-M, revisión en Cyberark (consola) de los registros de las pruebas ejecutadas, registar en la plataforma Jira resultado de los test, staff QA contraparte ante cliente de la banca (Banco de Chile) llegando a ser asignado como responsable del área.
+            </p>
+          </li>
+          <li>
+            <strong> Cursos de Protección Radiológica de 24 horas Dictados</strong>
+            <ul>
+              <li>
+              <p>
+                Hemisferio Sur S.A. Providencia Santiago, Agosto 2018.
+              </p>
+            </li>
+            <li>
+              <p>
+                Corporación Municipal de Castro, Chiloé, Enero 2019.
+            </p>
+            </li>
+            <li>
+              <p>
+                Belcap Capacitaciones, La Serena. Junio 2019.
+              </p>
+            </li>
+            <li>
+              <p>
+                Casa Moneda Chile. Junio 2019.
+              </p>
+            </li>
+            <li>
+              <p>
+                CAPACITACIONES SST DE CHILE SPA, Modalidad On Line. Noviembre 2022.
+              </p>
+            </li>
+            <li>
+              <p>
+                Belcap Capacitaciones, On Line. Marzo, Abril y Diciembre 2022.
+              </p>
+            </li>
+          </ul>
+        </li>
+          <li>
             <strong>Oficial de Protección Radiológica</strong> -
             <i>Hospital Clínico Magallanes "Dr. Lautaro Navarro Avaria"</i> , junio 
             2020 - diciembre 2020.
@@ -385,8 +521,8 @@
             </p>
           </li>
           <li>
+            <strong>Instituto Venezolano de Investigaciones Científicas</strong>
             <ul>
-              <strong>Instituto Venezolano de Investigaciones Científicas</strong>
               
               <li>
               <strong>Profesional Asociado a la Investigación</strong> -
@@ -399,13 +535,46 @@
             <li>
               <strong>Profesional Asociado a la Investigación</strong> -
               <i>Laboratorio Secundario de Calibración Dosimétrica del</i> , octubre 
-              2020 - Enero 2021.
+              2005 - septiembre 2014.
               <p>
                 Personal científico responsable de las magnitudes Dosis Absorbida en Agua y del Kerma en Aire. Calibré detectores de radiación, fuentes radiactivas y sistemas dosimétricos, elaboré curvas de calibración para dosimetría personal, realicé levantamientos radiométricos en instalaciones con equipos emisores de haces de fotones y neutrones, elaboré cálculos de blindaje a instalaciones de baja y altas energías. Participé en procedimientos de intercomparaciones de dosis con otros laboratorios, participé en misiones en instalaciones ubicadas en Venezuela con el fin de realizar pruebas de aceptación y de control de calidad a unidades de Radioterapia, Instalaciones de diagnóstico convencionales y digitales, participé como personal cientifico contraparte en proyectos nacionales de aseguramiento de calidad, fui nombrado jefe encargado del laboratorio en dos ocasiones.
               </p>
             </li>
+            <li>
+              <strong>Profesional en Entrenamiento</strong> -
+              <i>Laboratorio Secundario de Calibración Dosimétrica del Instituto Venezolano de Investigaciones Científicas</i> Julio 
+              2005 - agosto 2015.
+              <p>
+                Período de entrenamiento en el Laboratorio Secundario de Calibración Dosimétrica, donde mis tareas asignada fueron la calibración de detectores de radiación ionizante, sistemas dosimétricos en magnitudes de dosis absorbida y Kerma en aire.
+              </p>
+            </li>
             </ul>
           </li>
+
+          <li>
+            <strong>Universidad Pedagógica Experimental Libertador</strong>
+            <ul>
+          <li>
+              <strong>Estudiante preparador Matemática IV</strong> - Semestre I 2002 
+              <p>
+                Estudiante preparador de la materia matemática IV, calculo diferencia e integral.
+              </p>
+            </li>
+            <li>
+              <strong>Estudiante preparador Fundamentos de Física</strong> - Semestre I 2003 
+              <p>
+                Estudiante preparador de la materia fundamentos de física de alumnos del III semestre.
+              </p>
+            </li>
+          </ul>
+          </li>
+          <li>
+              <strong>Docente de Física</strong> -
+              <i>Unidades Educativas: Colegio “Los Próceres”, Colegio “María Auxiliadora”, Unidad Educativa Nacional “Lisandro Alvarado”, Unidad Educativa Nacional “Dr. Alberto Carnevalli”</i> julio 2000 - julio 2005
+              <p>
+                Docente contratado y titular de las materia de Física, matemática y Dibujo técnico a nivel de bachillerato en la ciudad de Barquisimeto Estado Lara, Venezuela.
+              </p>
+            </li>
         </ul>
       </div>
     </div>
@@ -611,7 +780,7 @@ margin: 60px;
   width: 335px;
 }
   
-  @media screen and (min-width: 769px) {
+@media screen and (min-width: 769px) {
     .flex {
       display:flex;
       justify-content: center;
