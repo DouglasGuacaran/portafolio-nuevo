@@ -4,19 +4,16 @@
     <div class="section1" id="section1">
       <img class = "image-profile" src="../assets/img/perfil_1-transformed11.png" alt="Foto Perfil">
       <div class="section1-blur">
-        <h1 text class="flex text-title">Bienvenido Soy Douglas</h1>
+        <h1 text class="flex text-title">Bienvenido</h1>
         <p class="text-subtitle">
-          ¡Hola y bienvenido! Soy un profesor de Física, con estudios de postgrado en Física Médica con participación como coautor en múltiples publicaciones científicas, especialista en Protección Radiológica, acreditado por el registro único de facilitadores de Chile como relator de cursos de Protección Radiológica.
+          ¡Hola y bienvenido! Soy Douglas profesor de Física, con estudios en Física Médica con experiencia en metrología de las radiaciones y Protección Radiológica, y un ferviente apasionado del desarrollo y la tecnología.
         </p>
         <p class="text-subtitle">
-          Hace un tiempo, decidí dar un giro a mi carrera profesional y convertirme en un desarrollador. Desde entonces, me he enfocado en adquirir conocimientos en diversos lenguajes de programación y tecnologías de desarrollo web, como JavaScript, Java y Python. He trabajado con frameworks como Vue.js y he utilizado librerías para el diseño de sitios web, aplicando patrones de diseño y estructuras de programación orientadas a objetos facilitando la escalabilidad, el mantenimiento y la colaboración en los proyectos en los que trabajo.
+          La llegada de la pandemia me permitió comprender la importancia de la tecnología en nuestra vida, desde entonces, me he enfocado en adquirir conocimientos en diversos lenguajes de programación y tecnologías de desarrollo web, como JavaScript, Java y Python. He aprendido a utilizar frameworks como Vue.js y Django y utilizado librerías de desarrollo como React para el diseño de sitios web, aplicando patrones de diseño y estructuras de programación orientadas a objetos facilitando la escalabilidad, el mantenimiento y la implementación de proyectos en los que he decidido colaborar.
           
-          Durante este tiempo, he adquirido habilidades sólidas en la gestión de bases de datos relacionales y no relacionales. Me siento cómodo trabajando con metodologías ágiles como Kanban y Scrum, las cuales me han permitido desarrollar productos con procesos basados en Design Thinking, fomentando la creatividad y la resolución eficiente de problemas.
+          Durante este tiempo, de forma análoga he adquirido habilidades sólidas en la gestión de bases de datos relacionales y no relacionales. Me siento cómodo al usar metodologías ágiles como Kanban y Scrum.
           
           Recientemente, también he dado mis primeros pasos en el emocionante campo de la ciencia de datos, explorando cómo aplicar técnicas estadísticas y herramientas para extraer conocimientos valiosos de los datos, machine learning y el manejo de redes neuronales.
-        </p>
-        <p class="text-subtitle">
-          Si buscas un desarrollador de proyectos que posea conocimientos en tecnologías web modernas y versátiles, ¡no dudes en contactarme! Estoy seguro de que podremos formar un equipo capaz de crear aplicaciones impresionantes y efectivas.
         </p>
       </div>
     </div>
@@ -371,14 +368,6 @@
       <h2>Experiencia Laboral</h2>
       <div class="experience-main">
         <ul>
-          <li>
-            <strong>Trainee</strong> -
-            <i> ElitSoft Ingeniería y Asesorías Informáticas LTDA </i> , abril
-            2022 - julio 2022.
-            <p>
-              Actividades orientadas a la confección, desarrollo y ejecución de pruebas de QA en proyectos web relacionados con la Banca usando herramientas como Control M, Jiraz, CyberArk, manejo de bases de datos SQL.
-            </p>
-          </li>
           <li>
             <strong>Oficial de Protección Radiológica</strong> -
             <i>Hospital Clínico Magallanes "Dr. Lautaro Navarro Avaria"</i> , junio 
