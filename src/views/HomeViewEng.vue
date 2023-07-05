@@ -394,27 +394,26 @@
         <strong>Regional Training Course on Image Quality Assurance in Diagnostic Imaging</strong> - International Atomic Energy Agency with the Government of Mexico through the National Autonomous University of Mexico (UNAM) and the National Institute of Cancerology (INCAN). 2006
       </li>
       <li>
-        <strong>Electricity - Electromagnetism - Magnetism - Optics</strong> - 3th Venezuelan School for teaching physics. 2004
+        <strong>Electricity - Electromagnetism - Magnetism - Optics</strong> - 3th Venezuelan School for teaching physics - Los Andes University. 2004
       </li>
       <li>
-        <strong>Sistema Solar - Física de la Tierra</strong> - 3th Venezuelan School for teaching physics. 2004
+        <strong>Solar System - Earth Physics</strong> - 3th Venezuelan School for teaching physics - Los Andes University. 2004
       </li>
       <li>
-        <strong>La Mecánica de Newton, Usted y Yo</strong> - 2nd Venezuelan School for teaching physics. 2002
+        <strong>Newton's Mechanics, You and Me</strong> - 2nd Venezuelan School for teaching physics - Los Andes University. 2002
       </li>
       <li>
-        <strong>La Física y la Vulnerabilidad de Zonas Urbanas</strong> - 2nd Venezuelan School for teaching physics. 2002
+        <strong>The Physics and Vulnerability of Urban Areas</strong> - 2nd Venezuelan School for teaching physics - Los Andes University. 2002
       </li>
       <li>
-        <strong>Nociones Generales de Astronomía y Astrofísica</strong> - 2nd Venezuelan School for teaching physics. 2002
+        <strong>General Notions of Astronomy and Astrophysics</strong> - 2nd Venezuelan School for teaching physics - Los Andes University. 2002
       </li>
       <li>
         <strong>El Análisis Dimensional de la Física</strong> - 2nd Venezuelan School for teaching physics. 2002
       </li>
       <li>
-        <strong>2da Escuela de la Enseñanza de la Física</strong> - 2nd Venezuelan School for teaching physics. 2002
+        <strong>2nd Venezuelan School for teaching physics</strong> - 2nd Venezuelan School for teaching physics - Los Andes University. 2002
       </li>
-
     </ul>
 
       </div>
