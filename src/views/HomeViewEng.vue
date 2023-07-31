@@ -6,9 +6,9 @@
       <div class="section1-blur-eng">
         <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
         <p class="text-subtitle-eng"
-          >Hello! I am a Front End developer with solid knowledge in fundamentals of software architecture and development in languages ​​such as JavaScript, Java and Python, with skills in relational and non-relational database management, functional software testing, programming patterns and programming Object-oriented in frameworks such as Django, Vue.Js and the renowned React library, under agile methodologies and Design Thinking. I am proactive, adaptable and I work very well in a team. I am still constantly learning and my way of demonstrating it is through teaching since my university training is as a physics professor with studies in medical physics, a specialist in radiation protection and a rapporteur for radiation protection courses.</p>
+          >Hello! I'm a Junior FullStack Developer, with 15 years of experience in radiation protection, medical physics and scientific research. Successfully redirected towards technology with a focus on programming languages ​​such as Python, JavaScript and Java, applying good practices and standing out in relational and non-relational database management, unit tests and object-oriented programming, handling Vue.Js, Django and React, with skills in agile methodologies and Design Thinking. I am a goal-oriented professional, with leadership skills, passionate about solving problems and excellent transversal communication.</p>
         <p class="text-subtitle-eng">
-          Recently, I have also taken my first steps into the exciting field of data science, exploring how to apply statistical techniques and tools to extract valuable insights from data, machine learning, and neural network management.
+          I recently completed an intensive academic program in data science, combining mathematical-statistical skills with programming to analyze data and build predictive machine learning models and the configuration of neural networks that would help computers make decisions in complex situations.
         </p>
       </div>
     </div>
@@ -18,7 +18,7 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Professional profile"
-          content="Front End Developer in projects with the use of programming languages such as: Java, JavaScript, frameworks such as Vue.Js and Django as well as the recognized React library."
+          content="Junior FullStack Developer in projects with the use of programming languages such as: Java, JavaScript, frameworks such as Vue.Js and Django as well as the recognized React library."
         />
         <Card
         iconName="fa fa-mobile"
@@ -126,12 +126,12 @@
       <div class="about-cards-eng" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Front End Developer"
+          title="Front-End Developer"
           content="My knowledge allows me to implement advanced solutions that improve the user experience in platforms and systems. I have skills in programming languages like HTML, CSS, JavaScript, and frameworks like Vue.js and Django. In addition, I have solid knowledge in the use of libraries such as React, to implement the design and functionality of web applications in a responsive way."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Back End and QA"
+        title="Back-End and QA"
         content="In addition, my training allows me to support robust and scalable systems and platforms using technologies such as node.Js. Integration to API Restful services, design and maintenance of SQL and NoSQL databases. in order to improve the quality of the applications making it scalable under patterns such as MVC, in addition to implementing functional, integration and smoke tests."
         />
         <CardService

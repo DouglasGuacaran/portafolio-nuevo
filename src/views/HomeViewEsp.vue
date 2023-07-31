@@ -6,10 +6,10 @@
       <div class="section1-blur">
         <h1 text class="flex text-title">Bienvenido</h1>
         <p class="text-subtitle">
-          ¡Hola! Soy un desarrollador Front End con sólidos conocimientos en fundamentos de la arquitectura y desarrollo de software en lenguajes como JavaScript, Java y Python, con capacidades en la gestión de bases de datos relacionales y no relacionales, pruebas funcionales de software, patrones de programación y programación orientada a objetos en frameworks como Django, Vue.Js y de la reconocida librería React, bajo  metodologías ágiles y Design Thinking. Soy proactivo, adaptable y trabajo muy bien en equipo. Sigo en constante aprendizaje y mi forma de demostrarlo es a través de la enseñanza puesto que mi formación universitaria es como profesor de física con estudios en física médica, especialista en protección radiológica y relator de cursos de protección radiológica.
+          ¡Hola! Soy un desarrollador Desarrollador FullStack junior, con 15 años de experiencia en protección radiológica, física médica e investigación científica. Redirigido exitosamente hacia la tecnología con enfoque en lenguajes de programación como Python, JavaScript y Java, aplicando buenas prácticas y destacado en gestión de bases de datos relacionales y no relacionales, pruebas unitarias y programación orientada a objetos, manejo en Vue.Js, Django y React, con habilidades en metodologías ágiles y Design Thinking. Soy un profesional orientado al logro de objetivos, con capacidad de liderazgo, apasionado por resolver problemas y de excelente comunicación transversal.
         </p>
         <p class="text-subtitle">
-          Recientemente, también he dado mis primeros pasos en el emocionante campo de la ciencia de datos, explorando cómo aplicar técnicas estadísticas y herramientas para extraer conocimientos valiosos de los datos, machine learning y el manejo de redes neuronales.
+          Recientemente, completé un programa académico intensivo en ciencia de datos, combinando habilidades matemático-estadísticas con programación para analizar datos y construir modelos predictivos  machine learning y la configuración de redes neuronales que ayudarían a las computadoras a la toma de decisiones en situaciones complejas.
         </p>      </div>
     </div>
     <div class="about" id="about">
@@ -18,7 +18,7 @@
         <Card
           iconName="fa-solid fa-gears"
           name="Perfil Profesional"
-          content="Desarrollador Front End en proyectos con el uso de lenguajes de programación como: Java, JavaScript, marcos de trabajo tales como; Vue Js y Django además de la reconocida librería React."
+          content="Desarrollador FullStack Junior en proyectos con el uso de lenguajes de programación como: Java, JavaScript, marcos de trabajo tales como; Vue Js y Django además de la reconocida librería React."
         />
         <Card
         iconName="fa fa-mobile"
@@ -126,12 +126,12 @@
       <div class="perfil-cards" id="cards">
         <CardService
           iconName="fa-regular fa-gem"
-          title="Front End"
+          title="Front-End"
           content="Mis conocimientos me permiten implementar soluciones avanzadas que mejoran la experiencia del usuario en plataformas y sistemas. Poseo habilidades en lenguajes de programación como HTML, CSS, JavaScript, y marcos de trabajo como Vue.js y Django. Además, tengo sólidos conocimientos en el uso de librerías como React, para implementar el diseño y la funcionalidad de las aplicaciones web de forma responsiva."
         />
         <CardService
         iconName="fa-solid fa-wand-magic-sparkles"
-        title="Back End y QA"
+        title="Back-End y QA"
         content="Además mi formación me permite dar soporte a sistemas y plataformas robustas y escalables utilizando tecnologías como node.Js.  Integración a servicios API Restful, diseño y mantenimiento de bases de datos SQL y NoSQL. con el fin de mejorar la calidad de las aplicaciones haciendola escalable bajo patrones como MVC, además de implementar pruebas funcionales, de integración y de humo."
         />
         <CardService
