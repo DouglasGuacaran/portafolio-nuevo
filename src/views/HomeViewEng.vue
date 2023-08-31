@@ -6,9 +6,11 @@
       <div class="section1-blur-eng">
         <h1 class="flex text-title-eng">Welcome! I'm Douglas</h1>
         <p class="text-subtitle-eng"
-          >Hello! I'm a Junior FullStack Developer, with 15 years of experience in radiation protection, medical physics and scientific research. Successfully redirected towards technology with a focus on programming languages ​​such as Python, JavaScript and Java, applying good practices and standing out in relational and non-relational database management, unit tests and object-oriented programming, handling Vue.Js, Django and React, with skills in agile methodologies and Design Thinking. I am a goal-oriented professional, with leadership skills, passionate about solving problems and excellent transversal communication.</p>
+          >Hello! I'm a developer with knowledge of React and Vue for interactive UI development, Node.js for building server-side applications, and Django for business logic development, plus I'm familiar with Git for project control. Versions and principles of web security to guarantee the protection of applications. I also have experience querying APIRest and configuring infrastructure using tools like Docker. In addition, I have knowledge in object-oriented programming and error handling.</p>
         <p class="text-subtitle-eng">
-          I recently completed an intensive academic program in data science, combining mathematical-statistical skills with programming to analyze data and build predictive machine learning models and the configuration of neural networks that would help computers make decisions in complex situations.
+          I recently completed an intensive academic program in data science, combining mathematical-statistical skills with programming to analyze data and build predictive machine learning models and neural network configurations that would help computers make decisions in complex situations.
+
+          I have skills such as problem solving, easy adaptability and integration of work teams, I am creative, goal-oriented, with leadership skills, passionate about solving problems and excellent transversal communication.
         </p>
       </div>
     </div>

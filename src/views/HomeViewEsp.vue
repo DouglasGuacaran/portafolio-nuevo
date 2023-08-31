@@ -6,10 +6,12 @@
       <div class="section1-blur">
         <h1 text class="flex text-title">Bienvenido</h1>
         <p class="text-subtitle">
-          ¡Hola! Soy un desarrollador Desarrollador FullStack junior, con 15 años de experiencia en protección radiológica, física médica e investigación científica. Redirigido exitosamente hacia la tecnología con enfoque en lenguajes de programación como Python, JavaScript y Java, aplicando buenas prácticas y destacado en gestión de bases de datos relacionales y no relacionales, pruebas unitarias y programación orientada a objetos, manejo en Vue.Js, Django y React, con habilidades en metodologías ágiles y Design Thinking. Soy un profesional orientado al logro de objetivos, con capacidad de liderazgo, apasionado por resolver problemas y de excelente comunicación transversal.
+          ¡Hola! soy un desarrollador con conocimientos en React y Vue para el desarrollo de interfaces de usuario interactivas, Node.js para construir aplicaciones del lado del servidor, y Django para el desarrollo de la lógica de negocio, además, estoy familiarizado con Git para el control de versiones y principios de seguridad web para garantizar la protección de las aplicaciones. También tengo experiencia en consultas a APIRest y en la configuración de infraestructuras utilizando herramientas como Docker. Además, tengo conocimientos en programación orientada a objetos y tratamientos de errores.
         </p>
         <p class="text-subtitle">
           Recientemente, completé un programa académico intensivo en ciencia de datos, combinando habilidades matemático-estadísticas con programación para analizar datos y construir modelos predictivos  machine learning y la configuración de redes neuronales que ayudarían a las computadoras a la toma de decisiones en situaciones complejas.
+
+          Poseo habilidades como la resolución de problemas, fácil adaptabilidad e integración de equipos de trabajo, soy creativo, orientado al logro de objetivos, con capacidad de liderazgo, apasionado por resolver problemas y de excelente comunicación transversal.
         </p>      </div>
     </div>
     <div class="about" id="about">
