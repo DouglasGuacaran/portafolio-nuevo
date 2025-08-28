@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkportafolio"]=self["webpackChunkportafolio"]||[]).push([[768],{1768:function(n,r,t){t.r(r),t.d(r,{default:function(){return a}});var e=function(){var n=this;n._self._c;return n._m(0)},o=[function(){var n=this,r=n._self._c;return r("div",[r("h1",[n._v("Error 404 esta página no existe")])])}],u={name:"Error404",components:{}},l=u,s=t(1001),i=(0,s.Z)(l,e,o,!1,null,null,null),a=i.exports}}]);
+//# sourceMappingURL=768.1571c808.js.map
